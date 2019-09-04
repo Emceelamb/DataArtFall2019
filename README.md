@@ -78,7 +78,7 @@ Since we’re not using a percentage-based grading system, let me put it another
 * [Subtle Data,](https://vimeo.com/72246588) Stefanie Posavec speaking at the 2013 Eyeo Festival
 * [How I Learned to Love Data Visualization (Again),](https://vimeo.com/159297152) Jon Schwabish speaking at the 2015 Visualized Conference
 
-September 3rd – Week 1. The lay of the land & introductions
+September 3rd – Week 1. The lay of the land & introductions - [slides](https://drive.google.com/open?id=1NpRVMIoIRud2bljle46WN-NpNTMKJjbG) shown in class
 
 **Assignment**
 * **Data Sketches:** Visualize a data set in at least three ways. Choose to work with a different visual element, drawing inspiration from gestalt principles.
@@ -182,8 +182,7 @@ November 19th – Week 11. Topic survey & overview of the landscape
 November 26th – Week 12. Discussion of readings & Color + Data Visualization & D3
 
 **Assignment**
-* Three students prepare to present the readings for next week:
-  * [A chronology of tactics: Art tackles Big Data and the environment,](http://journals.sagepub.com/doi/abs/10.1177/2053951716665869) Brooke Singer
+* Two students prepare to present the readings for next week:
   * [Dataveillance and Countervailance,]() Rita Raley
   * [You Say Data, I Say System,](https://hackernoon.com/you-say-data-i-say-system-54e84aa7a421) Jer Thorp
 
