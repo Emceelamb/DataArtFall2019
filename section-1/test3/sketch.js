@@ -1,15 +1,20 @@
 let treedata;
 
 function setup(){
-    createCanvas(900,400);
+    createCanvas(600,600);
     background(200);
     loadJSON('data/HemlockData.json', callback);    
 }
 
 function draw(){
     background(230);
-    drawViz();
+    push();
+    translate(40, height/2);
     drawMarkers();
+    drawViz();
+    pop();
+
+    line(40,0,40,height/2+100);
 }
 
 function callback(data) {
@@ -26,46 +31,50 @@ function callback(data) {
             // console.log(year, rawRingWidth, growthIndex);
         }
     }
-    drawViz();
-    //drawMarkers();
+    //drawViz();
 }
 
 function drawViz(){
-    text("Growth Index", 25, 50);
-    text("Raw Ring Width mm", 25, 300);
-    push();
-    translate(20,0);
+        beginShape();
     for(let i = 0; i < treedata.length; i++){
-        let ringW = map(treedata[i]['RawRingWidth_mm'], 0, 1.5, 0,100);
-        let growIndex = map(treedata[i]['GrowthIndex'], 0, 2, 0, 100);
-        push();
-        translate(i*2, height/2);
-        stroke(0,130);
+        let nSize = map(treedata[i]['RawRingWidth_mm'], 0, 1.5, 0,100);
+        //push();
+        //translate(i,height/2);
+        stroke(230,0,0,130);
+        vertex(i, 100-nSize)
         noFill();
-        line(0,0,0, growIndex);
-        pop();
+        //pop();
     }
+        endShape();
+
+        beginShape();
     for(let i = 0; i < treedata.length; i++){
-        let ringW = map(treedata[i]['RawRingWidth_mm'], 0, 1.5, 0,100);
-        push();
-        translate(i*2, height/2-101);
-        stroke(0,30);
+        let nSize = map(treedata[i]['GrowthIndex'], 0, 1.5, 0,100);
+        //push();
+        //translate(i,height/2);
+        stroke(0,0,230,130);
+        vertex(i, 100-nSize)
         noFill();
-        line(0,100,0, 100-ringW);
-        pop();
+        //pop();
     }
-    pop();
+        endShape();
 }
 
 function drawMarkers(){
-    for (let i=0;i<treedata.length; i++){
-       push();
-        stroke(0);
-       line(0, 0, 0, height); 
-       pop();
-    }
-    text('1579', 0,200);
-    text('2000', width-40, 200);
+    line(0,100, width-100, 100);
+    noStroke();
+    fill(230,0,0);
+    ellipse(0, 150, 10,10);
+    fill(0,0,230);
+    ellipse(0, 170, 10,10);
+
+    strokeWeight(1);
+    stroke(0);
+    noFill();
+    text('Raw Ring Width mm',20, 155);
+    text('Growth Index',20, 175);
+
+    
 }
 
 treedata = [

@@ -1,18 +1,24 @@
 let treedata;
 
-function setup(){
-    createCanvas(900,400);
-    background(200);
-    loadJSON('data/HemlockData.json', callback);    
+let test3 = function(p){
+    p.setup = function(){
+    p.createCanvas(600,400);
+    p.background(200);
+    p.loadJSON('data/HemlockData.json', callback);    
+    }
+
+    p.draw=function(){
+    p.background(230);
+    p.push();
+    p.translate(40, p.height/2);
+    p.drawMarkers();
+    p.drawViz();
+    p.pop();
+
+    p.line(40,0,40,p.height/2+100);
 }
 
-function draw(){
-    background(230);
-    drawViz();
-    drawMarkers();
-}
-
-function callback(data) {
+    function callback(data) {
     console.log('done loading data');
     // console.log(data);
 //    treedata = data;
@@ -26,47 +32,191 @@ function callback(data) {
             // console.log(year, rawRingWidth, growthIndex);
         }
     }
-    drawViz();
-    //drawMarkers();
+    //drawViz();
 }
 
-function drawViz(){
-    text("Growth Index", 25, 50);
-    text("Raw Ring Width mm", 25, 300);
-    push();
-    translate(20,0);
+        p.drawViz=function(){
+        p.beginShape();
     for(let i = 0; i < treedata.length; i++){
-        let ringW = map(treedata[i]['RawRingWidth_mm'], 0, 1.5, 0,100);
-        let growIndex = map(treedata[i]['GrowthIndex'], 0, 2, 0, 100);
-        push();
-        translate(i*2, height/2);
-        stroke(0,130);
-        noFill();
-        line(0,0,0, growIndex);
-        pop();
+        let nSize = p.map(treedata[i]['RawRingWidth_mm'], 0, 1.5, 0,100);
+        //push();
+        //translate(i,height/2);
+        p.stroke(230,0,0,130);
+        p.vertex(i, 100-nSize)
+        p.noFill();
+        //pop();
     }
+        p.endShape();
+
+        p.beginShape();
     for(let i = 0; i < treedata.length; i++){
-        let ringW = map(treedata[i]['RawRingWidth_mm'], 0, 1.5, 0,100);
-        push();
-        translate(i*2, height/2-101);
-        stroke(0,30);
-        noFill();
-        line(0,100,0, 100-ringW);
-        pop();
+        let nSize = p.map(treedata[i]['GrowthIndex'], 0, 1.5, 0,100);
+        //push();
+        //translate(i,height/2);
+        p.stroke(0,0,230,130);
+        p.vertex(i, 100-nSize)
+        p.noFill();
+        //pop();
     }
-    pop();
+        p.endShape();
 }
 
-function drawMarkers(){
-    for (let i=0;i<treedata.length; i++){
-       push();
-        stroke(0);
-       line(0, 0, 0, height); 
-       pop();
-    }
-    text('1579', 0,200);
-    text('2000', width-40, 200);
+    p.drawMarkers=function(){
+    p.line(0,100, p.width-100, 100);
+    p.noStroke();
+    p.fill(230,0,0);
+    p.ellipse(0, 150, 10,10);
+    p.fill(0,0,230);
+    p.ellipse(0, 170, 10,10);
+
+    p.strokeWeight(1);
+    p.stroke(0);
+    p.noFill();
+    p.text('Raw Ring Width mm',20, 155);
+    p.text('Growth Index',20, 175);
+
+    
 }
+};
+
+let test2 = function(p){
+
+    p.setup=function(){
+        p.createCanvas(900,400);
+        p.background(200);
+        p.loadJSON('data/HemlockData.json', callback);    
+    }
+
+    p.draw=function(){
+        p.background(230);
+        p.drawViz();
+        p.drawMarkers();
+    }
+
+    function callback(data) {
+        console.log('done loading data');
+        // console.log(data);
+    //    treedata = data;
+
+        if(treedata){
+            for(let i = 0 ; i<treedata.length; i ++){
+                // console.log(treedata[i]);
+                let year= treedata[i].year;
+                let rawRingWidth = treedata[i]['RawRingWidth_mm'];
+                let growthIndex = treedata[i].GrowthIndex;
+                // console.log(year, rawRingWidth, growthIndex);
+            }
+        }
+        p.drawViz();
+        //drawMarkers();
+    }
+
+    p.drawViz=function(){
+        p.text("Growth Index", 25, 50);
+        p.text("Raw Ring Width mm", 25, 300);
+        p.push();
+        p.translate(20,0);
+        for(let i = 0; i < treedata.length; i++){
+            let ringW = p.map(treedata[i]['RawRingWidth_mm'], 0, 1.5, 0,100);
+            let growIndex = p.map(treedata[i]['GrowthIndex'], 0, 2, 0, 100);
+            p.push();
+            p.translate(i*2, p.height/2);
+            p.stroke(0,130);
+            p.noFill();
+            p.line(0,0,0, growIndex);
+            p.pop();
+        }
+        for(let i = 0; i < treedata.length; i++){
+            let ringW = p.map(treedata[i]['RawRingWidth_mm'], 0, 1.5, 0,100);
+            p.push();
+            p.translate(i*2, p.height/2-101);
+            p.stroke(0,30);
+            p.noFill();
+            p.line(0,100,0, 100-ringW);
+            p.pop();
+        }
+        p.pop();
+    }
+
+    p.drawMarkers=function(){
+        for (let i=0;i<treedata.length; i++){
+        p.push();
+        p.stroke(0);
+        p.line(0, 0, 0, p.height); 
+        p.pop();
+        }
+        p.text('1579', 0,200);
+        p.text('2000', p.width-40, 200);
+    }
+}
+
+let test1 = function(p){
+
+    p.setup = function(){
+        p.createCanvas(600,600);
+        p.background(200);
+        p.loadJSON('data/HemlockData.json', callback);    
+    }
+
+    p.draw = function(){
+        p.background(230);
+        p.drawViz();
+        p.drawName();
+    }
+
+    function callback(data) {
+        console.log('done loading data');
+        // console.log(data);
+    //    treedata = data;
+
+    if(treedata){
+        for(let i = 0 ; i<treedata.length; i ++){
+            // console.log(treedata[i]);
+                let year= treedata[i].year;
+                let rawRingWidth = treedata[i]['RawRingWidth_mm'];
+                let growthIndex = treedata[i].GrowthIndex;
+                // console.log(year, rawRingWidth, growthIndex);
+            }
+        }
+        p.drawViz();
+    }
+
+    p.drawViz = function(){
+        for(let i = 0; i < treedata.length; i++){
+            let nSize = p.map(treedata[i]['RawRingWidth_mm'], 0, 1.5, 25,400);
+            p.push();
+            p.translate(p.width/2,p.height/2);
+            p.stroke(0,30);
+            p.noFill();
+            p.ellipse(0,0,nSize,nSize);
+            p.pop();
+        }
+    }
+
+    p.drawName = function(){
+        for(let i = 0; i < treedata.length; i++){
+            let nSize = p.map(treedata[i]['RawRingWidth_mm'], 0, 1.5, 25,400);
+            //console.log(mouseX); 
+            if(p.mouseX < p.width/2 + nSize/2+2&&p.mouseX>p.width/2+nSize/2-2||p.mouseX < p.width/2 - nSize/2+2&&p.mouseX>p.width/2-nSize/2-2){
+                //console.log(treedata[i].year, treedata[i]['RawRingWidth_mm'], nSize)
+                //console.log(mouseX, nSize, treedata[i].year);
+                p.text(treedata[i].year + ' - ' + treedata[i]['RawRingWidth_mm'], p.width-100, 100);
+                p.push();
+                p.noFill();
+                p.strokeWeight(4);
+                p.stroke(255,0,0);
+                p.ellipse(p.width/2, p.height/2, nSize, nSize);
+                p.pop();
+            }
+        }
+    }
+} 
+
+
+
+new p5(test3, 'test3');
+new p5(test2, 'test2');
+new p5(test1, 'test1');
 
 treedata = [
     {

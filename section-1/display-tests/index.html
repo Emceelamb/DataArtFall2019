@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>test</title>
+    <style> body {padding: 0; margin: 0;} </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.js"></script>
+    <script src="sketch.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+    <style>
+      #test3 canvas, #test2 canvas, #test1 canvas{
+        margin: auto;
+        display: block;
+        padding: 0;
+      }
+
+      h2{
+        padding-top:25px;
+      }
+
+    </style>
+  </head>
+  <body>
+      <div class="container">
+        <div class="twelve columns">
+          <h1>Three simple visualizations of Hemlock Data</h1>
+          <p>These are three simple visualizations based on a dataset about hemlock growth. </p>
+      
+          <h2>Simple line graph</h2>
+          <p>This simple line graph maps the growth and index and raw ring width data points. The scale is the same between the measured ring widths and the growth index. The values of the ring width are mapped from 0-1.5mm to 0-100 pixels. The growth index is mapped from 0-2 to 0-100. The lines are color differentiated but doesn't reveal too much except there appears to be a correlation between the growth index and ring width.</p>
+          <div id="test3"></div>
+          
+          <h2>Simple bar graph</h2>
+          <p>This simple bar graph displays two data points chronologically. Going up the bars show the growth index while going down it shows the raw ring width. This graph attempts to show two barcharts and how they correlate, however since the data points are similar it looks like a waveform with the bottom graph simply an inversion of the top graph.</p>
+          <div id="test2"></div>
+          
+          <h2>Interactive ring graph</h2>
+          <p>This graph attempts to visually represent the ring width data. By mapping the ring widths to the ellipse width it creates an appearance of tree rings. Rolling over the rings will display the year and ring width measurement. The data is not particularly cleaned so when there are multiple instances of the same measurement the info displays overlapped.</p>
+          <div id="test1"></div>
+        </div>
+      </div>
+
+  </body>
+</html>
