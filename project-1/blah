@@ -1,0 +1,133 @@
+  240 15.092910561 10-18-98-174.dynapool.wireless.nyu.edu → cdnjs.cloudflare.com TCP 74 55784 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=2578512212 TSecr=0 WS=128
+  244 15.095960753 cdnjs.cloudflare.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 66 443 → 55784 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1300 SACK_PERM=1 WS=1024
+  276 15.329486894 10-18-98-174.dynapool.wireless.nyu.edu → api.github.com TCP 74 40516 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=2240633480 TSecr=0 WS=128
+  278 15.337201533 api.github.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 40516 [SYN, ACK] Seq=0 Ack=1 Win=28480 Len=0 MSS=1300 SACK_PERM=1 TSval=300868738 TSecr=2240633480 WS=1024
+  321 15.618772351 10-18-98-174.dynapool.wireless.nyu.edu → cds.s5x3j6q5.hwcdn.net TCP 74 41144 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=36914549 TSecr=0 WS=128
+  322 15.621349905 cds.s5x3j6q5.hwcdn.net → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 41144 [SYN, ACK] Seq=0 Ack=1 Win=28960 Len=0 MSS=1300 SACK_PERM=1 TSval=2765987793 TSecr=36914549 WS=512
+  333 15.659037347 10-18-98-174.dynapool.wireless.nyu.edu → api.github.com TCP 74 40520 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=2240633810 TSecr=0 WS=128
+  334 15.667531324 api.github.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 40520 [SYN, ACK] Seq=0 Ack=1 Win=28480 Len=0 MSS=1300 SACK_PERM=1 TSval=294406173 TSecr=2240633810 WS=1024
+  362 16.057539973 10-18-98-174.dynapool.wireless.nyu.edu → consent.trustarc.com TCP 74 43168 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=487949964 TSecr=0 WS=128
+  369 16.142708733 consent.trustarc.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 43168 [SYN, ACK] Seq=0 Ack=1 Win=26847 Len=0 MSS=1300 SACK_PERM=1 TSval=327760543 TSecr=487949964 WS=256
+  433 16.343343927 10-18-98-174.dynapool.wireless.nyu.edu → lga25s54-in-f202.1e100.net TCP 74 43448 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1381561647 TSecr=0 WS=128
+  448 16.350407352 lga25s54-in-f202.1e100.net → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 43448 [SYN, ACK] Seq=0 Ack=1 Win=60192 Len=0 MSS=1300 SACK_PERM=1 TSval=3165143831 TSecr=1381561647 WS=256
+  518 16.558515033 10-18-98-174.dynapool.wireless.nyu.edu → store.arduino.cc TCP 74 52450 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=2360757945 TSecr=0 WS=128
+  519 16.560022940 10-18-98-174.dynapool.wireless.nyu.edu → store.arduino.cc TCP 74 52452 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=2360757946 TSecr=0 WS=128
+  520 16.568699244 store.arduino.cc → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 52452 [SYN, ACK] Seq=0 Ack=1 Win=28960 Len=0 MSS=1300 SACK_PERM=1 TSval=1054569668 TSecr=2360757946 WS=256
+  522 16.568745059 store.arduino.cc → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 52450 [SYN, ACK] Seq=0 Ack=1 Win=28960 Len=0 MSS=1300 SACK_PERM=1 TSval=1054569668 TSecr=2360757945 WS=256
+  539 16.652340155 10-18-98-174.dynapool.wireless.nyu.edu → store.arduino.cc TCP 74 52454 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=2360758039 TSecr=0 WS=128
+  541 16.660652987 store.arduino.cc → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 52454 [SYN, ACK] Seq=0 Ack=1 Win=28960 Len=0 MSS=1300 SACK_PERM=1 TSval=1054569691 TSecr=2360758039 WS=256
+  544 16.663517007 10-18-98-174.dynapool.wireless.nyu.edu → store.arduino.cc TCP 74 52456 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=2360758050 TSecr=0 WS=128
+  548 16.671983235 store.arduino.cc → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 52456 [SYN, ACK] Seq=0 Ack=1 Win=28960 Len=0 MSS=1300 SACK_PERM=1 TSval=1054569694 TSecr=2360758050 WS=256
+  746 28.402930625 10-18-98-174.dynapool.wireless.nyu.edu → star-mini.c10r.facebook.com TCP 74 47804 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=54378817 TSecr=0 WS=128
+  747 28.405862846 star-mini.c10r.facebook.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 47804 [SYN, ACK] Seq=0 Ack=1 Win=27760 Len=0 MSS=1300 SACK_PERM=1 TSval=3059296752 TSecr=54378817 WS=256
+  780 28.770129128 10-18-98-174.dynapool.wireless.nyu.edu → d228z91au11ukj.cloudfront.net TCP 74 33806 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1098896633 TSecr=0 WS=128
+  787 28.774793690 d228z91au11ukj.cloudfront.net → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 33806 [SYN, ACK] Seq=0 Ack=1 Win=28960 Len=0 MSS=1300 SACK_PERM=1 TSval=674182458 TSecr=1098896633 WS=256
+  853 29.086624771 10-18-98-174.dynapool.wireless.nyu.edu → scontent.xx.fbcdn.net TCP 74 41272 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1811730534 TSecr=0 WS=128
+  854 29.089333705 scontent.xx.fbcdn.net → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 41272 [SYN, ACK] Seq=0 Ack=1 Win=27760 Len=0 MSS=1300 SACK_PERM=1 TSval=389319191 TSecr=1811730534 WS=256
+  874 29.477167994 10-18-98-174.dynapool.wireless.nyu.edu → scontent.xx.fbcdn.net TCP 74 41274 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1811730924 TSecr=0 WS=128
+  875 29.479817388 scontent.xx.fbcdn.net → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 41274 [SYN, ACK] Seq=0 Ack=1 Win=27760 Len=0 MSS=1300 SACK_PERM=1 TSval=1549648377 TSecr=1811730924 WS=256
+  877 29.562386632 10-18-98-174.dynapool.wireless.nyu.edu → scontent.xx.fbcdn.net TCP 74 41276 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1811731010 TSecr=0 WS=128
+  878 29.564997311 scontent.xx.fbcdn.net → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 41276 [SYN, ACK] Seq=0 Ack=1 Win=27760 Len=0 MSS=1300 SACK_PERM=1 TSval=1402660570 TSecr=1811731010 WS=256
+ 1255 31.012025411 10-18-98-174.dynapool.wireless.nyu.edu → scontent.xx.fbcdn.net TCP 74 41278 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1811732459 TSecr=0 WS=128
+ 1263 31.015125937 scontent.xx.fbcdn.net → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 41278 [SYN, ACK] Seq=0 Ack=1 Win=27760 Len=0 MSS=1300 SACK_PERM=1 TSval=1746841871 TSecr=1811732459 WS=256
+ 1299 32.337634926 10-18-98-174.dynapool.wireless.nyu.edu → star.c10r.facebook.com TCP 74 56054 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=81868296 TSecr=0 WS=128
+ 1300 32.340402858 star.c10r.facebook.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 56054 [SYN, ACK] Seq=0 Ack=1 Win=27760 Len=0 MSS=1300 SACK_PERM=1 TSval=828949184 TSecr=81868296 WS=256
+ 1315 32.354160365 10-18-98-174.dynapool.wireless.nyu.edu → star.c10r.facebook.com TCP 74 56056 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=81868312 TSecr=0 WS=128
+ 1318 32.356810662 star.c10r.facebook.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 56056 [SYN, ACK] Seq=0 Ack=1 Win=27760 Len=0 MSS=1300 SACK_PERM=1 TSval=2871706445 TSecr=81868312 WS=256
+ 1332 32.417516991 10-18-98-174.dynapool.wireless.nyu.edu → scontent.xx.fbcdn.net TCP 74 41284 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1811733865 TSecr=0 WS=128
+ 1333 32.419892526 10-18-98-174.dynapool.wireless.nyu.edu → scontent.xx.fbcdn.net TCP 74 41286 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1811733867 TSecr=0 WS=128
+ 1334 32.420840353 scontent.xx.fbcdn.net → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 41284 [SYN, ACK] Seq=0 Ack=1 Win=27760 Len=0 MSS=1300 SACK_PERM=1 TSval=3219974616 TSecr=1811733865 WS=256
+ 1336 32.422797207 scontent.xx.fbcdn.net → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 41286 [SYN, ACK] Seq=0 Ack=1 Win=27760 Len=0 MSS=1300 SACK_PERM=1 TSval=953915027 TSecr=1811733867 WS=256
+ 1344 32.695722412 10-18-98-174.dynapool.wireless.nyu.edu → scontent.xx.fbcdn.net TCP 74 41288 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1811734143 TSecr=0 WS=128
+ 1345 32.703755363 10-18-98-174.dynapool.wireless.nyu.edu → scontent.xx.fbcdn.net TCP 74 41290 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1811734151 TSecr=0 WS=128
+ 1346 32.708056148 scontent.xx.fbcdn.net → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 41290 [SYN, ACK] Seq=0 Ack=1 Win=27760 Len=0 MSS=1300 SACK_PERM=1 TSval=3059986266 TSecr=1811734151 WS=256
+ 1348 32.718926412 10-18-98-174.dynapool.wireless.nyu.edu → scontent.xx.fbcdn.net TCP 74 41292 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1811734166 TSecr=0 WS=128
+ 1349 32.721740365 scontent.xx.fbcdn.net → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 41292 [SYN, ACK] Seq=0 Ack=1 Win=27760 Len=0 MSS=1300 SACK_PERM=1 TSval=3219974917 TSecr=1811734166 WS=256
+ 1642 35.293066506 10-18-98-174.dynapool.wireless.nyu.edu → star.c10r.facebook.com TCP 74 56068 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=81871251 TSecr=0 WS=128
+ 1646 35.296219162 star.c10r.facebook.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 56068 [SYN, ACK] Seq=0 Ack=1 Win=27760 Len=0 MSS=1300 SACK_PERM=1 TSval=2205095121 TSecr=81871251 WS=256
+ 1791 36.683337916 10-18-98-174.dynapool.wireless.nyu.edu → scontent.xx.fbcdn.net TCP 74 41296 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1811738130 TSecr=0 WS=128
+ 1793 36.685800782 scontent.xx.fbcdn.net → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 41296 [SYN, ACK] Seq=0 Ack=1 Win=27760 Len=0 MSS=1300 SACK_PERM=1 TSval=678890919 TSecr=1811738130 WS=256
+ 2454 43.278946424 10-18-98-174.dynapool.wireless.nyu.edu → e10856.b.akamaiedge.net TCP 74 41978 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=2925310000 TSecr=0 WS=128
+ 2455 43.282075067 e10856.b.akamaiedge.net → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 41978 [SYN, ACK] Seq=0 Ack=1 Win=28960 Len=0 MSS=1300 SACK_PERM=1 TSval=1858758678 TSecr=2925310000 WS=128
+ 2802 73.255172336 10-18-98-174.dynapool.wireless.nyu.edu → 173.194.31.87 TCP 74 40514 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=3597634651 TSecr=0 WS=128
+ 2803 73.259228535 173.194.31.87 → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 40514 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1300 SACK_PERM=1 TSval=3409196261 TSecr=3597634651 WS=256
+ 4126 156.611062010 10-18-98-174.dynapool.wireless.nyu.edu → e8220.dscd.akamaiedge.net TCP 74 34186 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1656541541 TSecr=0 WS=128
+ 4127 156.616277945 e8220.dscd.akamaiedge.net → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 34186 [SYN, ACK] Seq=0 Ack=1 Win=28960 Len=0 MSS=1300 SACK_PERM=1 TSval=1153684369 TSecr=1656541541 WS=128
+ 4168 156.712883869 10-18-98-174.dynapool.wireless.nyu.edu → tiles.r53-2.services.mozilla.com TCP 74 45074 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1035526066 TSecr=0 WS=128
+ 4169 156.712940342 10-18-98-174.dynapool.wireless.nyu.edu → tiles.r53-2.services.mozilla.com TCP 74 45076 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1035526066 TSecr=0 WS=128
+ 4170 156.789558574 tiles.r53-2.services.mozilla.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 45076 [SYN, ACK] Seq=0 Ack=1 Win=26847 Len=0 MSS=1300 SACK_PERM=1 TSval=704052759 TSecr=1035526066 WS=256
+ 4172 156.790739152 tiles.r53-2.services.mozilla.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 45074 [SYN, ACK] Seq=0 Ack=1 Win=26847 Len=0 MSS=1300 SACK_PERM=1 TSval=704052759 TSecr=1035526066 WS=256
+ 5688 256.970954846 10-18-98-174.dynapool.wireless.nyu.edu → sync-699-us-west-2.sync.services.mozilla.com TCP 74 53354 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1407914222 TSecr=0 WS=128
+ 5689 257.144519103 sync-699-us-west-2.sync.services.mozilla.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 53354 [SYN, ACK] Seq=0 Ack=1 Win=17898 Len=0 MSS=1300 SACK_PERM=1 TSval=3174388605 TSecr=1407914222 WS=128
+ 5710 257.534633889 10-18-98-174.dynapool.wireless.nyu.edu → api.accounts.firefox.com TCP 74 59376 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=3917674337 TSecr=0 WS=128
+ 5711 257.612617415 api.accounts.firefox.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 59376 [SYN, ACK] Seq=0 Ack=1 Win=26847 Len=0 MSS=1300 SACK_PERM=1 TSval=413409367 TSecr=3917674337 WS=256
+ 5768 258.488544696 10-18-98-174.dynapool.wireless.nyu.edu → prod.webextstoragesync.prod.cloudops.mozgcp.net TCP 74 33356 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=2873183516 TSecr=0 WS=128
+ 5769 258.492530245 prod.webextstoragesync.prod.cloudops.mozgcp.net → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 33356 [SYN, ACK] Seq=0 Ack=1 Win=60192 Len=0 MSS=1300 SACK_PERM=1 TSval=744231303 TSecr=2873183516 WS=256
+ 5819 259.465105517 10-18-98-174.dynapool.wireless.nyu.edu → www.google.com TCP 74 41142 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1280463175 TSecr=0 WS=128
+ 5820 259.468659563 www.google.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 41142 [SYN, ACK] Seq=0 Ack=1 Win=60192 Len=0 MSS=1300 SACK_PERM=1 TSval=1414800299 TSecr=1280463175 WS=256
+ 5968 261.017755313 10-18-98-174.dynapool.wireless.nyu.edu → encrypted-tbn0.gstatic.com TCP 74 33648 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=3154375912 TSecr=0 WS=128
+ 5970 261.021230124 encrypted-tbn0.gstatic.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 33648 [SYN, ACK] Seq=0 Ack=1 Win=60192 Len=0 MSS=1300 SACK_PERM=1 TSval=2214325078 TSecr=3154375912 WS=256
+ 6079 263.065773747 10-18-98-174.dynapool.wireless.nyu.edu → www.raspberrypi.org TCP 74 33308 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1503854368 TSecr=0 WS=128
+ 6080 263.069073064 www.raspberrypi.org → 10-18-98-174.dynapool.wireless.nyu.edu TCP 66 443 → 33308 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1300 SACK_PERM=1 WS=1024
+ 6128 263.864451699 10-18-98-174.dynapool.wireless.nyu.edu → cds.j3z9t3p6.hwcdn.net TCP 74 52540 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1643344745 TSecr=0 WS=128
+ 6130 263.864979330 10-18-98-174.dynapool.wireless.nyu.edu → cdnjs.cloudflare.com TCP 74 55858 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=2578760981 TSecr=0 WS=128
+ 6139 263.867016775 cds.j3z9t3p6.hwcdn.net → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 52540 [SYN, ACK] Seq=0 Ack=1 Win=28960 Len=0 MSS=1300 SACK_PERM=1 TSval=2766236036 TSecr=1643344745 WS=512
+ 6141 263.867887586 cdnjs.cloudflare.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 66 443 → 55858 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1300 SACK_PERM=1 WS=1024
+ 6268 263.934635690 10-18-98-174.dynapool.wireless.nyu.edu → googleadapis.l.google.com TCP 74 48046 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1166418295 TSecr=0 WS=128
+ 6269 263.934770573 10-18-98-174.dynapool.wireless.nyu.edu → googleadapis.l.google.com TCP 74 48048 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1166418295 TSecr=0 WS=128
+ 6271 263.939164640 googleadapis.l.google.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 48046 [SYN, ACK] Seq=0 Ack=1 Win=60192 Len=0 MSS=1300 SACK_PERM=1 TSval=3998990289 TSecr=1166418295 WS=256
+ 6273 263.939210873 googleadapis.l.google.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 48048 [SYN, ACK] Seq=0 Ack=1 Win=60192 Len=0 MSS=1300 SACK_PERM=1 TSval=31796905 TSecr=1166418295 WS=256
+ 6344 264.275118606 10-18-98-174.dynapool.wireless.nyu.edu → gstaticadssl.l.google.com TCP 74 39272 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1699732794 TSecr=0 WS=128
+ 6345 264.278814048 gstaticadssl.l.google.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 39272 [SYN, ACK] Seq=0 Ack=1 Win=60192 Len=0 MSS=1300 SACK_PERM=1 TSval=1793875945 TSecr=1699732794 WS=256
+ 6471 270.150766691 10-18-98-174.dynapool.wireless.nyu.edu → davidhunt.ie TCP 74 38090 → 80 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=2135677743 TSecr=0 WS=128
+ 6472 270.232389320 davidhunt.ie → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 80 → 38090 [SYN, ACK] Seq=0 Ack=1 Win=14480 Len=0 MSS=1300 SACK_PERM=1 TSval=508535831 TSecr=2135677743 WS=128
+ 6485 271.568835155 10-18-98-174.dynapool.wireless.nyu.edu → davidhunt.ie TCP 74 38092 → 80 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=2135679161 TSecr=0 WS=128
+ 6486 271.650747506 davidhunt.ie → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 80 → 38092 [SYN, ACK] Seq=0 Ack=1 Win=14480 Len=0 MSS=1300 SACK_PERM=1 TSval=508537249 TSecr=2135679161 WS=128
+ 6612 272.858694080 10-18-98-174.dynapool.wireless.nyu.edu → davidhunt.ie TCP 74 38094 → 80 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=2135680451 TSecr=0 WS=128
+ 6613 272.859502876 10-18-98-174.dynapool.wireless.nyu.edu → davidhunt.ie TCP 74 38096 → 80 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=2135680452 TSecr=0 WS=128
+ 6614 272.860387361 10-18-98-174.dynapool.wireless.nyu.edu → davidhunt.ie TCP 74 38098 → 80 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=2135680453 TSecr=0 WS=128
+ 6615 272.860499537 10-18-98-174.dynapool.wireless.nyu.edu → davidhunt.ie TCP 74 38100 → 80 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=2135680453 TSecr=0 WS=128
+ 6616 272.860586709 10-18-98-174.dynapool.wireless.nyu.edu → davidhunt.ie TCP 74 38102 → 80 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=2135680453 TSecr=0 WS=128
+ 6628 272.940567614 davidhunt.ie → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 80 → 38094 [SYN, ACK] Seq=0 Ack=1 Win=14480 Len=0 MSS=1300 SACK_PERM=1 TSval=508538539 TSecr=2135680451 WS=128
+ 6631 272.941243577 davidhunt.ie → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 80 → 38096 [SYN, ACK] Seq=0 Ack=1 Win=14480 Len=0 MSS=1300 SACK_PERM=1 TSval=508538540 TSecr=2135680452 WS=128
+ 6634 272.941850557 davidhunt.ie → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 80 → 38098 [SYN, ACK] Seq=0 Ack=1 Win=14480 Len=0 MSS=1300 SACK_PERM=1 TSval=508538540 TSecr=2135680453 WS=128
+ 6636 272.941862322 davidhunt.ie → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 80 → 38102 [SYN, ACK] Seq=0 Ack=1 Win=14480 Len=0 MSS=1300 SACK_PERM=1 TSval=508538540 TSecr=2135680453 WS=128
+ 6638 272.941869015 davidhunt.ie → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 80 → 38100 [SYN, ACK] Seq=0 Ack=1 Win=14480 Len=0 MSS=1300 SACK_PERM=1 TSval=508538540 TSecr=2135680453 WS=128
+ 7188 274.502591979 10-18-98-174.dynapool.wireless.nyu.edu → 1.gravatar.com TCP 74 59892 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=941270304 TSecr=0 WS=128
+ 7189 274.506328523 1.gravatar.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 66 443 → 59892 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1300 SACK_PERM=1 WS=512
+ 7196 274.513209037 10-18-98-174.dynapool.wireless.nyu.edu → s0.wp.com    TCP 74 36420 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=3970403933 TSecr=0 WS=128
+ 7197 274.513293641 10-18-98-174.dynapool.wireless.nyu.edu → secure.gravatar.com TCP 74 59896 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=941270315 TSecr=0 WS=128
+ 7216 274.517941338    s0.wp.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 66 443 → 36420 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1300 SACK_PERM=1 WS=512
+ 7218 274.517975721 secure.gravatar.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 66 443 → 59896 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1300 SACK_PERM=1 WS=512
+ 7281 274.566802674 10-18-98-174.dynapool.wireless.nyu.edu → 2.gravatar.com TCP 74 59898 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=941270368 TSecr=0 WS=128
+ 7283 274.569886751 2.gravatar.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 66 443 → 59898 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1300 SACK_PERM=1 WS=512
+ 7527 276.701864008 10-18-98-174.dynapool.wireless.nyu.edu → widgets.wp.com TCP 74 36426 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=3970406121 TSecr=0 WS=128
+ 7530 276.705774268 widgets.wp.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 66 443 → 36426 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1300 SACK_PERM=1 WS=512
+ 7551 276.741038843 10-18-98-174.dynapool.wireless.nyu.edu → s.w.org      TCP 74 51408 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=2613010251 TSecr=0 WS=128
+ 7553 276.744171914      s.w.org → 10-18-98-174.dynapool.wireless.nyu.edu TCP 66 443 → 51408 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1300 SACK_PERM=1 WS=512
+ 7602 277.286535166 10-18-98-174.dynapool.wireless.nyu.edu → public-api.wordpress.com TCP 74 53990 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=548862495 TSecr=0 WS=128
+ 7603 277.289862623 public-api.wordpress.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 66 443 → 53990 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1300 SACK_PERM=1 WS=512
+ 7606 277.294236108 10-18-98-174.dynapool.wireless.nyu.edu → public-api.wordpress.com TCP 74 53992 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=548862503 TSecr=0 WS=128
+ 7612 277.298317022 public-api.wordpress.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 66 443 → 53992 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1300 SACK_PERM=1 WS=512
+ 7936 288.526085966 10-18-98-174.dynapool.wireless.nyu.edu → ytimg-edge-static.l.google.com TCP 74 58266 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=3837754473 TSecr=0 WS=128
+ 7937 288.529673322 ytimg-edge-static.l.google.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 58266 [SYN, ACK] Seq=0 Ack=1 Win=60192 Len=0 MSS=1300 SACK_PERM=1 TSval=1300989812 TSecr=3837754473 WS=256
+ 9572 353.046279152 10-18-98-174.dynapool.wireless.nyu.edu → encrypted-tbn2.gstatic.com TCP 74 48828 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=3975143805 TSecr=0 WS=128
+ 9573 353.049589422 encrypted-tbn2.gstatic.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 48828 [SYN, ACK] Seq=0 Ack=1 Win=60192 Len=0 MSS=1300 SACK_PERM=1 TSval=1424789704 TSecr=3975143805 WS=256
+ 9628 358.114561660 10-18-98-174.dynapool.wireless.nyu.edu → raspberrypi.stackexchange.com TCP 74 59704 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=174196751 TSecr=0 WS=128
+ 9629 358.117712199 raspberrypi.stackexchange.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 59704 [SYN, ACK] Seq=0 Ack=1 Win=28960 Len=0 MSS=1300 SACK_PERM=1 TSval=1370198571 TSecr=174196751 WS=512
+ 9663 358.677085141 10-18-98-174.dynapool.wireless.nyu.edu → i.stack.imgur.com.cdn.cloudflare.net TCP 74 37530 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=2186434007 TSecr=0 WS=128
+ 9681 358.692127404 i.stack.imgur.com.cdn.cloudflare.net → 10-18-98-174.dynapool.wireless.nyu.edu TCP 66 443 → 37530 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1300 SACK_PERM=1 WS=1024
+ 9768 359.318862706 10-18-98-174.dynapool.wireless.nyu.edu → qa.sockets.stackexchange.com TCP 74 36924 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=3910010758 TSecr=0 WS=128
+ 9769 359.322614052 qa.sockets.stackexchange.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 74 443 → 36924 [SYN, ACK] Seq=0 Ack=1 Win=28960 Len=0 MSS=1300 SACK_PERM=1 TSval=1704564698 TSecr=3910010758 WS=512
+10512 386.010697670 10-18-98-174.dynapool.wireless.nyu.edu → forum.allaboutcircuits.com TCP 74 33826 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1205561942 TSecr=0 WS=128
+10513 386.016011067 forum.allaboutcircuits.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 66 443 → 33826 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1300 SACK_PERM=1 WS=1024
+10597 386.923250603 10-18-98-174.dynapool.wireless.nyu.edu → www.allaboutcircuits.com TCP 74 34112 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1895151193 TSecr=0 WS=128
+10598 386.923406413 10-18-98-174.dynapool.wireless.nyu.edu → www.allaboutcircuits.com TCP 74 34114 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1895151193 TSecr=0 WS=128
+10599 386.924424396 10-18-98-174.dynapool.wireless.nyu.edu → www.allaboutcircuits.com TCP 74 34116 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1895151194 TSecr=0 WS=128
+10600 386.924517046 10-18-98-174.dynapool.wireless.nyu.edu → www.allaboutcircuits.com TCP 74 34118 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1895151194 TSecr=0 WS=128
+10601 386.925745097 10-18-98-174.dynapool.wireless.nyu.edu → www.allaboutcircuits.com TCP 74 34120 → 443 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=1895151196 TSecr=0 WS=128
+10609 386.927163455 www.allaboutcircuits.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 66 443 → 34114 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1300 SACK_PERM=1 WS=1024
+10611 386.927367337 www.allaboutcircuits.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 66 443 → 34112 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1300 SACK_PERM=1 WS=1024
+10614 386.929513103 www.allaboutcircuits.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 66 443 → 34118 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1300 SACK_PERM=1 WS=1024
+10616 386.929542406 www.allaboutcircuits.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 66 443 → 34116 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1300 SACK_PERM=1 WS=1024
+10620 386.932892561 www.allaboutcircuits.com → 10-18-98-174.dynapool.wireless.nyu.edu TCP 66 443 → 34120 [SYN, ACK] Seq=0 Ack=1 Win=29200 Len=0 MSS=1300 SACK_PERM=1 WS=1024
