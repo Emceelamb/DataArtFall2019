@@ -33,5 +33,5 @@ def triggerACK():
     GPIO.output(SOL_ACK, 0)
     
     print("I'm triggered ACK.")
-#button.when_pressed = triggerSol
-#pause()
+button.when_pressed = triggerACK
+pause()

@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import time, os, sys
-from button import *
 
 fname = "tmp.txt"
 f = open("tmp.txt", "r")
@@ -30,7 +29,7 @@ while True:
                 pType = "SYN"
                 parsedPacket = [pTime, ipDst, pType]
                 print(parsedPacket)
-                triggerSYN()
+
             elif lineLen == 21:
                 print("SYN ACK Pack")
                 pTime = parsedLine[1]
@@ -39,7 +38,6 @@ while True:
                 parsedPacket = [pTime, ipDst, pType]
                 
                 print(parsedPacket)
-                triggerACK()
             
 
     try:
