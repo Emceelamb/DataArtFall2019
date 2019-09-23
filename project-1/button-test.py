@@ -15,9 +15,13 @@ GPIO.setup(SOL_SYN, GPIO.OUT)
 GPIO.setup(SOL_ACK, GPIO.OUT)
 
 def triggerSol():
-    GPIO.output(SOL, 1)
+    GPIO.output(SOL_SYN, 1)
     sleep(0.05)
-    GPIO.output(SOL, 0)
+    GPIO.output(SOL_SYN, 0)
+    sleep(0.1)
+    GPIO.output(SOL_ACK, 1)
+    sleep(0.05)
+    GPIO.output(SOL_ACK, 0)
     
     print("I'm triggered.")
 
@@ -33,5 +37,5 @@ def triggerACK():
     GPIO.output(SOL_ACK, 0)
     
     print("I'm triggered ACK.")
-button.when_pressed = triggerACK
+button.when_pressed = triggerSol
 pause()
