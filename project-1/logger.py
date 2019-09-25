@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import time, os, sys
-from button import *
+from TriggerSolenoid import *
 
 fname = "tmp.txt"
 f = open("tmp.txt", "r")
