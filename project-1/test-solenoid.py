@@ -4,8 +4,8 @@ from signal import pause
 import RPi.GPIO as GPIO
 from time import sleep
 
-button = Button(2)
-SOL = 0
+button = Button(3)
+SOL = 4
 SOL_ACK = 17
 SOL_SYN = 4
 
@@ -18,7 +18,6 @@ def triggerSol():
     GPIO.output(SOL, 1)
     sleep(0.05)
     GPIO.output(SOL, 0)
-    
     print("I'm triggered.")
 
 def triggerSYN():
@@ -33,5 +32,5 @@ def triggerACK():
     GPIO.output(SOL_ACK, 0)
     
     print("I'm triggered ACK.")
-#button.when_pressed = triggerSol
-#pause()
+button.when_pressed = triggerSol
+pause()
