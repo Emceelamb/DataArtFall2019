@@ -1,3 +1,5 @@
+#!/usr/bin/env python3 
+
 import sys
 import time
 
@@ -63,7 +65,14 @@ def adder():
         print("7: ", num7)
         print("8: ", num8)
         print("9: ", num9)
+        print('Number: ', d)
         print('Total count: ', x)
-        time.sleep(0.01)
 
-adder()
+#adder()
+
+jsonfile = "{digits: [" + ','.join(ds) + "]}"
+print(jsonfile)
+
+file = open('digits.json', 'w')
+file.write(jsonfile)
+file.close()

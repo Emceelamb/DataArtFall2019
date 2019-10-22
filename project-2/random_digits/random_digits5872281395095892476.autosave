@@ -1,0 +1,102 @@
+import controlP5.*;
+
+ControlP5 cp5;
+
+int sliderVal = 60;
+Slider speed;
+
+int fps = 0;
+
+JSONArray js;
+int[] digits;
+
+int xmax = 1000;
+int ymax = 1000;
+int x = 0;
+int y = 0;
+
+int pixel_digit = 0;
+
+//PGraphics pg;
+PImage img;
+
+void setup() {
+  size(1000,1000);
+  frameRate(fps);
+  noSmooth();
+
+  js = loadJSONArray("digits.json");
+  digits = js.getIntArray();
+
+  //pg = createGraphics(1000,1000);
+  //save("million_pixels.png");
+  // drawbyframe();
+  img = loadImage("million_pixels.png");
+  
+  //slider
+  cp5 = new ControlP5(this);
+  
+  cp5.addSlider("Spped")
+    .setPosition(width-200, height-200)
+    .setRange(0,120);
+    
+  cp5.getController("slider").getValueLabel().align(ControlP5.LEFT, ControlP5.BOTTOM_OUTSIDE).setPaddingX(0);
+  cp5.getController("slider").getCaptionLabel().align(ControlP5.RIGHT, ControlP5.BOTTOM_OUTSIDE).setPaddingX(0);
+
+}
+
+void draw(){
+  // background(0);
+  image(img,0,0);
+   if(y < ymax){      
+   stroke(255,0,0);
+   strokeWeight(5);
+   point(x,y);
+   x++;
+ }
+
+ if(x > xmax){
+   y++;
+   x=0;
+ }
+  textSize(48);
+  text(digits[pixel_digit], width/2, height/2);
+
+  pixel_digit++;
+   
+  if(pixel_digit==1000000){
+    noLoop();
+  }
+  delay(fps);
+}
+
+void drawbyframe(){
+  //   pg.beginDraw();  
+  // if(y < ymax){      
+  //   int pixel_color = floor(map(digits[pixel_digit], 0, 9,0,255));
+  //   pg.stroke(pixel_color);
+  //   pg.point(x,y);
+  //   x++;
+  // }
+  
+  // if(x > xmax){
+  //   y++;
+  //   x=0;
+  // }
+  // pg.endDraw();
+  // image(pg,0,0);
+
+  for(int y = 0; y < 1000; y++){
+    for(int x = 0; x < 1000; x++){
+      int pixel_color = floor(map(digits[pixel_digit], 0, 9,0,255));
+      stroke(pixel_color);
+      point(x,y);
+      pixel_digit++;
+    }
+  }
+}
+
+void slider(int speed) {
+  fps = speed;
+  println("a slider event. setting background to "+speed);
+}
