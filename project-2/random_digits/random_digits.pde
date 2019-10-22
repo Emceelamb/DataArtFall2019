@@ -58,6 +58,8 @@ void setup() {
 
 }
 
+float volume = 0.5;
+
 void draw(){
   // background(0);
   image(img,0,0);
@@ -73,7 +75,15 @@ void draw(){
    x=0;
  }
   textSize(48);  
+
+  fill(0);
+    for(int x = -1; x < 2; x++){
+      text(digits[pixel_digit], width/2+x,height/2);
+      text(digits[pixel_digit], width/2,height/2+x);
+  }
+  fill(255);
   text(digits[pixel_digit], width/2, height/2);
+
   
   digitCounter();
 }
@@ -101,5 +111,50 @@ void drawbyframe(){
       point(x,y);
       pixel_digit++;
     }
+  }
+}
+
+void keyPressed() {
+  switch(key){
+    case '0':
+      if (volume == 0.3) {
+        volume = 0;
+      } else {
+        volume = 0.3;
+      }
+      print("m press");
+      wave.setAmplitude(volume);
+      wave1.setAmplitude(volume);
+      break;
+     case '1':
+       wave.setWaveform(Waves.SINE);
+       break;
+     case '2':
+       wave.setWaveform(Waves.TRIANGLE);
+       break;
+     case '3':
+       wave.setWaveform(Waves.SAW);
+       break;
+     case '4':
+       wave.setWaveform(Waves.SQUARE);
+       break;
+     case '5':
+       wave.setWaveform(Waves.QUARTERPULSE);
+       break;
+     case 'q':       
+       wave1.setWaveform(Waves.SINE);
+       break;
+     case 'w':
+       wave1.setWaveform(Waves.TRIANGLE);
+       break;
+     case 'e':
+       wave1.setWaveform(Waves.SAW);
+       break;
+     case 'r':
+       wave1.setWaveform(Waves.SQUARE);
+       break;
+     case 't':
+       wave1.setWaveform(Waves.QUARTERPULSE);
+       break;
   }
 }

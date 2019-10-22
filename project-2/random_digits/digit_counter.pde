@@ -16,41 +16,72 @@ void digitCounter(){
   switch(digits[pixel_digit]){
       case 0:
         num0++;
-        wave.setFrequency( 400 );
+        wave.setFrequency(941);
+        wave1.setFrequency(1336);
         break;
       case 1:
         num1++;
-        wave.setFrequency( 420 );
+        wave.setFrequency( 697);
+        wave1.setFrequency(1209);
         break;
       case 2:
         num2++;
-        wave.setFrequency( 440 );
+        wave.setFrequency(697);
+        wave1.setFrequency(1336);
         break;
       case 3:
         num3++;
-        wave.setFrequency( 460 );
+        wave.setFrequency(697);
+        wave1.setFrequency(1477);
         break;
       case 4:
         num4++;
-        wave.setFrequency( 480 );
+        wave.setFrequency(770);
+        wave1.setFrequency(1209);
         break;
       case 5:
         num5++;
-        wave.setFrequency( 500 );
+        wave.setFrequency( 770 );
+        wave1.setFrequency(1336);
         break;
       case 6:
-        num6++;
-        wave.setFrequency( 520 );
+        num2++;
+        wave.setFrequency(697);
+        wave1.setFrequency(1477);
         break;
       case 7:
+        num3++;
+        wave.setFrequency(852);
+        wave1.setFrequency(1209);
+        break;
+      case 8:
+        num4++;
+        wave.setFrequency(852);
+        wave1.setFrequency(1336);
+        break;
+      case 9:
+        num5++;
+        wave.setFrequency(852);
+        wave1.setFrequency(1477);
+        break;
+      case 'q':
+        num6++;
+        wave.setFrequency( 520 );
+        wave.setFrequency( 520 );
+        break;
+      case 'w':
         num7++;
         wave.setFrequency( 540 );
         break;
-      case 8:
+      case 'e':
         num8++;
         wave.setFrequency( 560 );
         break;
-      case 9:
+      case 'r':
+        num9++;
+        wave.setFrequency( 590 );
+        break;
+      case 't':
         num9++;
         wave.setFrequency( 590 );
         break;
@@ -72,7 +103,7 @@ void digitCounter(){
   textSize(14);
   fill(255);
   
-  text("Digit Count", width-210, height-380);
+  text("Digit Frequency Count", width-210, height-380);
   text("0: ", width-210, height-360);
   text("1: ", width-210, height-345);
   text("2: ", width-210, height-330);
@@ -83,6 +114,7 @@ void digitCounter(){
   text("7: ", width-210, height-255);
   text("8: ", width-210, height-240);
   text("9: ", width-210, height-225);
+  text(pixel_digit+"/1000000", width-210, height-210);
   
   text(num0, width-190, height-360);
   text(num1, width-190, height-345);
@@ -97,3 +129,5 @@ void digitCounter(){
   
   popMatrix();
 }
+
+
