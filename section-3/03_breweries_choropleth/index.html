@@ -36,56 +36,76 @@ map.on('load', () => {
 console.log('loaded map')
 
     // load data with d3 (just my preference, load it another way if you prefer)
-    d3.json('../data/breweries_us.geojson').then(data => {
-      console.log(data)
+    // load multiple files with Promises, since we also need the outlines of states which mapbox hosts
+    Promise.all([
+      d3.json('../data/breweries_us.geojson'),
+      d3.json('https://docs.mapbox.com/mapbox-gl-js/assets/us_states.geojson')
+    ]).then(data => {
+ 
+      const breweries = data[0]
+      const states = data[1]
+
+      console.log(breweries)
+      console.log(states)
+
+      // we need to get the number of breweries per state from our breweries geojson into the states geojson
+      states.features.forEach( state => {
+        breweries.features.forEach( brewery => {
+          // if (brewery.properties.brewery_name.includes('Magnolia')) {
+          //   console.log(brewery.properties)
+          // }
+          if (state.properties.STATE_NAME.toLowerCase().replace(' ', '-') === brewery.properties.state) {
+            state.properties.numBreweries = +brewery.properties.state_breweries
+            return
+          }
+          if (state.properties.STATE_NAME === 'Mississippi') {
+            // mississippi is missing from the brewery dataset!
+            state.properties.numBreweries = 0
+          }
+        })
+      })
+      console.log(states)
+
+      const maxNum = d3.max(states.features, d => d.properties.numBreweries)
+      console.log(maxNum)
 
       // map needs source data before it can show anything. source needs an id, type and data
-      map.addSource('breweries', { type: 'geojson', data: data })
+      map.addSource('state-breweries', { type: 'geojson', data: states })
 
       // map layer styles the source. see the mapbox style specification for syntax. 
       // layer needs an id, type, source and a style
       map.addLayer({
-        'id': 'breweries-layer',
-        'type': 'circle',
-        'source': 'breweries',
+        'id': 'state-breweries-layer',
+        'type': 'fill',
+        'source': 'state-breweries',
         'paint': {
-          'circle-color': '#088',
-          'circle-color': [
-            'match',
-            ['get', 'type'],
-            'Brewpub', '#66c2a5',
-            'Brewpub-Closed','#1b9e77',
-            'Microbrewery', '#fc8d62',
-            'Mircobrewery', '#fc8d62',
-            'Microbrewery-Closed', '#d95f02',
-            'RegionalBrewery', '#8da0cb',
-            'ContractBrewery', '#e78ac3',
-            'Contract', '#e78ac3',
-            'BOP-BrewOnPremise', '#a6d854',
-            'BOP-BrewOnPremise-Closed', '#66a61e',
-            '#000',
+          'fill-color': '#088',
+          'fill-opacity': [
+            'interpolate',
+            ['linear'],
+            ['get', 'numBreweries'],
+            0, 0.0,
+            maxNum, 1
           ],
-          'circle-radius': 4,
-          'circle-opacity': 0.8
         }
       })
 
       const popup = new mapboxgl.Popup()
 
       // add interactivity to see a popup with info about a district
-      map.on('mousemove', 'breweries-layer', (e) => {
-        console.log(e.features[0].properties)
+      map.on('mousemove', 'state-breweries-layer', (e) => {
+        
         popup.setLngLat(e.lngLat)
-          .setHTML(e.features[0].properties.brewery_name + '<br>' + e.features[0].properties.type)
+          .setHTML(e.features[0].properties.STATE_NAME + ': ' + e.features[0].properties.numBreweries + ' Breweries')
           .addTo(map);
       })
 
-      map.on('mouseenter', 'breweries-layer', () => {
+      map.on('mouseenter', 'state-breweries-layer', () => {
         // Change the cursor style as a UI indicator.
         map.getCanvas().style.cursor = 'pointer'
       })
 
-      map.on('mouseleave', 'breweries-layer', () => {
+      map.on('mouseleave', 'state-breweries-layer', () => {
         // Change the cursor style back as a UI indicator.
         map.getCanvas().style.cursor = ''
         popup.remove()
