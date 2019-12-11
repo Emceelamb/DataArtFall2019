@@ -1,0 +1,3502 @@
+ckground.js:53 0
+background.js:54 The New York Times - Breaking News, World News & Multimedia
+background.js:55 https://www.nytimes.com/
+background.js:56 16
+background.js:57 1575949100769.929
+background.js:58 3386.071044921875
+background.js:59 3 second
+background.js:53 1
+background.js:54 chrome.history - Google Chrome
+background.js:55 https://developer.chrome.com/extensions/history
+background.js:56 3
+background.js:57 1575949070215.919
+background.js:58 33941.0810546875
+background.js:59 34 second
+background.js:53 2
+background.js:54 Blog
+background.js:55 https://emceelamb.github.io/itp-blog/blog.html
+background.js:56 13
+background.js:57 1575949067356.034
+background.js:58 36801.966064453125
+background.js:59 37 second
+background.js:53 3
+background.js:54 Research Diary - Google Sheets
+background.js:55 https://docs.google.com/spreadsheets/d/1XY_byuG9G3vLHpJLitxQZ8e28cPbHMrs3UJ0qX6kGgk/edit#gid=0
+background.js:56 540
+background.js:57 1575948940431.253
+background.js:58 163727.7470703125
+background.js:59 3 minute
+background.js:53 4
+background.js:54 Research Diary - Google Docs
+background.js:55 https://docs.google.com/document/d/1pZuh1BDUl6CFauVEn6Ptd8y8mVOAtreGU86KKlmnngw/edit
+background.js:56 1275
+background.js:57 1575948935816.901
+background.js:58 168342.09912109375
+background.js:59 3 minute
+background.js:53 5
+background.js:54 Loading External Models
+background.js:55 https://discoverthreejs.com/book/first-steps/load-models/#understand-load
+background.js:56 3
+background.js:57 1575948930660.979
+background.js:58 173499.02099609375
+background.js:59 3 minute
+background.js:53 6
+background.js:54 Research Diary - Google Sheets
+background.js:55 https://docs.google.com/spreadsheets/u/1/d/1XY_byuG9G3vLHpJLitxQZ8e28cPbHMrs3UJ0qX6kGgk/edit#gid=0
+background.js:56 6
+background.js:57 1575948930580.095
+background.js:58 173580.90502929688
+background.js:59 3 minute
+background.js:53 7
+background.js:54 How to Create an Interactive 3D Character with Three.js | Codrops
+background.js:55 https://tympanus.net/codrops/2019/10/14/how-to-create-an-interactive-3d-character-with-three-js/
+background.js:56 4
+background.js:57 1575948928427.106
+background.js:58 175734.89404296875
+background.js:59 3 minute
+background.js:53 8
+background.js:54 Confirm password
+background.js:55 https://github.com/shujuuu/Data-Art-Finals/settings/collaboration
+background.js:56 3
+background.js:57 1575948927273.712
+background.js:58 176889.2880859375
+background.js:59 3 minute
+background.js:53 9
+background.js:54 Inbox (1,413) - sjl779@nyu.edu - New York University Mail
+background.js:55 https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSBpDwPmrwXzPMMkjklKHNDbnlgSPBXDSrQHSTFjJNcxNzPjdhBQfnVFnrqWKKGqFBPkcbSJ
+background.js:56 2
+background.js:57 1575948925642.931
+background.js:58 178521.06909179688
+background.js:59 3 minute
+background.js:53 10
+background.js:54 Research Diary - Google Docs
+background.js:55 https://docs.google.com/document/u/1/d/1pZuh1BDUl6CFauVEn6Ptd8y8mVOAtreGU86KKlmnngw/edit
+background.js:56 8
+background.js:57 1575948925356.436
+background.js:58 178808.56396484375
+background.js:59 3 minute
+background.js:53 11
+background.js:54 Error 400 (Not Found)!!1
+background.js:55 https://console.firebase.google.com/accounts/SetOSID?authuser=0&continue=https%3A%2F%2Fconsole.firebase.google.com%2Fu%2F0%2Fproject%2Fadjacent-hk-identity%2Fdatabase%2Ffirestore%2Fdata%7E2Fusers%7E2FqedEgOSrmNMf7cu0NYu6%3Fpli%3D1&osidt=ALWU2cuwXzAhSdE0m9eL7PWpfZM_m7L7XLheyQ_FV45P7cDJyRWSsMucy_drgo4je8229ZmIu5gELVsy0Al7MxbkesyJD9AyU3FRJKRBMv-kL2DEtzQsnm4FOzkxn0ouMa1jOV6B-E71
+background.js:56 1
+background.js:57 1575948920520.198
+background.js:58 183644.80200195312
+background.js:59 3 minute
+background.js:53 12
+background.js:54 Superstitions - Google Forms
+background.js:55 https://docs.google.com/forms/d/1jQJnF_iHdmdqhznPZJvlKKWxYqIT0gkU20_fPHohDBs/edit
+background.js:56 18
+background.js:57 1575948918976.834
+background.js:58 185189.166015625
+background.js:59 3 minute
+background.js:53 13
+background.js:54 Superstitions - Google Forms
+background.js:55 https://docs.google.com/forms/u/1/d/1jQJnF_iHdmdqhznPZJvlKKWxYqIT0gkU20_fPHohDBs/edit
+background.js:56 7
+background.js:57 1575948917980.139
+background.js:58 186186.86108398438
+background.js:59 3 minute
+background.js:53 14
+background.js:54 Exporting GLTF file using Blender - YouTube
+background.js:55 https://www.youtube.com/watch?v=xfUZ1GLG68o
+background.js:56 2
+background.js:57 1575948917093.906
+background.js:58 187074.09399414062
+background.js:59 3 minute
+background.js:53 15
+background.js:54 Thesis Presentation - Google Slides
+background.js:55 https://docs.google.com/presentation/d/1qczRVkWEcJ44WO_xdVIoWwdk0cvCl_avfwvsWY1QoQE/edit#slide=id.g6c2fa5d02a_0_77
+background.js:56 78
+background.js:57 1575948916612.136
+background.js:58 187555.86401367188
+background.js:59 3 minute
+background.js:53 16
+background.js:54 How to Import a 3D Blender Object into a Three.js Project as a glTF File
+background.js:55 https://medium.com/@matthewmain/how-to-import-a-3d-blender-object-into-a-three-js-project-as-a-gltf-file-5a67290f65f2
+background.js:56 2
+background.js:57 1575948915384.877
+background.js:58 188784.123046875
+background.js:59 3 minute
+background.js:53 17
+background.js:54 lofi hip hop radio - beats to relax/study to - YouTube
+background.js:55 https://www.youtube.com/watch?v=hHW1oY26kxQ
+background.js:56 8
+background.js:57 1575948910593.612
+background.js:58 193576.38793945312
+background.js:59 3 minute
+background.js:53 18
+background.js:54 Inbox (505) - shujulin90@gmail.com - Gmail
+background.js:55 https://mail.google.com/mail/u/0/#inbox
+background.js:56 141
+background.js:57 1575948907668.697
+background.js:58 196502.30297851562
+background.js:59 3 minute
+background.js:53 19
+background.js:54 CodeSandbox
+background.js:55 https://codesandbox.io/s/github/looeee/discoverthree.com-examples/tree/master/first-steps/7-load-models?from-embed
+background.js:56 2
+background.js:57 1575948905276.843
+background.js:58 198894.15698242188
+background.js:59 3 minute
+background.js:53 20
+background.js:54 Messenger
+background.js:55 https://www.messenger.com/t/SidChou
+background.js:56 21
+background.js:57 1575948904372.9292
+background.js:58 199799.07080078125
+background.js:59 3 minute
+background.js:53 21
+background.js:54 Thesis Presentation - Google Slides
+background.js:55 https://docs.google.com/presentation/u/1/d/1qczRVkWEcJ44WO_xdVIoWwdk0cvCl_avfwvsWY1QoQE/edit#slide=id.g6c2fa5d02a_0_77
+background.js:56 2
+background.js:57 1575948903351.835
+background.js:58 200821.1650390625
+background.js:59 3 minute
+background.js:53 22
+background.js:54 control over life - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNQxkM1JdT-VwBISETKv3836RHOZqw%3A1575946530671&ei=IgnvXdfBKIS-ggfyv5SIBQ&q=control+over+life&oq=control+over+life&gs_l=psy-ab.3..0l3j0i22i30l6j0i22i10i30.17142.19294..19557...0.2..1.293.1864.11j4j2......0....1..gws-wiz.......0i71j35i39j0i67j35i39i70i249j0i273j0i131i67j0i131i273j0i131j0i20i263.XzhvqD_cX1w&ved=0ahUKEwjX2pSpiqrmAhUEn-AKHfIfBVEQ4dUDCAs&uact=5
+background.js:56 2
+background.js:57 1575948903100.78
+background.js:58 201072.21997070312
+background.js:59 3 minute
+background.js:53 23
+background.js:54 Amazon.com: The Complete Book of Superstition, Prophecy, and Luck (9781569800508): Leonard R.N. Ashley: Books
+background.js:55 https://www.amazon.com/Complete-Book-Superstition-Prophecy-Luck/dp/1569800502
+background.js:56 1
+background.js:57 1575948901537.0469
+background.js:58 202636.953125
+background.js:59 3 minute
+background.js:53 24
+background.js:54 3D Object test
+background.js:55 http://10.23.10.38:9000/gameObjects.html
+background.js:56 2
+background.js:57 1575948901202.869
+background.js:58 202972.13110351562
+background.js:59 3 minute
+background.js:53 25
+background.js:54 E Medium
+background.js:55 https://emceelamb.github.io/itp-blog/2019-04-02/e-Medium
+background.js:56 2
+background.js:57 1575947877240.733
+background.js:58 1226935.2670898438
+background.js:59 20 minute
+background.js:53 26
+background.js:54 Rituals
+background.js:55 https://emceelamb.github.io/itp-blog/courses/rituals.html
+background.js:56 10
+background.js:57 1575947870759.544
+background.js:58 1233417.4560546875
+background.js:59 21 minute
+background.js:53 27
+background.js:54 Random News
+background.js:55 https://emceelamb.github.io/itp-blog/2019-04-17/Random-News
+background.js:56 2
+background.js:57 1575947861669.7642
+background.js:58 1242507.2358398438
+background.js:59 21 minute
+background.js:53 28
+background.js:54 Live News Editor
+background.js:55 https://emceelamb.github.io/itp-blog/2019-03-14/Live-News-Editor
+background.js:56 2
+background.js:57 1575947811450.7761
+background.js:58 1292727.2238769531
+background.js:59 22 minute
+background.js:53 29
+background.js:54 News Editor
+background.js:55 https://emceelamb.github.io/itp-blog/2019-03-04/News-editor
+background.js:56 1
+background.js:57 1575947809870.385
+background.js:58 1294308.6149902344
+background.js:59 22 minute
+background.js:53 30
+background.js:54 Veillance
+background.js:55 https://emceelamb.github.io/itp-blog/courses/veillance.html
+background.js:56 3
+background.js:57 1575947796872.252
+background.js:58 1307307.748046875
+background.js:59 22 minute
+background.js:53 31
+background.js:54 chrome api history - Google Search
+background.js:55 https://www.google.com/search?q=chrome+api+history&oq=chrome+api+history&aqs=chrome..69i57j0l4j69i60l3.3167j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575947649107.2158
+background.js:58 1455073.7841796875
+background.js:59 24 minute
+background.js:53 32
+background.js:54 Sidchou/chrome_ext_hist_data: chrome extension: getting data using history api
+background.js:55 https://github.com/Sidchou/chrome_ext_hist_data
+background.js:56 1
+background.js:57 1575947562546.542
+background.js:58 1541634.4580078125
+background.js:59 26 minute
+background.js:53 33
+background.js:54 Messenger
+background.js:55 https://www.messenger.com/t/winnie.yoe
+background.js:56 46
+background.js:57 1575947556380.156
+background.js:58 1547801.8439941406
+background.js:59 26 minute
+background.js:53 34
+background.js:54 Messenger
+background.js:55 https://www.messenger.com/
+background.js:56 114
+background.js:57 1575947556364.83
+background.js:58 1547818.169921875
+background.js:59 26 minute
+background.js:53 35
+background.js:54 The Ultimate Guide to Brand Development: 4 Steps Toward an Enduring Brand
+background.js:55 https://www.adherecreative.com/brand-development-guide
+background.js:56 1
+background.js:57 1575947413563.977
+background.js:58 1690620.0229492188
+background.js:59 28 minute
+background.js:53 36
+background.js:54 four stages of brand development - Google Search
+background.js:55 https://www.google.com/search?q=four+stages+of+brand+development&oq=four+stages+of+brand&aqs=chrome.4.0j69i57j0l6.16240j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 4
+background.js:57 1575947408646.915
+background.js:58 1695537.0849609375
+background.js:59 28 minute
+background.js:53 37
+background.js:54 Keller's Brand Equity Model - Strategy Tools From MindTools.com
+background.js:55 https://www.mindtools.com/pages/article/keller-brand-equity-model.htm
+background.js:56 1
+background.js:57 1575947388166.476
+background.js:58 1716018.5239257812
+background.js:59 29 minute
+background.js:53 38
+background.js:54 The 4 Stages of Brand Development - Dewane Mutunga
+background.js:55 https://dewanemutunga.com/4-stages-brand-development/
+background.js:56 1
+background.js:57 1575947377956.481
+background.js:58 1726229.5190429688
+background.js:59 29 minute
+background.js:53 39
+background.js:54 The Global Jukebox
+background.js:55 https://theglobaljukebox.org/
+background.js:56 1
+background.js:57 1575947085730.3828
+background.js:58 2018456.6171875
+background.js:59 34 minute
+background.js:53 40
+background.js:54 The Global Jukebox | Association for Cultural Equity
+background.js:55 http://www.culturalequity.org/resources/gjb
+background.js:56 1
+background.js:57 1575947079854.278
+background.js:58 2024333.7219238281
+background.js:59 34 minute
+background.js:53 41
+background.js:54 global jukebox - Google Search
+background.js:55 https://www.google.com/search?q=global+jukebox&oq=Global+Jukebox&aqs=chrome.0.0l7j69i60.503j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575947076397.826
+background.js:58 2027790.1740722656
+background.js:59 34 minute
+background.js:53 42
+background.js:54 curiousritualsbook.pdf
+background.js:55 https://curiousrituals.files.wordpress.com/2012/09/curiousritualsbook.pdf
+background.js:56 7
+background.js:57 1575947055410.522
+background.js:58 2048778.4780273438
+background.js:59 34 minute
+background.js:53 43
+background.js:54 curious rituals pdf - Google Search
+background.js:55 https://www.google.com/search?q=curious+rituals+pdf&oq=Curious+Rituals&aqs=chrome.1.69i57j0j69i64j69i59j69i60.1936j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575947052715.363
+background.js:58 2051474.6369628906
+background.js:59 34 minute
+background.js:53 44
+background.js:54 ITP Thesis Week 2019: Dan Oved - The Self-Driving Human on Vimeo
+background.js:55 https://vimeo.com/337308779
+background.js:56 4
+background.js:57 1575947035690.3801
+background.js:58 2068499.6198730469
+background.js:59 34 minute
+background.js:53 45
+background.js:54 The Self-Driving Human
+background.js:55 https://www.danioved.com/portfolio/the-self-driving-human/
+background.js:56 1
+background.js:57 1575947033169.373
+background.js:58 2071021.626953125
+background.js:59 35 minute
+background.js:53 46
+background.js:54 Self-Driving Human dan oved - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNRdrsq-cmfHOZgK-kXCsxzgPycfJA%3A1575946989020&ei=7QrvXf9c44eCB7-suZAC&q=Self-Driving+Human+dan+oved&oq=Self-Driving+Human+dan+oved&gs_l=psy-ab.3..33i160l2.2266.4711..4840...0.0..0.277.1078.10j0j1......0....1..gws-wiz.......35i39j0i30j0i8i30j0i22i30j33i299.YUEPJAkGUQY&ved=0ahUKEwi_h9yDjKrmAhXjg-AKHT9WDiIQ4dUDCAs&uact=5
+background.js:56 3
+background.js:57 1575947031651.384
+background.js:58 2072540.6159667969
+background.js:59 35 minute
+background.js:53 47
+background.js:54 The Self-Driving Human | ITP Thesis Week 2019
+background.js:55 https://itp.nyu.edu/shows/thesis2019/the-self-driving-human/
+background.js:56 1
+background.js:57 1575947017956.87
+background.js:58 2086236.1298828125
+background.js:59 35 minute
+background.js:53 48
+background.js:54 Self-Driving Human - Google Search
+background.js:55 https://www.google.com/search?q=Self-Driving+Human&oq=Self-Driving+Human&aqs=chrome..69i57j0l6j69i61.304j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575947007437.416
+background.js:58 2096755.583984375
+background.js:59 35 minute
+background.js:53 49
+background.js:54 the best art
+background.js:55 http://nicole.pizza/the-best-art/
+background.js:56 1
+background.js:57 1575946991997.993
+background.js:58 2112196.007080078
+background.js:59 35 minute
+background.js:53 50
+background.js:54 The Best Art by Nicole He - Google Search
+background.js:55 https://www.google.com/search?q=The+Best+Art+by+Nicole+He&oq=The+Best+Art&aqs=chrome.1.69i57j69i59l2j0l5.1775j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575946989298.941
+background.js:58 2114896.0590820312
+background.js:59 35 minute
+background.js:53 51
+background.js:54 reclaim synonym - Google Search
+background.js:55 https://www.google.com/search?q=reclaim+synonym&oq=reclaim+synonym&aqs=chrome.0.0l8.3535j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575946548906.548
+background.js:58 2555289.451904297
+background.js:59 43 minute
+background.js:53 52
+background.js:54 Preliminary Thesis Statement | Kathleen Section
+background.js:55 https://itp.nyu.edu/thesis/journal2020/kathleen/itp-thesis-statement/modern-superstitions/
+background.js:56 5
+background.js:57 1575944864699.015
+background.js:58 4239497.985107422
+background.js:59 1 hour
+background.js:53 53
+background.js:54 Shu-ju Lin | Kathleen Section
+background.js:55 https://itp.nyu.edu/thesis/journal2020/kathleen/author/sjl779/
+background.js:56 48
+background.js:57 1575944851089.743
+background.js:58 4253108.257080078
+background.js:59 1 hour
+background.js:53 54
+background.js:54 ITP Thesis Journal 2020 | Just another WordPress site
+background.js:55 https://itp.nyu.edu/thesis/journal2020/
+background.js:56 36
+background.js:57 1575944842808.853
+background.js:58 4261390.146972656
+background.js:59 1 hour
+background.js:53 55
+background.js:54 Kathleen Section | Thesis Journal 2020 Site
+background.js:55 https://itp.nyu.edu/thesis/journal2020/kathleen/
+background.js:56 27
+background.js:57 1575944839707.0762
+background.js:58 4264492.923828125
+background.js:59 1 hour
+background.js:53 56
+background.js:54 Add New Post ‹ Kathleen Section — WordPress
+background.js:55 https://itp.nyu.edu/thesis/journal2020/kathleen/wp-admin/post-new.php?post_type=itp-thesis-statement
+background.js:56 10
+background.js:57 1575944829398.299
+background.js:58 4274801.700927734
+background.js:59 1 hour
+background.js:53 57
+background.js:54 Posts ‹ Kathleen Section — WordPress
+background.js:55 https://itp.nyu.edu/thesis/journal2020/kathleen/wp-admin/edit.php
+background.js:56 26
+background.js:57 1575944808749.614
+background.js:58 4295451.385986328
+background.js:59 1 hour
+background.js:53 58
+background.js:54 want synonym - Google Search
+background.js:55 https://www.google.com/search?q=want+synonym&oq=want+synonym&aqs=chrome..69i57j0l7.3112j1j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575939358451.219
+background.js:58 9745750.78100586
+background.js:59 3 hour
+background.js:53 59
+background.js:54 Google Translate
+background.js:55 https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text=regain
+background.js:56 1
+background.js:57 1575939325723.011
+background.js:58 9778479.989013672
+background.js:59 3 hour
+background.js:53 60
+background.js:54 Google Translate
+background.js:55 https://translate.google.com/
+background.js:56 40
+background.js:57 1575939323960.677
+background.js:58 9780242.322998047
+background.js:59 3 hour
+background.js:53 61
+background.js:54 Don't Stick Your Chopsticks in a Bowl of Rice
+background.js:55 https://blog.gaijinpot.com/dont-stick-chopsticks-bowl-rice/
+background.js:56 1
+background.js:57 1575938970986.031
+background.js:58 10133217.96899414
+background.js:59 3 hour
+background.js:53 62
+background.js:54 upholding chopstick on top of rice - Google Search
+background.js:55 https://www.google.com/search?q=upholding+chopstick+on+top+of+rice&oq=upholding+chopstick+on+top+of+rice&aqs=chrome..69i57.14045j1j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575938969146.503
+background.js:58 10135058.497070312
+background.js:59 3 hour
+background.js:53 63
+background.js:54 Google Translate
+background.js:55 https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text=pervasive
+background.js:56 2
+background.js:57 1575938402313.339
+background.js:58 10701892.660888672
+background.js:59 3 hour
+background.js:53 64
+background.js:54 pointing finger moon - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNRVqdRWHpTRY638acUMRGLCaWzyXQ%3A1575937805763&ei=DefuXYz5LfC-gge7oLPoAQ&q=pointing+finger+moon&oq=pointing+finger+moon&gs_l=psy-ab.3..0i22i30l10.10089.10750..10936...0.2..0.76.349.5......0....1..gws-wiz.......0i71j0j0i67.R9ffYVVcbRI&ved=0ahUKEwjMs-bo6anmAhVwn-AKHTvQDB0Q4dUDCAs&uact=5
+background.js:56 2
+background.js:57 1575937839918.695
+background.js:58 11264287.30493164
+background.js:59 3 hour
+background.js:53 65
+background.js:54 pointing finger - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNRu6JP7Ms76yLKwCbaEjXhhh0E2KA%3A1575937734149&ei=xubuXfnkCISxggfC4pigBw&q=pointing+finger&oq=pointing+finger&gs_l=psy-ab.3..0l10.68438.70463..70657...0.2..0.96.957.15......0....1..gws-wiz.......0i71j35i39j0i273j0i131j0i131i273j0i67.5va5040I2Qc&ved=0ahUKEwj539PG6anmAhWEmOAKHUIxBnQQ4dUDCAs&uact=5
+background.js:56 3
+background.js:57 1575937827576.666
+background.js:58 11276630.333984375
+background.js:59 3 hour
+background.js:53 66
+background.js:54 pointing finger - Google Search
+background.js:55 https://www.google.com/search?q=pointing+finger&sxsrf=ACYBGNRVqdRWHpTRY638acUMRGLCaWzyXQ:1575937805763&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjMs-bo6anmAhVwn-AKHTvQDB0Q_AUoAXoECBAQAw&biw=720&bih=766
+background.js:56 2
+background.js:57 1575937825958.613
+background.js:58 11278249.38696289
+background.js:59 3 hour
+background.js:53 67
+background.js:54 daggers - Google Search
+background.js:55 https://www.google.com/search?q=daggers&oq=daggers&aqs=chrome..69i57.398j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575937766625.46
+background.js:58 11337582.540039062
+background.js:59 3 hour
+background.js:53 68
+background.js:54 懷孕 剪刀 - Google Search
+background.js:55 https://www.google.com/search?q=%E6%87%B7%E5%AD%95+%E5%89%AA%E5%88%80&oq=%E6%87%B7%E5%AD%95+%E5%89%AA%E5%88%80&aqs=chrome..69i57j0l6.6813j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575937752286.947
+background.js:58 11351922.052978516
+background.js:59 3 hour
+background.js:53 69
+background.js:54 Google Translate
+background.js:55 https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text=deformation
+background.js:56 2
+background.js:57 1575937355677.804
+background.js:58 11748532.196044922
+background.js:59 3 hour
+background.js:53 70
+background.js:54 Brer Rabbit and the Tar Baby - YouTube
+background.js:55 https://www.youtube.com/watch?v=hiMw-8Ttu10
+background.js:56 1
+background.js:57 1575932265219.9148
+background.js:58 16838991.085205078
+background.js:59 5 hour
+background.js:53 71
+background.js:54 Br'er Rabbit - YouTube
+background.js:55 https://www.youtube.com/results?search_query=Br%27er+Rabbit
+background.js:56 1
+background.js:57 1575932243593.333
+background.js:58 16860617.666992188
+background.js:59 5 hour
+background.js:53 72
+background.js:54 YouTube
+background.js:55 https://www.youtube.com/
+background.js:56 500
+background.js:57 1575932243582.857
+background.js:58 16860629.143066406
+background.js:59 5 hour
+background.js:53 73
+background.js:54 Reshaping Hong Kong’s Identity through a Decentralized Protest : Adjacent Issue 6
+background.js:55 https://itp.nyu.edu/adjacent/issue-6/reshaping-hong-kongs-identity-through-a-decentralized-protest/
+background.js:56 3
+background.js:57 1575931427540.3262
+background.js:58 17676672.673828125
+background.js:59 5 hour
+background.js:53 74
+background.js:54 OLD/NEW/NEXT : Adjacent Issue 6
+background.js:55 https://itp.nyu.edu/adjacent/issue-6/
+background.js:56 15
+background.js:57 1575931424465.7048
+background.js:58 17679748.295166016
+background.js:59 5 hour
+background.js:53 75
+background.js:54 Br'er Rabbit - Wikipedia
+background.js:55 https://en.wikipedia.org/wiki/Br%27er_Rabbit
+background.js:56 2
+background.js:57 1575930976713.317
+background.js:58 18127501.68310547
+background.js:59 5 hour
+background.js:53 76
+background.js:54 modern superstitions - Google Search
+background.js:55 https://www.google.com/search?q=modern+superstitions&oq=modern+superstitions&aqs=chrome..69i57j0l6j69i60.3080j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575930944394.72
+background.js:58 18159821.280029297
+background.js:59 5 hour
+background.js:53 77
+background.js:54 My Time Entry: Lin, Shu-Ju(N17158932) - 5272467 TS1068 Floor Staff Fall 2019 Time Sheet Approver:Marlon Evans
+background.js:55 https://nyumytime.wfsaas.com/workforce/TimeEntry.do?action=viewMyTimesheet&securityMode=employeeSelfEntry&asgnmtId=112012098640&csrfToken=1A1575930629574A123068694
+background.js:56 1
+background.js:57 1575930654548.2869
+background.js:58 18449667.713134766
+background.js:59 5 hour
+background.js:53 78
+background.js:54 Home
+background.js:55 https://nyumytime.wfsaas.com/workforce/Home.do?action=start&csrfToken=1A1575930629574A123068694
+background.js:56 1
+background.js:57 1575930648355.262
+background.js:58 18455861.73803711
+background.js:59 5 hour
+background.js:53 79
+background.js:54 NYU Login - Saving Session Information...
+background.js:55 https://shibboleth.nyu.edu/idp/profile/SAML2/Unsolicited/SSO?providerId=https://nyumytime.wfsaas.com
+background.js:56 19
+background.js:57 1575930646117.363
+background.js:58 18458100.63696289
+background.js:59 5 hour
+background.js:53 80
+background.js:54 NYU Home
+background.js:55 https://globalhome.nyu.edu/services/work
+background.js:56 19
+background.js:57 1575930635060.623
+background.js:58 18469158.376953125
+background.js:59 5 hour
+background.js:53 81
+background.js:54 NYU Home
+background.js:55 https://globalhome.nyu.edu/services/favorites
+background.js:56 30
+background.js:57 1575930631521.9778
+background.js:58 18472698.022216797
+background.js:59 5 hour
+background.js:53 82
+background.js:54 NYU Home
+background.js:55 https://globalhome.nyu.edu/
+background.js:56 54
+background.js:57 1575930630530.4329
+background.js:58 18473689.567138672
+background.js:59 5 hour
+background.js:53 83
+background.js:54 
+mYhLVQ8gWioivcE%2FGlGPj5aCsiEFESfTUSJG8TQXQo5jmYhITCdvwJaHOG603cd8LrtiDyL5kOfL0fIly4G9HusaAHAoR%2B7U%2FWkr5w%2BrYxUw30atui46jXzGT8%2FOD%2BP%2FLzD%2FAQ%3D%3D&SigAlg=http%3A%2F%2Fwww.w3.org%2F2000%2F09%2Fxmldsig%23rsa-sha1&Signature=j29kAuBy9YkSD%2Fdvf2h1U%2BPn2031GJ50BhjZhX1NKPXhl%2BD%2BbjynM08H4tbDawfZK5QR%2BDc8fCwVDjlrNxXgsg8mxELmS1A%2F7lrAkL0a7vJ5sGvSLfyuIgrJE5y%2Fef3BVuGEXXMS9NkboNjTbViL7v01xIv%2FkjxTPXiTkaCutW2vYEbvYao3s%2BIfM8C1z04wyY6drfui4m7nqfj2HeuarOb%2Br%2FrMqXQO0nsDmuwG14EFuCYXPmGIHmlyXUER6XI%2Flm72YSi%2BGDQN%2F3YGEihxBpwClfct5DMcYeBw3nJoEQbBqgtlsXJ1lWM8xNpYpffPmPfbBiX12%2FW5CTr%2B%2BsKHKg%3D%3D
+background.js:56 1
+background.js:57 1575930629597.365
+background.js:58 18474623.635009766
+background.js:59 5 hour
+background.js:53 84
+background.js:54 台灣人的奇怪迷信! | Weird Taiwanese Superstition! | Life in Taiwan #34 - YouTube
+background.js:55 https://www.youtube.com/watch?v=iZ26sdng0Ww
+background.js:56 1
+background.js:57 1575930269468.2158
+background.js:58 18834753.784179688
+background.js:59 5 hour
+background.js:53 85
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?q=%E8%BF%B7%E4%BF%A1+%E5%8F%B0%E7%81%A3&sxsrf=ACYBGNQh4TEyrfajYcJExcapgb7ETYzWOQ:1575926359498&tbm=isch&source=iu&ictx=1&fir=BDlor-yrKnqrRM%253A%252Cbgm31ZsM_4a8VM%252C_&vet=1&usg=AI4_-kSGdKExLGvMajUptXRzOw5JCbVWuQ&sa=X&ved=2ahUKEwir_eWWv6nmAhWvUt8KHSwyAj0Q9QEwE3oECAgQCQ#imgrc=y4MgTvdcoea8dM:&vet=1
+background.js:56 1
+background.js:57 1575930267924.584
+background.js:58 18836298.416015625
+background.js:59 5 hour
+background.js:53 86
+background.js:54 【文化衝擊】外國人竟然有台灣人的迷信？|Canadian has Taiwanese Superstitions?| 《【Tan TV/三語家庭】》|快問快答＃9 - YouTube
+background.js:55 https://www.youtube.com/watch?v=A1YLbt0ax2c
+background.js:56 1
+background.js:57 1575930082500.291
+background.js:58 19021722.708984375
+background.js:59 5 hour
+background.js:53 87
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?q=%E8%BF%B7%E4%BF%A1+%E5%8F%B0%E7%81%A3&sxsrf=ACYBGNQh4TEyrfajYcJExcapgb7ETYzWOQ:1575926359498&tbm=isch&source=iu&ictx=1&fir=BDlor-yrKnqrRM%253A%252Cbgm31ZsM_4a8VM%252C_&vet=1&usg=AI4_-kSGdKExLGvMajUptXRzOw5JCbVWuQ&sa=X&ved=2ahUKEwir_eWWv6nmAhWvUt8KHSwyAj0Q9QEwE3oECAgQCQ#imgrc=BDlor-yrKnqrRM:
+background.js:56 2
+background.js:57 1575930050326.731
+background.js:58 19053897.26904297
+background.js:59 5 hour
+background.js:53 88
+background.js:54 Crazy lies and superstitions our parents told us when we were kids - HelloGiggles
+background.js:55 https://hellogiggles.com/lifestyle/lies-and-superstitions-parents-kids/
+background.js:56 1
+background.js:57 1575928835671.656
+background.js:58 20268553.34399414
+background.js:59 6 hour
+background.js:53 89
+background.js:54 children superstitions - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNS8aw_zH-zE89ARenXJQTHJ9iHiCg%3A1575928672005&ei=X8PuXZrrPIjm_Qa_67qgDA&q=children+superstitions&oq=children+superstitions&gs_l=psy-ab.3..0i7i10i30j0i7i30.9223.10421..12959...0.3..1.290.953.5j2j1......0....1..gws-wiz.......0i71j0i13j0j0i8i7i30.PIp6ZO3fH1U&ved=0ahUKEwjalr7lx6nmAhUIc98KHb-1DsQQ4dUDCAs&uact=5
+background.js:56 2
+background.js:57 1575928798114.0261
+background.js:58 20306110.973876953
+background.js:59 6 hour
+background.js:53 90
+background.js:54 birth superstitions - Google Search
+background.js:55 https://www.google.com/search?q=birth+superstitions&oq=birth+superstitions&aqs=chrome..69i57j0l7.21551j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 3
+background.js:57 1575928783944.695
+background.js:58 20320281.30493164
+background.js:59 6 hour
+background.js:53 91
+background.js:54 13 pregnancy superstitions from across the globe | Stuff.co.nz
+background.js:55 https://www.stuff.co.nz/life-style/parenting/pregnancy/88535413/13-pregnancy-superstitions-from-across-the-globe
+background.js:56 1
+background.js:57 1575928703539.4011
+background.js:58 20400687.598876953
+background.js:59 6 hour
+background.js:53 92
+background.js:54 Why Kids Who Believe in Something Are Happier and Healthier | Time
+background.js:55 https://time.com/3825083/why-kids-who-believe-in-something-are-happier-and-healthier/
+background.js:56 1
+background.js:57 1575928414170.822
+background.js:58 20690057.177978516
+background.js:59 6 hour
+background.js:53 93
+background.js:54 kids are more prone to believing - Google Search
+background.js:55 https://www.google.com/search?q=kids+are+more+prone+to+believing&oq=kids+are+more+prone+to+believing&aqs=chrome..69i57.5312j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575928332710.699
+background.js:58 20771518.30102539
+background.js:59 6 hour
+background.js:53 94
+background.js:54 Office Hours - ITP Help
+background.js:55 http://help.itp.nyu.edu/in-person/office-hours
+background.js:56 84
+background.js:57 1575928124532.068
+background.js:58 20979697.931884766
+background.js:59 6 hour
+background.js:53 95
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZBMG54X18yY2swfGRlZmF1bHR8ZDk3ZWU3NDA1YjY4Y2UwZDM4OWU1YWVkNWQ1ZWIzNjE
+background.js:56 3
+background.js:57 1575928123073.192
+background.js:58 20981157.80810547
+background.js:59 6 hour
+background.js:53 96
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UU5WVFR2eHpObWRffGRlZmF1bHR8ZDQ4ODZhYTBmMjY0MWU3Y2JlYmIyODhmOGQ4OTE2YzM
+background.js:56 2
+background.js:57 1575928116140.05
+background.js:58 20988090.949951172
+background.js:59 6 hour
+background.js:53 97
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZXeFYyWGh2VlkyfGRlZmF1bHR8MTA2N2Y2YTdiMWYwOGMyMzYyNmVmYjZmZjNlNWJhNzg
+background.js:56 2
+background.js:57 1575928106015.924
+background.js:58 20998216.075927734
+background.js:59 6 hour
+background.js:53 98
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUtPd1BqbEtRNXBvfGRlZmF1bHR8MDg1YzBmOWY3OGFiM2UyNGNmN2VlYmNkZGE2MDAyYjU
+background.js:56 4
+background.js:57 1575928101459.5908
+background.js:58 21002773.409179688
+background.js:59 6 hour
+background.js:53 99
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UU9BekE3X1FDaWNSfGRlZmF1bHR8NjQ4ZDJlYjVhYWNjM2JmMjkwNmRmMDUwNjE4ZDY0ZmQ
+background.js:56 3
+background.js:57 1575928097943.958
+background.js:58 21006290.041992188
+background.js:59 6 hour
+background.js:53 100
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZna2lBZ1dpSFAzfGRlZmF1bHR8Yzk4M2IwZTFiZmNlYzdhZjNjMmI4MzY1MzJkZDc0YmU
+background.js:56 7
+background.js:57 1575928091908.979
+background.js:58 21012326.020996094
+background.js:59 6 hour
+background.js:53 101
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUVMRlBEWElyc1BkfGRlZmF1bHR8ZDkzZWY1ZjQwYmJiODNmZmZmZTU4NDEyZDY1ZTU3Njc
+background.js:56 6
+background.js:57 1575928083240.549
+background.js:58 21020994.450927734
+background.js:59 6 hour
+background.js:53 102
+background.js:54 Shujuuu Blog | Shuju @ ITP
+background.js:55 http://blog.shujuuu.com/
+background.js:56 95
+background.js:57 1575927943430.722
+background.js:58 21160805.278076172
+background.js:59 6 hour
+background.js:53 103
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=66KagJMmG6L4pM:
+background.js:56 1
+background.js:57 1575927784119.721
+background.js:58 21320117.279052734
+background.js:59 6 hour
+background.js:53 104
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=_
+background.js:56 3
+background.js:57 1575927780957.9739
+background.js:58 21323280.026123047
+background.js:59 6 hour
+background.js:53 105
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=mnn1Ras8NUDwQM:
+background.js:56 2
+background.js:57 1575927778039.226
+background.js:58 21326198.77392578
+background.js:59 6 hour
+background.js:53 106
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=CItdgXo23QXzOM:
+background.js:56 1
+background.js:57 1575927752436.024
+background.js:58 21351802.97607422
+background.js:59 6 hour
+background.js:53 107
+background.js:54 Short Timeline History of Internet
+background.js:55 https://www.slideshare.net/VeaCarino/short-timeline-history-of-internet
+background.js:56 1
+background.js:57 1575927744141.509
+background.js:58 21360098.490966797
+background.js:59 6 hour
+background.js:53 108
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766
+background.js:56 2
+background.js:57 1575927698531.843
+background.js:58 21405709.156982422
+background.js:59 6 hour
+background.js:53 109
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&oq=internet+history&aqs=chrome..69i57j0l7.26162j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575927693912.6338
+background.js:58 21410328.366210938
+background.js:59 6 hour
+background.js:53 110
+background.js:54 失去辨證思考，台灣成迷信之島？｜天下雜誌
+background.js:55 https://www.cw.com.tw/article/article.action?id=5010620
+background.js:56 1
+background.js:57 1575926452414.48
+background.js:58 22651827.52001953
+background.js:59 6 hour
+background.js:53 111
+background.js:54 台灣人迷信到難以想像！他說，別笑女生信星座，男生玩遊戲時「這舉動」不也是？-風傳媒
+background.js:55 https://www.storm.mg/lifestyle/223368
+background.js:56 1
+background.js:57 1575926425059.221
+background.js:58 22679183.779052734
+background.js:59 6 hour
+background.js:53 112
+background.js:54 [全講中文] feat.搞神馬 “韓國vs台灣vs香港“的迷信大對決！ | 有璟妍精 | 韓國人留學生，文化差異，文化比較 - YouTube
+background.js:55 https://www.youtube.com/watch?v=Aq7fzO_qn8M
+background.js:56 1
+background.js:57 1575926413389.277
+background.js:58 22690854.72290039
+background.js:59 6 hour
+background.js:53 113
+background.js:54 各國人的不同迷信: Infamous Superstition (World Edition) - YouTube
+background.js:55 https://www.youtube.com/watch?v=WWu-d7VHrA4
+background.js:56 1
+background.js:57 1575926394298.1018
+background.js:58 22709945.89819336
+background.js:59 6 hour
+background.js:53 114
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNTmYhLVQ8gWioivcE%2FGlGPj5aCsiEFESfTUSJG8TQXQo5jmYhITCdvwJaHOG603cd8LrtiDyL5kOfL0fIly4G9HusaAHAoR%2B7U%2FWkr5w%2BrYxUw30atui46jXzGT8%2FOD%2BP%2FLzD%2FAQ%3D%3D&SigAlg=http%3A%2F%2Fwww.w3.org%2F2000%2F09%2Fxmldsig%23rsa-sha1&Signature=j29kAuBy9YkSD%2Fdvf2h1U%2BPn2031GJ50BhjZhX1NKPXhl%2BD%2BbjynM08H4tbDawfZK5QR%2BDc8fCwVDjlrNxXgsg8mxELmS1A%2F7lrAkL0a7vJ5sGvSLfyuIgrJE5y%2Fef3BVuGEXXMS9NkboNjTbViL7v01xIv%2FkjxTPXiTkaCutW2vYEbvYao3s%2BIfM8C1z04wyY6drfui4m7nqfj2HeuarOb%2Br%2FrMqXQO0nsDmuwG14EFuCYXPmGIHmlyXUER6XI%2Flm72YSi%2BGDQN%2F3YGEihxBpwClfct5DMcYeBw3nJoEQbBqgtlsXJ1lWM8xNpYpffPmPfbBiX12%2FW5CTr%2B%2BsKHKg%3D%3D
+background.js:56 1
+background.js:57 1575930629597.365
+background.js:58 18474623.635009766
+background.js:59 5 hour
+background.js:53 84
+background.js:54 台灣人的奇怪迷信! | Weird Taiwanese Superstition! | Life in Taiwan #34 - YouTube
+background.js:55 https://www.youtube.com/watch?v=iZ26sdng0Ww
+background.js:56 1
+background.js:57 1575930269468.2158
+background.js:58 18834753.784179688
+background.js:59 5 hour
+background.js:53 85
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?q=%E8%BF%B7%E4%BF%A1+%E5%8F%B0%E7%81%A3&sxsrf=ACYBGNQh4TEyrfajYcJExcapgb7ETYzWOQ:1575926359498&tbm=isch&source=iu&ictx=1&fir=BDlor-yrKnqrRM%253A%252Cbgm31ZsM_4a8VM%252C_&vet=1&usg=AI4_-kSGdKExLGvMajUptXRzOw5JCbVWuQ&sa=X&ved=2ahUKEwir_eWWv6nmAhWvUt8KHSwyAj0Q9QEwE3oECAgQCQ#imgrc=y4MgTvdcoea8dM:&vet=1
+background.js:56 1
+background.js:57 1575930267924.584
+background.js:58 18836298.416015625
+background.js:59 5 hour
+background.js:53 86
+background.js:54 【文化衝擊】外國人竟然有台灣人的迷信？|Canadian has Taiwanese Superstitions?| 《【Tan TV/三語家庭】》|快問快答＃9 - YouTube
+background.js:55 https://www.youtube.com/watch?v=A1YLbt0ax2c
+background.js:56 1
+background.js:57 1575930082500.291
+background.js:58 19021722.708984375
+background.js:59 5 hour
+background.js:53 87
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?q=%E8%BF%B7%E4%BF%A1+%E5%8F%B0%E7%81%A3&sxsrf=ACYBGNQh4TEyrfajYcJExcapgb7ETYzWOQ:1575926359498&tbm=isch&source=iu&ictx=1&fir=BDlor-yrKnqrRM%253A%252Cbgm31ZsM_4a8VM%252C_&vet=1&usg=AI4_-kSGdKExLGvMajUptXRzOw5JCbVWuQ&sa=X&ved=2ahUKEwir_eWWv6nmAhWvUt8KHSwyAj0Q9QEwE3oECAgQCQ#imgrc=BDlor-yrKnqrRM:
+background.js:56 2
+background.js:57 1575930050326.731
+background.js:58 19053897.26904297
+background.js:59 5 hour
+background.js:53 88
+background.js:54 Crazy lies and superstitions our parents told us when we were kids - HelloGiggles
+background.js:55 https://hellogiggles.com/lifestyle/lies-and-superstitions-parents-kids/
+background.js:56 1
+background.js:57 1575928835671.656
+background.js:58 20268553.34399414
+background.js:59 6 hour
+background.js:53 89
+background.js:54 children superstitions - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNS8aw_zH-zE89ARenXJQTHJ9iHiCg%3A1575928672005&ei=X8PuXZrrPIjm_Qa_67qgDA&q=children+superstitions&oq=children+superstitions&gs_l=psy-ab.3..0i7i10i30j0i7i30.9223.10421..12959...0.3..1.290.953.5j2j1......0....1..gws-wiz.......0i71j0i13j0j0i8i7i30.PIp6ZO3fH1U&ved=0ahUKEwjalr7lx6nmAhUIc98KHb-1DsQQ4dUDCAs&uact=5
+background.js:56 2
+background.js:57 1575928798114.0261
+background.js:58 20306110.973876953
+background.js:59 6 hour
+background.js:53 90
+background.js:54 birth superstitions - Google Search
+background.js:55 https://www.google.com/search?q=birth+superstitions&oq=birth+superstitions&aqs=chrome..69i57j0l7.21551j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 3
+background.js:57 1575928783944.695
+background.js:58 20320281.30493164
+background.js:59 6 hour
+background.js:53 91
+background.js:54 13 pregnancy superstitions from across the globe | Stuff.co.nz
+background.js:55 https://www.stuff.co.nz/life-style/parenting/pregnancy/88535413/13-pregnancy-superstitions-from-across-the-globe
+background.js:56 1
+background.js:57 1575928703539.4011
+background.js:58 20400687.598876953
+background.js:59 6 hour
+background.js:53 92
+background.js:54 Why Kids Who Believe in Something Are Happier and Healthier | Time
+background.js:55 https://time.com/3825083/why-kids-who-believe-in-something-are-happier-and-healthier/
+background.js:56 1
+background.js:57 1575928414170.822
+background.js:58 20690057.177978516
+background.js:59 6 hour
+background.js:53 93
+background.js:54 kids are more prone to believing - Google Search
+background.js:55 https://www.google.com/search?q=kids+are+more+prone+to+believing&oq=kids+are+more+prone+to+believing&aqs=chrome..69i57.5312j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575928332710.699
+background.js:58 20771518.30102539
+background.js:59 6 hour
+background.js:53 94
+background.js:54 Office Hours - ITP Help
+background.js:55 http://help.itp.nyu.edu/in-person/office-hours
+background.js:56 84
+background.js:57 1575928124532.068
+background.js:58 20979697.931884766
+background.js:59 6 hour
+background.js:53 95
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZBMG54X18yY2swfGRlZmF1bHR8ZDk3ZWU3NDA1YjY4Y2UwZDM4OWU1YWVkNWQ1ZWIzNjE
+background.js:56 3
+background.js:57 1575928123073.192
+background.js:58 20981157.80810547
+background.js:59 6 hour
+background.js:53 96
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UU5WVFR2eHpObWRffGRlZmF1bHR8ZDQ4ODZhYTBmMjY0MWU3Y2JlYmIyODhmOGQ4OTE2YzM
+background.js:56 2
+background.js:57 1575928116140.05
+background.js:58 20988090.949951172
+background.js:59 6 hour
+background.js:53 97
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZXeFYyWGh2VlkyfGRlZmF1bHR8MTA2N2Y2YTdiMWYwOGMyMzYyNmVmYjZmZjNlNWJhNzg
+background.js:56 2
+background.js:57 1575928106015.924
+background.js:58 20998216.075927734
+background.js:59 6 hour
+background.js:53 98
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUtPd1BqbEtRNXBvfGRlZmF1bHR8MDg1YzBmOWY3OGFiM2UyNGNmN2VlYmNkZGE2MDAyYjU
+background.js:56 4
+background.js:57 1575928101459.5908
+background.js:58 21002773.409179688
+background.js:59 6 hour
+background.js:53 99
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UU9BekE3X1FDaWNSfGRlZmF1bHR8NjQ4ZDJlYjVhYWNjM2JmMjkwNmRmMDUwNjE4ZDY0ZmQ
+background.js:56 3
+background.js:57 1575928097943.958
+background.js:58 21006290.041992188
+background.js:59 6 hour
+background.js:53 100
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZna2lBZ1dpSFAzfGRlZmF1bHR8Yzk4M2IwZTFiZmNlYzdhZjNjMmI4MzY1MzJkZDc0YmU
+background.js:56 7
+background.js:57 1575928091908.979
+background.js:58 21012326.020996094
+background.js:59 6 hour
+background.js:53 101
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUVMRlBEWElyc1BkfGRlZmF1bHR8ZDkzZWY1ZjQwYmJiODNmZmZmZTU4NDEyZDY1ZTU3Njc
+background.js:56 6
+background.js:57 1575928083240.549
+background.js:58 21020994.450927734
+background.js:59 6 hour
+background.js:53 102
+background.js:54 Shujuuu Blog | Shuju @ ITP
+background.js:55 http://blog.shujuuu.com/
+background.js:56 95
+background.js:57 1575927943430.722
+background.js:58 21160805.278076172
+background.js:59 6 hour
+background.js:53 103
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=66KagJMmG6L4pM:
+background.js:56 1
+background.js:57 1575927784119.721
+background.js:58 21320117.279052734
+background.js:59 6 hour
+background.js:53 104
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=_
+background.js:56 3
+background.js:57 1575927780957.9739
+background.js:58 21323280.026123047
+background.js:59 6 hour
+background.js:53 105
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=mnn1Ras8NUDwQM:
+background.js:56 2
+background.js:57 1575927778039.226
+background.js:58 21326198.77392578
+background.js:59 6 hour
+background.js:53 106
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=CItdgXo23QXzOM:
+background.js:56 1
+background.js:57 1575927752436.024
+background.js:58 21351802.97607422
+background.js:59 6 hour
+background.js:53 107
+background.js:54 Short Timeline History of Internet
+background.js:55 https://www.slideshare.net/VeaCarino/short-timeline-history-of-internet
+background.js:56 1
+background.js:57 1575927744141.509
+background.js:58 21360098.490966797
+background.js:59 6 hour
+background.js:53 108
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766
+background.js:56 2
+background.js:57 1575927698531.843
+background.js:58 21405709.156982422
+background.js:59 6 hour
+background.js:53 109
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&oq=internet+history&aqs=chrome..69i57j0l7.26162j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575927693912.6338
+background.js:58 21410328.366210938
+background.js:59 6 hour
+background.js:53 110
+background.js:54 失去辨證思考，台灣成迷信之島？｜天下雜誌
+background.js:55 https://www.cw.com.tw/article/article.action?id=5010620
+background.js:56 1
+background.js:57 1575926452414.48
+background.js:58 22651827.52001953
+background.js:59 6 hour
+background.js:53 111
+background.js:54 台灣人迷信到難以想像！他說，別笑女生信星座，男生玩遊戲時「這舉動」不也是？-風傳媒
+background.js:55 https://www.storm.mg/lifestyle/223368
+background.js:56 1
+background.js:57 1575926425059.221
+background.js:58 22679183.779052734
+background.js:59 6 hour
+background.js:53 112
+background.js:54 [全講中文] feat.搞神馬 “韓國vs台灣vs香港“的迷信大對決！ | 有璟妍精 | 韓國人留學生，文化差異，文化比較 - YouTube
+background.js:55 https://www.youtube.com/watch?v=Aq7fzO_qn8M
+background.js:56 1
+background.js:57 1575926413389.277
+background.js:58 22690854.72290039
+background.js:59 6 hour
+background.js:53 113
+background.js:54 各國人的不同迷信: Infamous Superstition (World Edition) - YouTube
+background.js:55 https://www.youtube.com/watch?v=WWu-d7VHrA4
+background.js:56 1
+background.js:57 1575926394298.1018
+background.js:58 22709945.89819336
+background.js:59 6 hour
+background.js:53 114
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNTmYhLVQ8gWioivcE%2FGlGPj5aCsiEFESfTUSJG8TQXQo5jmYhITCdvwJaHOG603cd8LrtiDyL5kOfL0fIly4G9HusaAHAoR%2B7U%2FWkr5w%2BrYxUw30atui46jXzGT8%2FOD%2BP%2FLzD%2FAQ%3D%3D&SigAlg=http%3A%2F%2Fwww.w3.org%2F2000%2F09%2Fxmldsig%23rsa-sha1&Signature=j29kAuBy9YkSD%2Fdvf2h1U%2BPn2031GJ50BhjZhX1NKPXhl%2BD%2BbjynM08H4tbDawfZK5QR%2BDc8fCwVDjlrNxXgsg8mxELmS1A%2F7lrAkL0a7vJ5sGvSLfyuIgrJE5y%2Fef3BVuGEXXMS9NkboNjTbViL7v01xIv%2FkjxTPXiTkaCutW2vYEbvYao3s%2BIfM8C1z04wyY6drfui4m7nqfj2HeuarOb%2Br%2FrMqXQO0nsDmuwG14EFuCYXPmGIHmlyXUER6XI%2Flm72YSi%2BGDQN%2F3YGEihxBpwClfct5DMcYeBw3nJoEQbBqgtlsXJ1lWM8xNpYpffPmPfbBiX12%2FW5CTr%2B%2BsKHKg%3D%3D
+background.js:56 1
+background.js:57 1575930629597.365
+background.js:58 18474623.635009766
+background.js:59 5 hour
+background.js:53 84
+background.js:54 台灣人的奇怪迷信! | Weird Taiwanese Superstition! | Life in Taiwan #34 - YouTube
+background.js:55 https://www.youtube.com/watch?v=iZ26sdng0Ww
+background.js:56 1
+background.js:57 1575930269468.2158
+background.js:58 18834753.784179688
+background.js:59 5 hour
+background.js:53 85
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?q=%E8%BF%B7%E4%BF%A1+%E5%8F%B0%E7%81%A3&sxsrf=ACYBGNQh4TEyrfajYcJExcapgb7ETYzWOQ:1575926359498&tbm=isch&source=iu&ictx=1&fir=BDlor-yrKnqrRM%253A%252Cbgm31ZsM_4a8VM%252C_&vet=1&usg=AI4_-kSGdKExLGvMajUptXRzOw5JCbVWuQ&sa=X&ved=2ahUKEwir_eWWv6nmAhWvUt8KHSwyAj0Q9QEwE3oECAgQCQ#imgrc=y4MgTvdcoea8dM:&vet=1
+background.js:56 1
+background.js:57 1575930267924.584
+background.js:58 18836298.416015625
+background.js:59 5 hour
+background.js:53 86
+background.js:54 【文化衝擊】外國人竟然有台灣人的迷信？|Canadian has Taiwanese Superstitions?| 《【Tan TV/三語家庭】》|快問快答＃9 - YouTube
+background.js:55 https://www.youtube.com/watch?v=A1YLbt0ax2c
+background.js:56 1
+background.js:57 1575930082500.291
+background.js:58 19021722.708984375
+background.js:59 5 hour
+background.js:53 87
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?q=%E8%BF%B7%E4%BF%A1+%E5%8F%B0%E7%81%A3&sxsrf=ACYBGNQh4TEyrfajYcJExcapgb7ETYzWOQ:1575926359498&tbm=isch&source=iu&ictx=1&fir=BDlor-yrKnqrRM%253A%252Cbgm31ZsM_4a8VM%252C_&vet=1&usg=AI4_-kSGdKExLGvMajUptXRzOw5JCbVWuQ&sa=X&ved=2ahUKEwir_eWWv6nmAhWvUt8KHSwyAj0Q9QEwE3oECAgQCQ#imgrc=BDlor-yrKnqrRM:
+background.js:56 2
+background.js:57 1575930050326.731
+background.js:58 19053897.26904297
+background.js:59 5 hour
+background.js:53 88
+background.js:54 Crazy lies and superstitions our parents told us when we were kids - HelloGiggles
+background.js:55 https://hellogiggles.com/lifestyle/lies-and-superstitions-parents-kids/
+background.js:56 1
+background.js:57 1575928835671.656
+background.js:58 20268553.34399414
+background.js:59 6 hour
+background.js:53 89
+background.js:54 children superstitions - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNS8aw_zH-zE89ARenXJQTHJ9iHiCg%3A1575928672005&ei=X8PuXZrrPIjm_Qa_67qgDA&q=children+superstitions&oq=children+superstitions&gs_l=psy-ab.3..0i7i10i30j0i7i30.9223.10421..12959...0.3..1.290.953.5j2j1......0....1..gws-wiz.......0i71j0i13j0j0i8i7i30.PIp6ZO3fH1U&ved=0ahUKEwjalr7lx6nmAhUIc98KHb-1DsQQ4dUDCAs&uact=5
+background.js:56 2
+background.js:57 1575928798114.0261
+background.js:58 20306110.973876953
+background.js:59 6 hour
+background.js:53 90
+background.js:54 birth superstitions - Google Search
+background.js:55 https://www.google.com/search?q=birth+superstitions&oq=birth+superstitions&aqs=chrome..69i57j0l7.21551j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 3
+background.js:57 1575928783944.695
+background.js:58 20320281.30493164
+background.js:59 6 hour
+background.js:53 91
+background.js:54 13 pregnancy superstitions from across the globe | Stuff.co.nz
+background.js:55 https://www.stuff.co.nz/life-style/parenting/pregnancy/88535413/13-pregnancy-superstitions-from-across-the-globe
+background.js:56 1
+background.js:57 1575928703539.4011
+background.js:58 20400687.598876953
+background.js:59 6 hour
+background.js:53 92
+background.js:54 Why Kids Who Believe in Something Are Happier and Healthier | Time
+background.js:55 https://time.com/3825083/why-kids-who-believe-in-something-are-happier-and-healthier/
+background.js:56 1
+background.js:57 1575928414170.822
+background.js:58 20690057.177978516
+background.js:59 6 hour
+background.js:53 93
+background.js:54 kids are more prone to believing - Google Search
+background.js:55 https://www.google.com/search?q=kids+are+more+prone+to+believing&oq=kids+are+more+prone+to+believing&aqs=chrome..69i57.5312j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575928332710.699
+background.js:58 20771518.30102539
+background.js:59 6 hour
+background.js:53 94
+background.js:54 Office Hours - ITP Help
+background.js:55 http://help.itp.nyu.edu/in-person/office-hours
+background.js:56 84
+background.js:57 1575928124532.068
+background.js:58 20979697.931884766
+background.js:59 6 hour
+background.js:53 95
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZBMG54X18yY2swfGRlZmF1bHR8ZDk3ZWU3NDA1YjY4Y2UwZDM4OWU1YWVkNWQ1ZWIzNjE
+background.js:56 3
+background.js:57 1575928123073.192
+background.js:58 20981157.80810547
+background.js:59 6 hour
+background.js:53 96
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UU5WVFR2eHpObWRffGRlZmF1bHR8ZDQ4ODZhYTBmMjY0MWU3Y2JlYmIyODhmOGQ4OTE2YzM
+background.js:56 2
+background.js:57 1575928116140.05
+background.js:58 20988090.949951172
+background.js:59 6 hour
+background.js:53 97
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZXeFYyWGh2VlkyfGRlZmF1bHR8MTA2N2Y2YTdiMWYwOGMyMzYyNmVmYjZmZjNlNWJhNzg
+background.js:56 2
+background.js:57 1575928106015.924
+background.js:58 20998216.075927734
+background.js:59 6 hour
+background.js:53 98
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUtPd1BqbEtRNXBvfGRlZmF1bHR8MDg1YzBmOWY3OGFiM2UyNGNmN2VlYmNkZGE2MDAyYjU
+background.js:56 4
+background.js:57 1575928101459.5908
+background.js:58 21002773.409179688
+background.js:59 6 hour
+background.js:53 99
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UU9BekE3X1FDaWNSfGRlZmF1bHR8NjQ4ZDJlYjVhYWNjM2JmMjkwNmRmMDUwNjE4ZDY0ZmQ
+background.js:56 3
+background.js:57 1575928097943.958
+background.js:58 21006290.041992188
+background.js:59 6 hour
+background.js:53 100
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZna2lBZ1dpSFAzfGRlZmF1bHR8Yzk4M2IwZTFiZmNlYzdhZjNjMmI4MzY1MzJkZDc0YmU
+background.js:56 7
+background.js:57 1575928091908.979
+background.js:58 21012326.020996094
+background.js:59 6 hour
+background.js:53 101
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUVMRlBEWElyc1BkfGRlZmF1bHR8ZDkzZWY1ZjQwYmJiODNmZmZmZTU4NDEyZDY1ZTU3Njc
+background.js:56 6
+background.js:57 1575928083240.549
+background.js:58 21020994.450927734
+background.js:59 6 hour
+background.js:53 102
+background.js:54 Shujuuu Blog | Shuju @ ITP
+background.js:55 http://blog.shujuuu.com/
+background.js:56 95
+background.js:57 1575927943430.722
+background.js:58 21160805.278076172
+background.js:59 6 hour
+background.js:53 103
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=66KagJMmG6L4pM:
+background.js:56 1
+background.js:57 1575927784119.721
+background.js:58 21320117.279052734
+background.js:59 6 hour
+background.js:53 104
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=_
+background.js:56 3
+background.js:57 1575927780957.9739
+background.js:58 21323280.026123047
+background.js:59 6 hour
+background.js:53 105
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=mnn1Ras8NUDwQM:
+background.js:56 2
+background.js:57 1575927778039.226
+background.js:58 21326198.77392578
+background.js:59 6 hour
+background.js:53 106
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=CItdgXo23QXzOM:
+background.js:56 1
+background.js:57 1575927752436.024
+background.js:58 21351802.97607422
+background.js:59 6 hour
+background.js:53 107
+background.js:54 Short Timeline History of Internet
+background.js:55 https://www.slideshare.net/VeaCarino/short-timeline-history-of-internet
+background.js:56 1
+background.js:57 1575927744141.509
+background.js:58 21360098.490966797
+background.js:59 6 hour
+background.js:53 108
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766
+background.js:56 2
+background.js:57 1575927698531.843
+background.js:58 21405709.156982422
+background.js:59 6 hour
+background.js:53 109
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&oq=internet+history&aqs=chrome..69i57j0l7.26162j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575927693912.6338
+background.js:58 21410328.366210938
+background.js:59 6 hour
+background.js:53 110
+background.js:54 失去辨證思考，台灣成迷信之島？｜天下雜誌
+background.js:55 https://www.cw.com.tw/article/article.action?id=5010620
+background.js:56 1
+background.js:57 1575926452414.48
+background.js:58 22651827.52001953
+background.js:59 6 hour
+background.js:53 111
+background.js:54 台灣人迷信到難以想像！他說，別笑女生信星座，男生玩遊戲時「這舉動」不也是？-風傳媒
+background.js:55 https://www.storm.mg/lifestyle/223368
+background.js:56 1
+background.js:57 1575926425059.221
+background.js:58 22679183.779052734
+background.js:59 6 hour
+background.js:53 112
+background.js:54 [全講中文] feat.搞神馬 “韓國vs台灣vs香港“的迷信大對決！ | 有璟妍精 | 韓國人留學生，文化差異，文化比較 - YouTube
+background.js:55 https://www.youtube.com/watch?v=Aq7fzO_qn8M
+background.js:56 1
+background.js:57 1575926413389.277
+background.js:58 22690854.72290039
+background.js:59 6 hour
+background.js:53 113
+background.js:54 各國人的不同迷信: Infamous Superstition (World Edition) - YouTube
+background.js:55 https://www.youtube.com/watch?v=WWu-d7VHrA4
+background.js:56 1
+background.js:57 1575926394298.1018
+background.js:58 22709945.89819336
+background.js:59 6 hour
+background.js:53 114
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNTmYhLVQ8gWioivcE%2FGlGPj5aCsiEFESfTUSJG8TQXQo5jmYhITCdvwJaHOG603cd8LrtiDyL5kOfL0fIly4G9HusaAHAoR%2B7U%2FWkr5w%2BrYxUw30atui46jXzGT8%2FOD%2BP%2FLzD%2FAQ%3D%3D&SigAlg=http%3A%2F%2Fwww.w3.org%2F2000%2F09%2Fxmldsig%23rsa-sha1&Signature=j29kAuBy9YkSD%2Fdvf2h1U%2BPn2031GJ50BhjZhX1NKPXhl%2BD%2BbjynM08H4tbDawfZK5QR%2BDc8fCwVDjlrNxXgsg8mxELmS1A%2F7lrAkL0a7vJ5sGvSLfyuIgrJE5y%2Fef3BVuGEXXMS9NkboNjTbViL7v01xIv%2FkjxTPXiTkaCutW2vYEbvYao3s%2BIfM8C1z04wyY6drfui4m7nqfj2HeuarOb%2Br%2FrMqXQO0nsDmuwG14EFuCYXPmGIHmlyXUER6XI%2Flm72YSi%2BGDQN%2F3YGEihxBpwClfct5DMcYeBw3nJoEQbBqgtlsXJ1lWM8xNpYpffPmPfbBiX12%2FW5CTr%2B%2BsKHKg%3D%3D
+background.js:56 1
+background.js:57 1575930629597.365
+background.js:58 18474623.635009766
+background.js:59 5 hour
+background.js:53 84
+background.js:54 台灣人的奇怪迷信! | Weird Taiwanese Superstition! | Life in Taiwan #34 - YouTube
+background.js:55 https://www.youtube.com/watch?v=iZ26sdng0Ww
+background.js:56 1
+background.js:57 1575930269468.2158
+background.js:58 18834753.784179688
+background.js:59 5 hour
+background.js:53 85
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?q=%E8%BF%B7%E4%BF%A1+%E5%8F%B0%E7%81%A3&sxsrf=ACYBGNQh4TEyrfajYcJExcapgb7ETYzWOQ:1575926359498&tbm=isch&source=iu&ictx=1&fir=BDlor-yrKnqrRM%253A%252Cbgm31ZsM_4a8VM%252C_&vet=1&usg=AI4_-kSGdKExLGvMajUptXRzOw5JCbVWuQ&sa=X&ved=2ahUKEwir_eWWv6nmAhWvUt8KHSwyAj0Q9QEwE3oECAgQCQ#imgrc=y4MgTvdcoea8dM:&vet=1
+background.js:56 1
+background.js:57 1575930267924.584
+background.js:58 18836298.416015625
+background.js:59 5 hour
+background.js:53 86
+background.js:54 【文化衝擊】外國人竟然有台灣人的迷信？|Canadian has Taiwanese Superstitions?| 《【Tan TV/三語家庭】》|快問快答＃9 - YouTube
+background.js:55 https://www.youtube.com/watch?v=A1YLbt0ax2c
+background.js:56 1
+background.js:57 1575930082500.291
+background.js:58 19021722.708984375
+background.js:59 5 hour
+background.js:53 87
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?q=%E8%BF%B7%E4%BF%A1+%E5%8F%B0%E7%81%A3&sxsrf=ACYBGNQh4TEyrfajYcJExcapgb7ETYzWOQ:1575926359498&tbm=isch&source=iu&ictx=1&fir=BDlor-yrKnqrRM%253A%252Cbgm31ZsM_4a8VM%252C_&vet=1&usg=AI4_-kSGdKExLGvMajUptXRzOw5JCbVWuQ&sa=X&ved=2ahUKEwir_eWWv6nmAhWvUt8KHSwyAj0Q9QEwE3oECAgQCQ#imgrc=BDlor-yrKnqrRM:
+background.js:56 2
+background.js:57 1575930050326.731
+background.js:58 19053897.26904297
+background.js:59 5 hour
+background.js:53 88
+background.js:54 Crazy lies and superstitions our parents told us when we were kids - HelloGiggles
+background.js:55 https://hellogiggles.com/lifestyle/lies-and-superstitions-parents-kids/
+background.js:56 1
+background.js:57 1575928835671.656
+background.js:58 20268553.34399414
+background.js:59 6 hour
+background.js:53 89
+background.js:54 children superstitions - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNS8aw_zH-zE89ARenXJQTHJ9iHiCg%3A1575928672005&ei=X8PuXZrrPIjm_Qa_67qgDA&q=children+superstitions&oq=children+superstitions&gs_l=psy-ab.3..0i7i10i30j0i7i30.9223.10421..12959...0.3..1.290.953.5j2j1......0....1..gws-wiz.......0i71j0i13j0j0i8i7i30.PIp6ZO3fH1U&ved=0ahUKEwjalr7lx6nmAhUIc98KHb-1DsQQ4dUDCAs&uact=5
+background.js:56 2
+background.js:57 1575928798114.0261
+background.js:58 20306110.973876953
+background.js:59 6 hour
+background.js:53 90
+background.js:54 birth superstitions - Google Search
+background.js:55 https://www.google.com/search?q=birth+superstitions&oq=birth+superstitions&aqs=chrome..69i57j0l7.21551j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 3
+background.js:57 1575928783944.695
+background.js:58 20320281.30493164
+background.js:59 6 hour
+background.js:53 91
+background.js:54 13 pregnancy superstitions from across the globe | Stuff.co.nz
+background.js:55 https://www.stuff.co.nz/life-style/parenting/pregnancy/88535413/13-pregnancy-superstitions-from-across-the-globe
+background.js:56 1
+background.js:57 1575928703539.4011
+background.js:58 20400687.598876953
+background.js:59 6 hour
+background.js:53 92
+background.js:54 Why Kids Who Believe in Something Are Happier and Healthier | Time
+background.js:55 https://time.com/3825083/why-kids-who-believe-in-something-are-happier-and-healthier/
+background.js:56 1
+background.js:57 1575928414170.822
+background.js:58 20690057.177978516
+background.js:59 6 hour
+background.js:53 93
+background.js:54 kids are more prone to believing - Google Search
+background.js:55 https://www.google.com/search?q=kids+are+more+prone+to+believing&oq=kids+are+more+prone+to+believing&aqs=chrome..69i57.5312j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575928332710.699
+background.js:58 20771518.30102539
+background.js:59 6 hour
+background.js:53 94
+background.js:54 Office Hours - ITP Help
+background.js:55 http://help.itp.nyu.edu/in-person/office-hours
+background.js:56 84
+background.js:57 1575928124532.068
+background.js:58 20979697.931884766
+background.js:59 6 hour
+background.js:53 95
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZBMG54X18yY2swfGRlZmF1bHR8ZDk3ZWU3NDA1YjY4Y2UwZDM4OWU1YWVkNWQ1ZWIzNjE
+background.js:56 3
+background.js:57 1575928123073.192
+background.js:58 20981157.80810547
+background.js:59 6 hour
+background.js:53 96
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UU5WVFR2eHpObWRffGRlZmF1bHR8ZDQ4ODZhYTBmMjY0MWU3Y2JlYmIyODhmOGQ4OTE2YzM
+background.js:56 2
+background.js:57 1575928116140.05
+background.js:58 20988090.949951172
+background.js:59 6 hour
+background.js:53 97
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZXeFYyWGh2VlkyfGRlZmF1bHR8MTA2N2Y2YTdiMWYwOGMyMzYyNmVmYjZmZjNlNWJhNzg
+background.js:56 2
+background.js:57 1575928106015.924
+background.js:58 20998216.075927734
+background.js:59 6 hour
+background.js:53 98
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUtPd1BqbEtRNXBvfGRlZmF1bHR8MDg1YzBmOWY3OGFiM2UyNGNmN2VlYmNkZGE2MDAyYjU
+background.js:56 4
+background.js:57 1575928101459.5908
+background.js:58 21002773.409179688
+background.js:59 6 hour
+background.js:53 99
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UU9BekE3X1FDaWNSfGRlZmF1bHR8NjQ4ZDJlYjVhYWNjM2JmMjkwNmRmMDUwNjE4ZDY0ZmQ
+background.js:56 3
+background.js:57 1575928097943.958
+background.js:58 21006290.041992188
+background.js:59 6 hour
+background.js:53 100
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZna2lBZ1dpSFAzfGRlZmF1bHR8Yzk4M2IwZTFiZmNlYzdhZjNjMmI4MzY1MzJkZDc0YmU
+background.js:56 7
+background.js:57 1575928091908.979
+background.js:58 21012326.020996094
+background.js:59 6 hour
+background.js:53 101
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUVMRlBEWElyc1BkfGRlZmF1bHR8ZDkzZWY1ZjQwYmJiODNmZmZmZTU4NDEyZDY1ZTU3Njc
+background.js:56 6
+background.js:57 1575928083240.549
+background.js:58 21020994.450927734
+background.js:59 6 hour
+background.js:53 102
+background.js:54 Shujuuu Blog | Shuju @ ITP
+background.js:55 http://blog.shujuuu.com/
+background.js:56 95
+background.js:57 1575927943430.722
+background.js:58 21160805.278076172
+background.js:59 6 hour
+background.js:53 103
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=66KagJMmG6L4pM:
+background.js:56 1
+background.js:57 1575927784119.721
+background.js:58 21320117.279052734
+background.js:59 6 hour
+background.js:53 104
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=_
+background.js:56 3
+background.js:57 1575927780957.9739
+background.js:58 21323280.026123047
+background.js:59 6 hour
+background.js:53 105
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=mnn1Ras8NUDwQM:
+background.js:56 2
+background.js:57 1575927778039.226
+background.js:58 21326198.77392578
+background.js:59 6 hour
+background.js:53 106
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=CItdgXo23QXzOM:
+background.js:56 1
+background.js:57 1575927752436.024
+background.js:58 21351802.97607422
+background.js:59 6 hour
+background.js:53 107
+background.js:54 Short Timeline History of Internet
+background.js:55 https://www.slideshare.net/VeaCarino/short-timeline-history-of-internet
+background.js:56 1
+background.js:57 1575927744141.509
+background.js:58 21360098.490966797
+background.js:59 6 hour
+background.js:53 108
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766
+background.js:56 2
+background.js:57 1575927698531.843
+background.js:58 21405709.156982422
+background.js:59 6 hour
+background.js:53 109
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&oq=internet+history&aqs=chrome..69i57j0l7.26162j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575927693912.6338
+background.js:58 21410328.366210938
+background.js:59 6 hour
+background.js:53 110
+background.js:54 失去辨證思考，台灣成迷信之島？｜天下雜誌
+background.js:55 https://www.cw.com.tw/article/article.action?id=5010620
+background.js:56 1
+background.js:57 1575926452414.48
+background.js:58 22651827.52001953
+background.js:59 6 hour
+background.js:53 111
+background.js:54 台灣人迷信到難以想像！他說，別笑女生信星座，男生玩遊戲時「這舉動」不也是？-風傳媒
+background.js:55 https://www.storm.mg/lifestyle/223368
+background.js:56 1
+background.js:57 1575926425059.221
+background.js:58 22679183.779052734
+background.js:59 6 hour
+background.js:53 112
+background.js:54 [全講中文] feat.搞神馬 “韓國vs台灣vs香港“的迷信大對決！ | 有璟妍精 | 韓國人留學生，文化差異，文化比較 - YouTube
+background.js:55 https://www.youtube.com/watch?v=Aq7fzO_qn8M
+background.js:56 1
+background.js:57 1575926413389.277
+background.js:58 22690854.72290039
+background.js:59 6 hour
+background.js:53 113
+background.js:54 各國人的不同迷信: Infamous Superstition (World Edition) - YouTube
+background.js:55 https://www.youtube.com/watch?v=WWu-d7VHrA4
+background.js:56 1
+background.js:57 1575926394298.1018
+background.js:58 22709945.89819336
+background.js:59 6 hour
+background.js:53 114
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNTmYhLVQ8gWioivcE%2FGlGPj5aCsiEFESfTUSJG8TQXQo5jmYhITCdvwJaHOG603cd8LrtiDyL5kOfL0fIly4G9HusaAHAoR%2B7U%2FWkr5w%2BrYxUw30atui46jXzGT8%2FOD%2BP%2FLzD%2FAQ%3D%3D&SigAlg=http%3A%2F%2Fwww.w3.org%2F2000%2F09%2Fxmldsig%23rsa-sha1&Signature=j29kAuBy9YkSD%2Fdvf2h1U%2BPn2031GJ50BhjZhX1NKPXhl%2BD%2BbjynM08H4tbDawfZK5QR%2BDc8fCwVDjlrNxXgsg8mxELmS1A%2F7lrAkL0a7vJ5sGvSLfyuIgrJE5y%2Fef3BVuGEXXMS9NkboNjTbViL7v01xIv%2FkjxTPXiTkaCutW2vYEbvYao3s%2BIfM8C1z04wyY6drfui4m7nqfj2HeuarOb%2Br%2FrMqXQO0nsDmuwG14EFuCYXPmGIHmlyXUER6XI%2Flm72YSi%2BGDQN%2F3YGEihxBpwClfct5DMcYeBw3nJoEQbBqgtlsXJ1lWM8xNpYpffPmPfbBiX12%2FW5CTr%2B%2BsKHKg%3D%3D
+background.js:56 1
+background.js:57 1575930629597.365
+background.js:58 18474623.635009766
+background.js:59 5 hour
+background.js:53 84
+background.js:54 台灣人的奇怪迷信! | Weird Taiwanese Superstition! | Life in Taiwan #34 - YouTube
+background.js:55 https://www.youtube.com/watch?v=iZ26sdng0Ww
+background.js:56 1
+background.js:57 1575930269468.2158
+background.js:58 18834753.784179688
+background.js:59 5 hour
+background.js:53 85
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?q=%E8%BF%B7%E4%BF%A1+%E5%8F%B0%E7%81%A3&sxsrf=ACYBGNQh4TEyrfajYcJExcapgb7ETYzWOQ:1575926359498&tbm=isch&source=iu&ictx=1&fir=BDlor-yrKnqrRM%253A%252Cbgm31ZsM_4a8VM%252C_&vet=1&usg=AI4_-kSGdKExLGvMajUptXRzOw5JCbVWuQ&sa=X&ved=2ahUKEwir_eWWv6nmAhWvUt8KHSwyAj0Q9QEwE3oECAgQCQ#imgrc=y4MgTvdcoea8dM:&vet=1
+background.js:56 1
+background.js:57 1575930267924.584
+background.js:58 18836298.416015625
+background.js:59 5 hour
+background.js:53 86
+background.js:54 【文化衝擊】外國人竟然有台灣人的迷信？|Canadian has Taiwanese Superstitions?| 《【Tan TV/三語家庭】》|快問快答＃9 - YouTube
+background.js:55 https://www.youtube.com/watch?v=A1YLbt0ax2c
+background.js:56 1
+background.js:57 1575930082500.291
+background.js:58 19021722.708984375
+background.js:59 5 hour
+background.js:53 87
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?q=%E8%BF%B7%E4%BF%A1+%E5%8F%B0%E7%81%A3&sxsrf=ACYBGNQh4TEyrfajYcJExcapgb7ETYzWOQ:1575926359498&tbm=isch&source=iu&ictx=1&fir=BDlor-yrKnqrRM%253A%252Cbgm31ZsM_4a8VM%252C_&vet=1&usg=AI4_-kSGdKExLGvMajUptXRzOw5JCbVWuQ&sa=X&ved=2ahUKEwir_eWWv6nmAhWvUt8KHSwyAj0Q9QEwE3oECAgQCQ#imgrc=BDlor-yrKnqrRM:
+background.js:56 2
+background.js:57 1575930050326.731
+background.js:58 19053897.26904297
+background.js:59 5 hour
+background.js:53 88
+background.js:54 Crazy lies and superstitions our parents told us when we were kids - HelloGiggles
+background.js:55 https://hellogiggles.com/lifestyle/lies-and-superstitions-parents-kids/
+background.js:56 1
+background.js:57 1575928835671.656
+background.js:58 20268553.34399414
+background.js:59 6 hour
+background.js:53 89
+background.js:54 children superstitions - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNS8aw_zH-zE89ARenXJQTHJ9iHiCg%3A1575928672005&ei=X8PuXZrrPIjm_Qa_67qgDA&q=children+superstitions&oq=children+superstitions&gs_l=psy-ab.3..0i7i10i30j0i7i30.9223.10421..12959...0.3..1.290.953.5j2j1......0....1..gws-wiz.......0i71j0i13j0j0i8i7i30.PIp6ZO3fH1U&ved=0ahUKEwjalr7lx6nmAhUIc98KHb-1DsQQ4dUDCAs&uact=5
+background.js:56 2
+background.js:57 1575928798114.0261
+background.js:58 20306110.973876953
+background.js:59 6 hour
+background.js:53 90
+background.js:54 birth superstitions - Google Search
+background.js:55 https://www.google.com/search?q=birth+superstitions&oq=birth+superstitions&aqs=chrome..69i57j0l7.21551j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 3
+background.js:57 1575928783944.695
+background.js:58 20320281.30493164
+background.js:59 6 hour
+background.js:53 91
+background.js:54 13 pregnancy superstitions from across the globe | Stuff.co.nz
+background.js:55 https://www.stuff.co.nz/life-style/parenting/pregnancy/88535413/13-pregnancy-superstitions-from-across-the-globe
+background.js:56 1
+background.js:57 1575928703539.4011
+background.js:58 20400687.598876953
+background.js:59 6 hour
+background.js:53 92
+background.js:54 Why Kids Who Believe in Something Are Happier and Healthier | Time
+background.js:55 https://time.com/3825083/why-kids-who-believe-in-something-are-happier-and-healthier/
+background.js:56 1
+background.js:57 1575928414170.822
+background.js:58 20690057.177978516
+background.js:59 6 hour
+background.js:53 93
+background.js:54 kids are more prone to believing - Google Search
+background.js:55 https://www.google.com/search?q=kids+are+more+prone+to+believing&oq=kids+are+more+prone+to+believing&aqs=chrome..69i57.5312j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575928332710.699
+background.js:58 20771518.30102539
+background.js:59 6 hour
+background.js:53 94
+background.js:54 Office Hours - ITP Help
+background.js:55 http://help.itp.nyu.edu/in-person/office-hours
+background.js:56 84
+background.js:57 1575928124532.068
+background.js:58 20979697.931884766
+background.js:59 6 hour
+background.js:53 95
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZBMG54X18yY2swfGRlZmF1bHR8ZDk3ZWU3NDA1YjY4Y2UwZDM4OWU1YWVkNWQ1ZWIzNjE
+background.js:56 3
+background.js:57 1575928123073.192
+background.js:58 20981157.80810547
+background.js:59 6 hour
+background.js:53 96
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UU5WVFR2eHpObWRffGRlZmF1bHR8ZDQ4ODZhYTBmMjY0MWU3Y2JlYmIyODhmOGQ4OTE2YzM
+background.js:56 2
+background.js:57 1575928116140.05
+background.js:58 20988090.949951172
+background.js:59 6 hour
+background.js:53 97
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZXeFYyWGh2VlkyfGRlZmF1bHR8MTA2N2Y2YTdiMWYwOGMyMzYyNmVmYjZmZjNlNWJhNzg
+background.js:56 2
+background.js:57 1575928106015.924
+background.js:58 20998216.075927734
+background.js:59 6 hour
+background.js:53 98
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUtPd1BqbEtRNXBvfGRlZmF1bHR8MDg1YzBmOWY3OGFiM2UyNGNmN2VlYmNkZGE2MDAyYjU
+background.js:56 4
+background.js:57 1575928101459.5908
+background.js:58 21002773.409179688
+background.js:59 6 hour
+background.js:53 99
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UU9BekE3X1FDaWNSfGRlZmF1bHR8NjQ4ZDJlYjVhYWNjM2JmMjkwNmRmMDUwNjE4ZDY0ZmQ
+background.js:56 3
+background.js:57 1575928097943.958
+background.js:58 21006290.041992188
+background.js:59 6 hour
+background.js:53 100
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZna2lBZ1dpSFAzfGRlZmF1bHR8Yzk4M2IwZTFiZmNlYzdhZjNjMmI4MzY1MzJkZDc0YmU
+background.js:56 7
+background.js:57 1575928091908.979
+background.js:58 21012326.020996094
+background.js:59 6 hour
+background.js:53 101
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUVMRlBEWElyc1BkfGRlZmF1bHR8ZDkzZWY1ZjQwYmJiODNmZmZmZTU4NDEyZDY1ZTU3Njc
+background.js:56 6
+background.js:57 1575928083240.549
+background.js:58 21020994.450927734
+background.js:59 6 hour
+background.js:53 102
+background.js:54 Shujuuu Blog | Shuju @ ITP
+background.js:55 http://blog.shujuuu.com/
+background.js:56 95
+background.js:57 1575927943430.722
+background.js:58 21160805.278076172
+background.js:59 6 hour
+background.js:53 103
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=66KagJMmG6L4pM:
+background.js:56 1
+background.js:57 1575927784119.721
+background.js:58 21320117.279052734
+background.js:59 6 hour
+background.js:53 104
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=_
+background.js:56 3
+background.js:57 1575927780957.9739
+background.js:58 21323280.026123047
+background.js:59 6 hour
+background.js:53 105
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=mnn1Ras8NUDwQM:
+background.js:56 2
+background.js:57 1575927778039.226
+background.js:58 21326198.77392578
+background.js:59 6 hour
+background.js:53 106
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=CItdgXo23QXzOM:
+background.js:56 1
+background.js:57 1575927752436.024
+background.js:58 21351802.97607422
+background.js:59 6 hour
+background.js:53 107
+background.js:54 Short Timeline History of Internet
+background.js:55 https://www.slideshare.net/VeaCarino/short-timeline-history-of-internet
+background.js:56 1
+background.js:57 1575927744141.509
+background.js:58 21360098.490966797
+background.js:59 6 hour
+background.js:53 108
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766
+background.js:56 2
+background.js:57 1575927698531.843
+background.js:58 21405709.156982422
+background.js:59 6 hour
+background.js:53 109
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&oq=internet+history&aqs=chrome..69i57j0l7.26162j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575927693912.6338
+background.js:58 21410328.366210938
+background.js:59 6 hour
+background.js:53 110
+background.js:54 失去辨證思考，台灣成迷信之島？｜天下雜誌
+background.js:55 https://www.cw.com.tw/article/article.action?id=5010620
+background.js:56 1
+background.js:57 1575926452414.48
+background.js:58 22651827.52001953
+background.js:59 6 hour
+background.js:53 111
+background.js:54 台灣人迷信到難以想像！他說，別笑女生信星座，男生玩遊戲時「這舉動」不也是？-風傳媒
+background.js:55 https://www.storm.mg/lifestyle/223368
+background.js:56 1
+background.js:57 1575926425059.221
+background.js:58 22679183.779052734
+background.js:59 6 hour
+background.js:53 112
+background.js:54 [全講中文] feat.搞神馬 “韓國vs台灣vs香港“的迷信大對決！ | 有璟妍精 | 韓國人留學生，文化差異，文化比較 - YouTube
+background.js:55 https://www.youtube.com/watch?v=Aq7fzO_qn8M
+background.js:56 1
+background.js:57 1575926413389.277
+background.js:58 22690854.72290039
+background.js:59 6 hour
+background.js:53 113
+background.js:54 各國人的不同迷信: Infamous Superstition (World Edition) - YouTube
+background.js:55 https://www.youtube.com/watch?v=WWu-d7VHrA4
+background.js:56 1
+background.js:57 1575926394298.1018
+background.js:58 22709945.89819336
+background.js:59 6 hour
+background.js:53 114
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNTmYhLVQ8gWioivcE%2FGlGPj5aCsiEFESfTUSJG8TQXQo5jmYhITCdvwJaHOG603cd8LrtiDyL5kOfL0fIly4G9HusaAHAoR%2B7U%2FWkr5w%2BrYxUw30atui46jXzGT8%2FOD%2BP%2FLzD%2FAQ%3D%3D&SigAlg=http%3A%2F%2Fwww.w3.org%2F2000%2F09%2Fxmldsig%23rsa-sha1&Signature=j29kAuBy9YkSD%2Fdvf2h1U%2BPn2031GJ50BhjZhX1NKPXhl%2BD%2BbjynM08H4tbDawfZK5QR%2BDc8fCwVDjlrNxXgsg8mxELmS1A%2F7lrAkL0a7vJ5sGvSLfyuIgrJE5y%2Fef3BVuGEXXMS9NkboNjTbViL7v01xIv%2FkjxTPXiTkaCutW2vYEbvYao3s%2BIfM8C1z04wyY6drfui4m7nqfj2HeuarOb%2Br%2FrMqXQO0nsDmuwG14EFuCYXPmGIHmlyXUER6XI%2Flm72YSi%2BGDQN%2F3YGEihxBpwClfct5DMcYeBw3nJoEQbBqgtlsXJ1lWM8xNpYpffPmPfbBiX12%2FW5CTr%2B%2BsKHKg%3D%3D
+background.js:56 1
+background.js:57 1575930629597.365
+background.js:58 18474623.635009766
+background.js:59 5 hour
+background.js:53 84
+background.js:54 台灣人的奇怪迷信! | Weird Taiwanese Superstition! | Life in Taiwan #34 - YouTube
+background.js:55 https://www.youtube.com/watch?v=iZ26sdng0Ww
+background.js:56 1
+background.js:57 1575930269468.2158
+background.js:58 18834753.784179688
+background.js:59 5 hour
+background.js:53 85
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?q=%E8%BF%B7%E4%BF%A1+%E5%8F%B0%E7%81%A3&sxsrf=ACYBGNQh4TEyrfajYcJExcapgb7ETYzWOQ:1575926359498&tbm=isch&source=iu&ictx=1&fir=BDlor-yrKnqrRM%253A%252Cbgm31ZsM_4a8VM%252C_&vet=1&usg=AI4_-kSGdKExLGvMajUptXRzOw5JCbVWuQ&sa=X&ved=2ahUKEwir_eWWv6nmAhWvUt8KHSwyAj0Q9QEwE3oECAgQCQ#imgrc=y4MgTvdcoea8dM:&vet=1
+background.js:56 1
+background.js:57 1575930267924.584
+background.js:58 18836298.416015625
+background.js:59 5 hour
+background.js:53 86
+background.js:54 【文化衝擊】外國人竟然有台灣人的迷信？|Canadian has Taiwanese Superstitions?| 《【Tan TV/三語家庭】》|快問快答＃9 - YouTube
+background.js:55 https://www.youtube.com/watch?v=A1YLbt0ax2c
+background.js:56 1
+background.js:57 1575930082500.291
+background.js:58 19021722.708984375
+background.js:59 5 hour
+background.js:53 87
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?q=%E8%BF%B7%E4%BF%A1+%E5%8F%B0%E7%81%A3&sxsrf=ACYBGNQh4TEyrfajYcJExcapgb7ETYzWOQ:1575926359498&tbm=isch&source=iu&ictx=1&fir=BDlor-yrKnqrRM%253A%252Cbgm31ZsM_4a8VM%252C_&vet=1&usg=AI4_-kSGdKExLGvMajUptXRzOw5JCbVWuQ&sa=X&ved=2ahUKEwir_eWWv6nmAhWvUt8KHSwyAj0Q9QEwE3oECAgQCQ#imgrc=BDlor-yrKnqrRM:
+background.js:56 2
+background.js:57 1575930050326.731
+background.js:58 19053897.26904297
+background.js:59 5 hour
+background.js:53 88
+background.js:54 Crazy lies and superstitions our parents told us when we were kids - HelloGiggles
+background.js:55 https://hellogiggles.com/lifestyle/lies-and-superstitions-parents-kids/
+background.js:56 1
+background.js:57 1575928835671.656
+background.js:58 20268553.34399414
+background.js:59 6 hour
+background.js:53 89
+background.js:54 children superstitions - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNS8aw_zH-zE89ARenXJQTHJ9iHiCg%3A1575928672005&ei=X8PuXZrrPIjm_Qa_67qgDA&q=children+superstitions&oq=children+superstitions&gs_l=psy-ab.3..0i7i10i30j0i7i30.9223.10421..12959...0.3..1.290.953.5j2j1......0....1..gws-wiz.......0i71j0i13j0j0i8i7i30.PIp6ZO3fH1U&ved=0ahUKEwjalr7lx6nmAhUIc98KHb-1DsQQ4dUDCAs&uact=5
+background.js:56 2
+background.js:57 1575928798114.0261
+background.js:58 20306110.973876953
+background.js:59 6 hour
+background.js:53 90
+background.js:54 birth superstitions - Google Search
+background.js:55 https://www.google.com/search?q=birth+superstitions&oq=birth+superstitions&aqs=chrome..69i57j0l7.21551j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 3
+background.js:57 1575928783944.695
+background.js:58 20320281.30493164
+background.js:59 6 hour
+background.js:53 91
+background.js:54 13 pregnancy superstitions from across the globe | Stuff.co.nz
+background.js:55 https://www.stuff.co.nz/life-style/parenting/pregnancy/88535413/13-pregnancy-superstitions-from-across-the-globe
+background.js:56 1
+background.js:57 1575928703539.4011
+background.js:58 20400687.598876953
+background.js:59 6 hour
+background.js:53 92
+background.js:54 Why Kids Who Believe in Something Are Happier and Healthier | Time
+background.js:55 https://time.com/3825083/why-kids-who-believe-in-something-are-happier-and-healthier/
+background.js:56 1
+background.js:57 1575928414170.822
+background.js:58 20690057.177978516
+background.js:59 6 hour
+background.js:53 93
+background.js:54 kids are more prone to believing - Google Search
+background.js:55 https://www.google.com/search?q=kids+are+more+prone+to+believing&oq=kids+are+more+prone+to+believing&aqs=chrome..69i57.5312j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575928332710.699
+background.js:58 20771518.30102539
+background.js:59 6 hour
+background.js:53 94
+background.js:54 Office Hours - ITP Help
+background.js:55 http://help.itp.nyu.edu/in-person/office-hours
+background.js:56 84
+background.js:57 1575928124532.068
+background.js:58 20979697.931884766
+background.js:59 6 hour
+background.js:53 95
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZBMG54X18yY2swfGRlZmF1bHR8ZDk3ZWU3NDA1YjY4Y2UwZDM4OWU1YWVkNWQ1ZWIzNjE
+background.js:56 3
+background.js:57 1575928123073.192
+background.js:58 20981157.80810547
+background.js:59 6 hour
+background.js:53 96
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UU5WVFR2eHpObWRffGRlZmF1bHR8ZDQ4ODZhYTBmMjY0MWU3Y2JlYmIyODhmOGQ4OTE2YzM
+background.js:56 2
+background.js:57 1575928116140.05
+background.js:58 20988090.949951172
+background.js:59 6 hour
+background.js:53 97
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZXeFYyWGh2VlkyfGRlZmF1bHR8MTA2N2Y2YTdiMWYwOGMyMzYyNmVmYjZmZjNlNWJhNzg
+background.js:56 2
+background.js:57 1575928106015.924
+background.js:58 20998216.075927734
+background.js:59 6 hour
+background.js:53 98
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUtPd1BqbEtRNXBvfGRlZmF1bHR8MDg1YzBmOWY3OGFiM2UyNGNmN2VlYmNkZGE2MDAyYjU
+background.js:56 4
+background.js:57 1575928101459.5908
+background.js:58 21002773.409179688
+background.js:59 6 hour
+background.js:53 99
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UU9BekE3X1FDaWNSfGRlZmF1bHR8NjQ4ZDJlYjVhYWNjM2JmMjkwNmRmMDUwNjE4ZDY0ZmQ
+background.js:56 3
+background.js:57 1575928097943.958
+background.js:58 21006290.041992188
+background.js:59 6 hour
+background.js:53 100
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZna2lBZ1dpSFAzfGRlZmF1bHR8Yzk4M2IwZTFiZmNlYzdhZjNjMmI4MzY1MzJkZDc0YmU
+background.js:56 7
+background.js:57 1575928091908.979
+background.js:58 21012326.020996094
+background.js:59 6 hour
+background.js:53 101
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUVMRlBEWElyc1BkfGRlZmF1bHR8ZDkzZWY1ZjQwYmJiODNmZmZmZTU4NDEyZDY1ZTU3Njc
+background.js:56 6
+background.js:57 1575928083240.549
+background.js:58 21020994.450927734
+background.js:59 6 hour
+background.js:53 102
+background.js:54 Shujuuu Blog | Shuju @ ITP
+background.js:55 http://blog.shujuuu.com/
+background.js:56 95
+background.js:57 1575927943430.722
+background.js:58 21160805.278076172
+background.js:59 6 hour
+background.js:53 103
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=66KagJMmG6L4pM:
+background.js:56 1
+background.js:57 1575927784119.721
+background.js:58 21320117.279052734
+background.js:59 6 hour
+background.js:53 104
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=_
+background.js:56 3
+background.js:57 1575927780957.9739
+background.js:58 21323280.026123047
+background.js:59 6 hour
+background.js:53 105
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=mnn1Ras8NUDwQM:
+background.js:56 2
+background.js:57 1575927778039.226
+background.js:58 21326198.77392578
+background.js:59 6 hour
+background.js:53 106
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=CItdgXo23QXzOM:
+background.js:56 1
+background.js:57 1575927752436.024
+background.js:58 21351802.97607422
+background.js:59 6 hour
+background.js:53 107
+background.js:54 Short Timeline History of Internet
+background.js:55 https://www.slideshare.net/VeaCarino/short-timeline-history-of-internet
+background.js:56 1
+background.js:57 1575927744141.509
+background.js:58 21360098.490966797
+background.js:59 6 hour
+background.js:53 108
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766
+background.js:56 2
+background.js:57 1575927698531.843
+background.js:58 21405709.156982422
+background.js:59 6 hour
+background.js:53 109
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&oq=internet+history&aqs=chrome..69i57j0l7.26162j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575927693912.6338
+background.js:58 21410328.366210938
+background.js:59 6 hour
+background.js:53 110
+background.js:54 失去辨證思考，台灣成迷信之島？｜天下雜誌
+background.js:55 https://www.cw.com.tw/article/article.action?id=5010620
+background.js:56 1
+background.js:57 1575926452414.48
+background.js:58 22651827.52001953
+background.js:59 6 hour
+background.js:53 111
+background.js:54 台灣人迷信到難以想像！他說，別笑女生信星座，男生玩遊戲時「這舉動」不也是？-風傳媒
+background.js:55 https://www.storm.mg/lifestyle/223368
+background.js:56 1
+background.js:57 1575926425059.221
+background.js:58 22679183.779052734
+background.js:59 6 hour
+background.js:53 112
+background.js:54 [全講中文] feat.搞神馬 “韓國vs台灣vs香港“的迷信大對決！ | 有璟妍精 | 韓國人留學生，文化差異，文化比較 - YouTube
+background.js:55 https://www.youtube.com/watch?v=Aq7fzO_qn8M
+background.js:56 1
+background.js:57 1575926413389.277
+background.js:58 22690854.72290039
+background.js:59 6 hour
+background.js:53 113
+background.js:54 各國人的不同迷信: Infamous Superstition (World Edition) - YouTube
+background.js:55 https://www.youtube.com/watch?v=WWu-d7VHrA4
+background.js:56 1
+background.js:57 1575926394298.1018
+background.js:58 22709945.89819336
+background.js:59 6 hour
+background.js:53 114
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNTmYhLVQ8gWioivcE%2FGlGPj5aCsiEFESfTUSJG8TQXQo5jmYhITCdvwJaHOG603cd8LrtiDyL5kOfL0fIly4G9HusaAHAoR%2B7U%2FWkr5w%2BrYxUw30atui46jXzGT8%2FOD%2BP%2FLzD%2FAQ%3D%3D&SigAlg=http%3A%2F%2Fwww.w3.org%2F2000%2F09%2Fxmldsig%23rsa-sha1&Signature=j29kAuBy9YkSD%2Fdvf2h1U%2BPn2031GJ50BhjZhX1NKPXhl%2BD%2BbjynM08H4tbDawfZK5QR%2BDc8fCwVDjlrNxXgsg8mxELmS1A%2F7lrAkL0a7vJ5sGvSLfyuIgrJE5y%2Fef3BVuGEXXMS9NkboNjTbViL7v01xIv%2FkjxTPXiTkaCutW2vYEbvYao3s%2BIfM8C1z04wyY6drfui4m7nqfj2HeuarOb%2Br%2FrMqXQO0nsDmuwG14EFuCYXPmGIHmlyXUER6XI%2Flm72YSi%2BGDQN%2F3YGEihxBpwClfct5DMcYeBw3nJoEQbBqgtlsXJ1lWM8xNpYpffPmPfbBiX12%2FW5CTr%2B%2BsKHKg%3D%3D
+background.js:56 1
+background.js:57 1575930629597.365
+background.js:58 18474623.635009766
+background.js:59 5 hour
+background.js:53 84
+background.js:54 台灣人的奇怪迷信! | Weird Taiwanese Superstition! | Life in Taiwan #34 - YouTube
+background.js:55 https://www.youtube.com/watch?v=iZ26sdng0Ww
+background.js:56 1
+background.js:57 1575930269468.2158
+background.js:58 18834753.784179688
+background.js:59 5 hour
+background.js:53 85
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?q=%E8%BF%B7%E4%BF%A1+%E5%8F%B0%E7%81%A3&sxsrf=ACYBGNQh4TEyrfajYcJExcapgb7ETYzWOQ:1575926359498&tbm=isch&source=iu&ictx=1&fir=BDlor-yrKnqrRM%253A%252Cbgm31ZsM_4a8VM%252C_&vet=1&usg=AI4_-kSGdKExLGvMajUptXRzOw5JCbVWuQ&sa=X&ved=2ahUKEwir_eWWv6nmAhWvUt8KHSwyAj0Q9QEwE3oECAgQCQ#imgrc=y4MgTvdcoea8dM:&vet=1
+background.js:56 1
+background.js:57 1575930267924.584
+background.js:58 18836298.416015625
+background.js:59 5 hour
+background.js:53 86
+background.js:54 【文化衝擊】外國人竟然有台灣人的迷信？|Canadian has Taiwanese Superstitions?| 《【Tan TV/三語家庭】》|快問快答＃9 - YouTube
+background.js:55 https://www.youtube.com/watch?v=A1YLbt0ax2c
+background.js:56 1
+background.js:57 1575930082500.291
+background.js:58 19021722.708984375
+background.js:59 5 hour
+background.js:53 87
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?q=%E8%BF%B7%E4%BF%A1+%E5%8F%B0%E7%81%A3&sxsrf=ACYBGNQh4TEyrfajYcJExcapgb7ETYzWOQ:1575926359498&tbm=isch&source=iu&ictx=1&fir=BDlor-yrKnqrRM%253A%252Cbgm31ZsM_4a8VM%252C_&vet=1&usg=AI4_-kSGdKExLGvMajUptXRzOw5JCbVWuQ&sa=X&ved=2ahUKEwir_eWWv6nmAhWvUt8KHSwyAj0Q9QEwE3oECAgQCQ#imgrc=BDlor-yrKnqrRM:
+background.js:56 2
+background.js:57 1575930050326.731
+background.js:58 19053897.26904297
+background.js:59 5 hour
+background.js:53 88
+background.js:54 Crazy lies and superstitions our parents told us when we were kids - HelloGiggles
+background.js:55 https://hellogiggles.com/lifestyle/lies-and-superstitions-parents-kids/
+background.js:56 1
+background.js:57 1575928835671.656
+background.js:58 20268553.34399414
+background.js:59 6 hour
+background.js:53 89
+background.js:54 children superstitions - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNS8aw_zH-zE89ARenXJQTHJ9iHiCg%3A1575928672005&ei=X8PuXZrrPIjm_Qa_67qgDA&q=children+superstitions&oq=children+superstitions&gs_l=psy-ab.3..0i7i10i30j0i7i30.9223.10421..12959...0.3..1.290.953.5j2j1......0....1..gws-wiz.......0i71j0i13j0j0i8i7i30.PIp6ZO3fH1U&ved=0ahUKEwjalr7lx6nmAhUIc98KHb-1DsQQ4dUDCAs&uact=5
+background.js:56 2
+background.js:57 1575928798114.0261
+background.js:58 20306110.973876953
+background.js:59 6 hour
+background.js:53 90
+background.js:54 birth superstitions - Google Search
+background.js:55 https://www.google.com/search?q=birth+superstitions&oq=birth+superstitions&aqs=chrome..69i57j0l7.21551j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 3
+background.js:57 1575928783944.695
+background.js:58 20320281.30493164
+background.js:59 6 hour
+background.js:53 91
+background.js:54 13 pregnancy superstitions from across the globe | Stuff.co.nz
+background.js:55 https://www.stuff.co.nz/life-style/parenting/pregnancy/88535413/13-pregnancy-superstitions-from-across-the-globe
+background.js:56 1
+background.js:57 1575928703539.4011
+background.js:58 20400687.598876953
+background.js:59 6 hour
+background.js:53 92
+background.js:54 Why Kids Who Believe in Something Are Happier and Healthier | Time
+background.js:55 https://time.com/3825083/why-kids-who-believe-in-something-are-happier-and-healthier/
+background.js:56 1
+background.js:57 1575928414170.822
+background.js:58 20690057.177978516
+background.js:59 6 hour
+background.js:53 93
+background.js:54 kids are more prone to believing - Google Search
+background.js:55 https://www.google.com/search?q=kids+are+more+prone+to+believing&oq=kids+are+more+prone+to+believing&aqs=chrome..69i57.5312j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575928332710.699
+background.js:58 20771518.30102539
+background.js:59 6 hour
+background.js:53 94
+background.js:54 Office Hours - ITP Help
+background.js:55 http://help.itp.nyu.edu/in-person/office-hours
+background.js:56 84
+background.js:57 1575928124532.068
+background.js:58 20979697.931884766
+background.js:59 6 hour
+background.js:53 95
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZBMG54X18yY2swfGRlZmF1bHR8ZDk3ZWU3NDA1YjY4Y2UwZDM4OWU1YWVkNWQ1ZWIzNjE
+background.js:56 3
+background.js:57 1575928123073.192
+background.js:58 20981157.80810547
+background.js:59 6 hour
+background.js:53 96
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UU5WVFR2eHpObWRffGRlZmF1bHR8ZDQ4ODZhYTBmMjY0MWU3Y2JlYmIyODhmOGQ4OTE2YzM
+background.js:56 2
+background.js:57 1575928116140.05
+background.js:58 20988090.949951172
+background.js:59 6 hour
+background.js:53 97
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZXeFYyWGh2VlkyfGRlZmF1bHR8MTA2N2Y2YTdiMWYwOGMyMzYyNmVmYjZmZjNlNWJhNzg
+background.js:56 2
+background.js:57 1575928106015.924
+background.js:58 20998216.075927734
+background.js:59 6 hour
+background.js:53 98
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUtPd1BqbEtRNXBvfGRlZmF1bHR8MDg1YzBmOWY3OGFiM2UyNGNmN2VlYmNkZGE2MDAyYjU
+background.js:56 4
+background.js:57 1575928101459.5908
+background.js:58 21002773.409179688
+background.js:59 6 hour
+background.js:53 99
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UU9BekE3X1FDaWNSfGRlZmF1bHR8NjQ4ZDJlYjVhYWNjM2JmMjkwNmRmMDUwNjE4ZDY0ZmQ
+background.js:56 3
+background.js:57 1575928097943.958
+background.js:58 21006290.041992188
+background.js:59 6 hour
+background.js:53 100
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZna2lBZ1dpSFAzfGRlZmF1bHR8Yzk4M2IwZTFiZmNlYzdhZjNjMmI4MzY1MzJkZDc0YmU
+background.js:56 7
+background.js:57 1575928091908.979
+background.js:58 21012326.020996094
+background.js:59 6 hour
+background.js:53 101
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUVMRlBEWElyc1BkfGRlZmF1bHR8ZDkzZWY1ZjQwYmJiODNmZmZmZTU4NDEyZDY1ZTU3Njc
+background.js:56 6
+background.js:57 1575928083240.549
+background.js:58 21020994.450927734
+background.js:59 6 hour
+background.js:53 102
+background.js:54 Shujuuu Blog | Shuju @ ITP
+background.js:55 http://blog.shujuuu.com/
+background.js:56 95
+background.js:57 1575927943430.722
+background.js:58 21160805.278076172
+background.js:59 6 hour
+background.js:53 103
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=66KagJMmG6L4pM:
+background.js:56 1
+background.js:57 1575927784119.721
+background.js:58 21320117.279052734
+background.js:59 6 hour
+background.js:53 104
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=_
+background.js:56 3
+background.js:57 1575927780957.9739
+background.js:58 21323280.026123047
+background.js:59 6 hour
+background.js:53 105
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=mnn1Ras8NUDwQM:
+background.js:56 2
+background.js:57 1575927778039.226
+background.js:58 21326198.77392578
+background.js:59 6 hour
+background.js:53 106
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=CItdgXo23QXzOM:
+background.js:56 1
+background.js:57 1575927752436.024
+background.js:58 21351802.97607422
+background.js:59 6 hour
+background.js:53 107
+background.js:54 Short Timeline History of Internet
+background.js:55 https://www.slideshare.net/VeaCarino/short-timeline-history-of-internet
+background.js:56 1
+background.js:57 1575927744141.509
+background.js:58 21360098.490966797
+background.js:59 6 hour
+background.js:53 108
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766
+background.js:56 2
+background.js:57 1575927698531.843
+background.js:58 21405709.156982422
+background.js:59 6 hour
+background.js:53 109
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&oq=internet+history&aqs=chrome..69i57j0l7.26162j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575927693912.6338
+background.js:58 21410328.366210938
+background.js:59 6 hour
+background.js:53 110
+background.js:54 失去辨證思考，台灣成迷信之島？｜天下雜誌
+background.js:55 https://www.cw.com.tw/article/article.action?id=5010620
+background.js:56 1
+background.js:57 1575926452414.48
+background.js:58 22651827.52001953
+background.js:59 6 hour
+background.js:53 111
+background.js:54 台灣人迷信到難以想像！他說，別笑女生信星座，男生玩遊戲時「這舉動」不也是？-風傳媒
+background.js:55 https://www.storm.mg/lifestyle/223368
+background.js:56 1
+background.js:57 1575926425059.221
+background.js:58 22679183.779052734
+background.js:59 6 hour
+background.js:53 112
+background.js:54 [全講中文] feat.搞神馬 “韓國vs台灣vs香港“的迷信大對決！ | 有璟妍精 | 韓國人留學生，文化差異，文化比較 - YouTube
+background.js:55 https://www.youtube.com/watch?v=Aq7fzO_qn8M
+background.js:56 1
+background.js:57 1575926413389.277
+background.js:58 22690854.72290039
+background.js:59 6 hour
+background.js:53 113
+background.js:54 各國人的不同迷信: Infamous Superstition (World Edition) - YouTube
+background.js:55 https://www.youtube.com/watch?v=WWu-d7VHrA4
+background.js:56 1
+background.js:57 1575926394298.1018
+background.js:58 22709945.89819336
+background.js:59 6 hour
+background.js:53 114
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNTmYhLVQ8gWioivcE%2FGlGPj5aCsiEFESfTUSJG8TQXQo5jmYhITCdvwJaHOG603cd8LrtiDyL5kOfL0fIly4G9HusaAHAoR%2B7U%2FWkr5w%2BrYxUw30atui46jXzGT8%2FOD%2BP%2FLzD%2FAQ%3D%3D&SigAlg=http%3A%2F%2Fwww.w3.org%2F2000%2F09%2Fxmldsig%23rsa-sha1&Signature=j29kAuBy9YkSD%2Fdvf2h1U%2BPn2031GJ50BhjZhX1NKPXhl%2BD%2BbjynM08H4tbDawfZK5QR%2BDc8fCwVDjlrNxXgsg8mxELmS1A%2F7lrAkL0a7vJ5sGvSLfyuIgrJE5y%2Fef3BVuGEXXMS9NkboNjTbViL7v01xIv%2FkjxTPXiTkaCutW2vYEbvYao3s%2BIfM8C1z04wyY6drfui4m7nqfj2HeuarOb%2Br%2FrMqXQO0nsDmuwG14EFuCYXPmGIHmlyXUER6XI%2Flm72YSi%2BGDQN%2F3YGEihxBpwClfct5DMcYeBw3nJoEQbBqgtlsXJ1lWM8xNpYpffPmPfbBiX12%2FW5CTr%2B%2BsKHKg%3D%3D
+background.js:56 1
+background.js:57 1575930629597.365
+background.js:58 18474623.635009766
+background.js:59 5 hour
+background.js:53 84
+background.js:54 台灣人的奇怪迷信! | Weird Taiwanese Superstition! | Life in Taiwan #34 - YouTube
+background.js:55 https://www.youtube.com/watch?v=iZ26sdng0Ww
+background.js:56 1
+background.js:57 1575930269468.2158
+background.js:58 18834753.784179688
+background.js:59 5 hour
+background.js:53 85
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?q=%E8%BF%B7%E4%BF%A1+%E5%8F%B0%E7%81%A3&sxsrf=ACYBGNQh4TEyrfajYcJExcapgb7ETYzWOQ:1575926359498&tbm=isch&source=iu&ictx=1&fir=BDlor-yrKnqrRM%253A%252Cbgm31ZsM_4a8VM%252C_&vet=1&usg=AI4_-kSGdKExLGvMajUptXRzOw5JCbVWuQ&sa=X&ved=2ahUKEwir_eWWv6nmAhWvUt8KHSwyAj0Q9QEwE3oECAgQCQ#imgrc=y4MgTvdcoea8dM:&vet=1
+background.js:56 1
+background.js:57 1575930267924.584
+background.js:58 18836298.416015625
+background.js:59 5 hour
+background.js:53 86
+background.js:54 【文化衝擊】外國人竟然有台灣人的迷信？|Canadian has Taiwanese Superstitions?| 《【Tan TV/三語家庭】》|快問快答＃9 - YouTube
+background.js:55 https://www.youtube.com/watch?v=A1YLbt0ax2c
+background.js:56 1
+background.js:57 1575930082500.291
+background.js:58 19021722.708984375
+background.js:59 5 hour
+background.js:53 87
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?q=%E8%BF%B7%E4%BF%A1+%E5%8F%B0%E7%81%A3&sxsrf=ACYBGNQh4TEyrfajYcJExcapgb7ETYzWOQ:1575926359498&tbm=isch&source=iu&ictx=1&fir=BDlor-yrKnqrRM%253A%252Cbgm31ZsM_4a8VM%252C_&vet=1&usg=AI4_-kSGdKExLGvMajUptXRzOw5JCbVWuQ&sa=X&ved=2ahUKEwir_eWWv6nmAhWvUt8KHSwyAj0Q9QEwE3oECAgQCQ#imgrc=BDlor-yrKnqrRM:
+background.js:56 2
+background.js:57 1575930050326.731
+background.js:58 19053897.26904297
+background.js:59 5 hour
+background.js:53 88
+background.js:54 Crazy lies and superstitions our parents told us when we were kids - HelloGiggles
+background.js:55 https://hellogiggles.com/lifestyle/lies-and-superstitions-parents-kids/
+background.js:56 1
+background.js:57 1575928835671.656
+background.js:58 20268553.34399414
+background.js:59 6 hour
+background.js:53 89
+background.js:54 children superstitions - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNS8aw_zH-zE89ARenXJQTHJ9iHiCg%3A1575928672005&ei=X8PuXZrrPIjm_Qa_67qgDA&q=children+superstitions&oq=children+superstitions&gs_l=psy-ab.3..0i7i10i30j0i7i30.9223.10421..12959...0.3..1.290.953.5j2j1......0....1..gws-wiz.......0i71j0i13j0j0i8i7i30.PIp6ZO3fH1U&ved=0ahUKEwjalr7lx6nmAhUIc98KHb-1DsQQ4dUDCAs&uact=5
+background.js:56 2
+background.js:57 1575928798114.0261
+background.js:58 20306110.973876953
+background.js:59 6 hour
+background.js:53 90
+background.js:54 birth superstitions - Google Search
+background.js:55 https://www.google.com/search?q=birth+superstitions&oq=birth+superstitions&aqs=chrome..69i57j0l7.21551j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 3
+background.js:57 1575928783944.695
+background.js:58 20320281.30493164
+background.js:59 6 hour
+background.js:53 91
+background.js:54 13 pregnancy superstitions from across the globe | Stuff.co.nz
+background.js:55 https://www.stuff.co.nz/life-style/parenting/pregnancy/88535413/13-pregnancy-superstitions-from-across-the-globe
+background.js:56 1
+background.js:57 1575928703539.4011
+background.js:58 20400687.598876953
+background.js:59 6 hour
+background.js:53 92
+background.js:54 Why Kids Who Believe in Something Are Happier and Healthier | Time
+background.js:55 https://time.com/3825083/why-kids-who-believe-in-something-are-happier-and-healthier/
+background.js:56 1
+background.js:57 1575928414170.822
+background.js:58 20690057.177978516
+background.js:59 6 hour
+background.js:53 93
+background.js:54 kids are more prone to believing - Google Search
+background.js:55 https://www.google.com/search?q=kids+are+more+prone+to+believing&oq=kids+are+more+prone+to+believing&aqs=chrome..69i57.5312j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575928332710.699
+background.js:58 20771518.30102539
+background.js:59 6 hour
+background.js:53 94
+background.js:54 Office Hours - ITP Help
+background.js:55 http://help.itp.nyu.edu/in-person/office-hours
+background.js:56 84
+background.js:57 1575928124532.068
+background.js:58 20979697.931884766
+background.js:59 6 hour
+background.js:53 95
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZBMG54X18yY2swfGRlZmF1bHR8ZDk3ZWU3NDA1YjY4Y2UwZDM4OWU1YWVkNWQ1ZWIzNjE
+background.js:56 3
+background.js:57 1575928123073.192
+background.js:58 20981157.80810547
+background.js:59 6 hour
+background.js:53 96
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UU5WVFR2eHpObWRffGRlZmF1bHR8ZDQ4ODZhYTBmMjY0MWU3Y2JlYmIyODhmOGQ4OTE2YzM
+background.js:56 2
+background.js:57 1575928116140.05
+background.js:58 20988090.949951172
+background.js:59 6 hour
+background.js:53 97
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZXeFYyWGh2VlkyfGRlZmF1bHR8MTA2N2Y2YTdiMWYwOGMyMzYyNmVmYjZmZjNlNWJhNzg
+background.js:56 2
+background.js:57 1575928106015.924
+background.js:58 20998216.075927734
+background.js:59 6 hour
+background.js:53 98
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUtPd1BqbEtRNXBvfGRlZmF1bHR8MDg1YzBmOWY3OGFiM2UyNGNmN2VlYmNkZGE2MDAyYjU
+background.js:56 4
+background.js:57 1575928101459.5908
+background.js:58 21002773.409179688
+background.js:59 6 hour
+background.js:53 99
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UU9BekE3X1FDaWNSfGRlZmF1bHR8NjQ4ZDJlYjVhYWNjM2JmMjkwNmRmMDUwNjE4ZDY0ZmQ
+background.js:56 3
+background.js:57 1575928097943.958
+background.js:58 21006290.041992188
+background.js:59 6 hour
+background.js:53 100
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUZna2lBZ1dpSFAzfGRlZmF1bHR8Yzk4M2IwZTFiZmNlYzdhZjNjMmI4MzY1MzJkZDc0YmU
+background.js:56 7
+background.js:57 1575928091908.979
+background.js:58 21012326.020996094
+background.js:59 6 hour
+background.js:53 101
+background.js:54 Google Calendar
+background.js:55 https://calendar.google.com/calendar/selfsched?sstoken=UUVMRlBEWElyc1BkfGRlZmF1bHR8ZDkzZWY1ZjQwYmJiODNmZmZmZTU4NDEyZDY1ZTU3Njc
+background.js:56 6
+background.js:57 1575928083240.549
+background.js:58 21020994.450927734
+background.js:59 6 hour
+background.js:53 102
+background.js:54 Shujuuu Blog | Shuju @ ITP
+background.js:55 http://blog.shujuuu.com/
+background.js:56 95
+background.js:57 1575927943430.722
+background.js:58 21160805.278076172
+background.js:59 6 hour
+background.js:53 103
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=66KagJMmG6L4pM:
+background.js:56 1
+background.js:57 1575927784119.721
+background.js:58 21320117.279052734
+background.js:59 6 hour
+background.js:53 104
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=_
+background.js:56 3
+background.js:57 1575927780957.9739
+background.js:58 21323280.026123047
+background.js:59 6 hour
+background.js:53 105
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=mnn1Ras8NUDwQM:
+background.js:56 2
+background.js:57 1575927778039.226
+background.js:58 21326198.77392578
+background.js:59 6 hour
+background.js:53 106
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766#imgrc=CItdgXo23QXzOM:
+background.js:56 1
+background.js:57 1575927752436.024
+background.js:58 21351802.97607422
+background.js:59 6 hour
+background.js:53 107
+background.js:54 Short Timeline History of Internet
+background.js:55 https://www.slideshare.net/VeaCarino/short-timeline-history-of-internet
+background.js:56 1
+background.js:57 1575927744141.509
+background.js:58 21360098.490966797
+background.js:59 6 hour
+background.js:53 108
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&sxsrf=ACYBGNQYrdFpx-ilAFNf3WpTossoNPTG-g:1575927675756&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGgriKxKnmAhXsQ98KHU2PB_QQ_AUoBHoECA0QBg&biw=1271&bih=766
+background.js:56 2
+background.js:57 1575927698531.843
+background.js:58 21405709.156982422
+background.js:59 6 hour
+background.js:53 109
+background.js:54 internet history - Google Search
+background.js:55 https://www.google.com/search?q=internet+history&oq=internet+history&aqs=chrome..69i57j0l7.26162j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575927693912.6338
+background.js:58 21410328.366210938
+background.js:59 6 hour
+background.js:53 110
+background.js:54 失去辨證思考，台灣成迷信之島？｜天下雜誌
+background.js:55 https://www.cw.com.tw/article/article.action?id=5010620
+background.js:56 1
+background.js:57 1575926452414.48
+background.js:58 22651827.52001953
+background.js:59 6 hour
+background.js:53 111
+background.js:54 台灣人迷信到難以想像！他說，別笑女生信星座，男生玩遊戲時「這舉動」不也是？-風傳媒
+background.js:55 https://www.storm.mg/lifestyle/223368
+background.js:56 1
+background.js:57 1575926425059.221
+background.js:58 22679183.779052734
+background.js:59 6 hour
+background.js:53 112
+background.js:54 [全講中文] feat.搞神馬 “韓國vs台灣vs香港“的迷信大對決！ | 有璟妍精 | 韓國人留學生，文化差異，文化比較 - YouTube
+background.js:55 https://www.youtube.com/watch?v=Aq7fzO_qn8M
+background.js:56 1
+background.js:57 1575926413389.277
+background.js:58 22690854.72290039
+background.js:59 6 hour
+background.js:53 113
+background.js:54 各國人的不同迷信: Infamous Superstition (World Edition) - YouTube
+background.js:55 https://www.youtube.com/watch?v=WWu-d7VHrA4
+background.js:56 1
+background.js:57 1575926394298.1018
+background.js:58 22709945.89819336
+background.js:59 6 hour
+background.js:53 114
+background.js:54 迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNGrgKXxH5hS4EyKvGaDG4IvGg%3A1575926351297&ei=T7ruXd7QEejr_Qa466SgCg&q=%E8%BF%B7%E4%BF%A1+%E5%8F%B0%E7%81%A3&oq=%E8%BF%B7%E4%BF%A1+%E5%8F%B0%E7%81%A3&gs_l=psy-ab.3..0i30l3j0i8i30l5.6865.6865..7103...0.0..0.136.263.0j2......0....1..gws-wiz.IMsaTgOv_bs&ved=0ahUKEwietPGSv6nmAhXodd8KHbg1CaQQ4dUDCAs&uact=5
+background.js:56 3
+background.js:57 1575926386511.869
+background.js:58 22717733.131103516
+background.js:59 6 hour
+background.js:53 115
+background.js:54 著名迷信 台灣 - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNRIBVfEoX0LOYYk5bypcYxTnnSegw%3A1575926339153&ei=Q7ruXeXCCMOJggezirE4&q=%E8%91%97%E5%90%8D%E8%BF%B7%E4%BF%A1+%E5%8F%B0%E7%81%A3&oq=%E8%91%97%E5%90%8D%E8%BF%B7%E4%BF%A1+%E5%8F%B0%E7%81%A3&gs_l=psy-ab.3...9458.10725..11310...0.2..0.171.1038.0j7......0....1..gws-wiz.......0i71.E6o1Ozg-vXY&ved=0ahUKEwil8IuNv6nmAhXDhOAKHTNFDAcQ4dUDCAs&uact=5
+background.js:56 3
+background.js:57 1575926377923.6482
+background.js:58 22726322.35180664
+background.js:59 6 hour
+background.js:53 116
+background.js:54 著名習俗 台灣 - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNRxXUA8cMO5JcmXFIGHs0_ER7aEmA%3A1575926330819&ei=OrruXcrOMY3l_Qbq7b3ACA&q=%E8%91%97%E5%90%8D%E7%BF%92%E4%BF%97+%E5%8F%B0%E7%81%A3&oq=%E8%91%97%E5%90%8D%E7%BF%92%E4%BF%97+%E5%8F%B0%E7%81%A3&gs_l=psy-ab.3...3208.7058..7221...0.2..0.223.2213.0j13j2......0....1..gws-wiz.......0i71j0i7i30j0i8i7i30.29IwjhvrFlY&ved=0ahUKEwjK04-Jv6nmAhWNct8KHep2D4gQ4dUDCAs&uact=5
+background.js:56 2
+background.js:57 1575926356895.832
+background.js:58 22747351.16796875
+background.js:59 6 hour
+background.js:53 117
+background.js:54 著名傳統 - Google Search
+background.js:55 https://www.google.com/search?q=%E8%91%97%E5%90%8D%E5%82%B3%E7%B5%B1&oq=%E8%91%97%E5%90%8D%E5%82%B3%E7%B5%B1&aqs=chrome..69i57.5900j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575926348823.771
+background.js:58 22755424.229003906
+background.js:59 6 hour
+background.js:53 118
+background.js:54 How do Young Children Develop Trust and Distrust?
+background.js:55 https://www.newamerica.org/education-policy/early-elementary-education-policy/early-ed-watch/how-do-young-children-develop-trust-and-distrust/
+background.js:56 1
+background.js:57 1575926067686.006
+background.js:58 23036561.993896484
+background.js:59 6 hour
+background.js:53 119
+background.js:54 Life Stages of Trust | Greater Good
+background.js:55 https://greatergood.berkeley.edu/article/item/life_stages_of_trust
+background.js:56 1
+background.js:57 1575926056916.147
+background.js:58 23047332.853027344
+background.js:59 6 hour
+background.js:53 120
+background.js:54 Children’s Trust Beliefs in Others and Trusting Behavior in Peer Interaction
+background.js:55 https://www.hindawi.com/journals/cdr/2013/806597/
+background.js:56 1
+background.js:57 1575926051486.002
+background.js:58 23052763.998046875
+background.js:59 6 hour
+background.js:53 121
+background.js:54 trust in child development - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNQyY-W23OuYpc0HoPBvFCWGxT-1-A:1575925531281&q=trust+in+child+development&sa=X&ved=2ahUKEwjYz--LvKnmAhVvUN8KHaCSAAQQ1QIoAHoECA4QAQ&biw=919&bih=766
+background.js:56 3
+background.js:57 1575926032215.362
+background.js:58 23072035.637939453
+background.js:59 6 hour
+background.js:53 122
+background.js:54 Building Trust in Early Childhood
+background.js:55 https://www.parenttoolkit.com/social-and-emotional-development/advice/relationships/building-trust-in-early-childhood
+background.js:56 1
+background.js:57 1575925589068.903
+background.js:58 23515183.096923828
+background.js:59 7 hour
+background.js:53 123
+background.js:54 building up system of trust kids - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNQFFo1KaC4fhwnvuzKVNQXnSnR9RQ%3A1575925524606&ei=FLfuXbHPJO2Igged6aOYCQ&q=building+up+system+of+trust+kids&oq=building+up+system+of+trust+kids&gs_l=psy-ab.3...4703.5494..5677...0.2..0.126.469.3j2......0....1..gws-wiz.......0i71j33i22i29i30j33i160.88H3FeziXfI&ved=0ahUKEwixqdiIvKnmAhVthOAKHZ30CJMQ4dUDCAs&uact=5
+background.js:56 2
+background.js:57 1575925548741.3179
+background.js:58 23555510.682128906
+background.js:59 7 hour
+background.js:53 124
+background.js:54 building up system of trust - Google Search
+background.js:55 https://www.google.com/search?q=building+up+system+of+trust&oq=building+up+system+of+trust&aqs=chrome..69i57j33l5.3737j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575925541665.352
+background.js:58 23562587.64794922
+background.js:59 7 hour
+background.js:53 125
+background.js:54 Jiwon Shin | Nancy Section
+background.js:55 https://itp.nyu.edu/thesis/journal2020/nancy/author/js6450/
+background.js:56 1
+background.js:57 1575925256948.94
+background.js:58 23847305.060058594
+background.js:59 7 hour
+background.js:53 126
+background.js:54 David Azar serur | Nancy Section
+background.js:55 https://itp.nyu.edu/thesis/journal2020/nancy/author/das946/
+background.js:56 1
+background.js:57 1575925239108.356
+background.js:58 23865146.64404297
+background.js:59 7 hour
+background.js:53 127
+background.js:54 Jacquelyn L Liu | Margaret Section
+background.js:55 https://itp.nyu.edu/thesis/journal2020/margaret/author/jll574/
+background.js:56 1
+background.js:57 1575925230833.742
+background.js:58 23873421.25805664
+background.js:59 7 hour
+background.js:53 128
+background.js:54 Idith Barak | Kathleen Section
+background.js:55 https://itp.nyu.edu/thesis/journal2020/kathleen/author/ib1150/
+background.js:56 3
+background.js:57 1575925207486.032
+background.js:58 23896769.968017578
+background.js:59 7 hour
+background.js:53 129
+background.js:54 Lillian Ritchie | Kathleen Section
+background.js:55 https://itp.nyu.edu/thesis/journal2020/kathleen/author/lr2527/
+background.js:56 3
+background.js:57 1575925196511.3809
+background.js:58 23907746.619140625
+background.js:59 7 hour
+background.js:53 130
+background.js:54 Lillian Ritchie | Kathleen Section | Page 2
+background.js:55 https://itp.nyu.edu/thesis/journal2020/kathleen/author/lr2527/page/2/
+background.js:56 1
+background.js:57 1575925195094.563
+background.js:58 23909164.43701172
+background.js:59 7 hour
+background.js:53 131
+background.js:54 Log In ‹ ITP Thesis Journal 2020 — WordPress
+background.js:55 https://itp.nyu.edu/thesis/journal2020/wp-login.php?redirect_to=https%3A%2F%2Fitp.nyu.edu%2Fthesis%2Fjournal2020%2F
+background.js:56 7
+background.js:57 1575925174592.67
+background.js:58 23929666.330078125
+background.js:59 7 hour
+background.js:53 132
+background.js:54 Fear of the Unknown Phobia - Xenophobia
+background.js:55 https://www.fearof.net/fear-of-the-unknown-phobia-xenophobia/
+background.js:56 1
+background.js:57 1575922686002.675
+background.js:58 26418257.324951172
+background.js:59 7 hour
+background.js:53 133
+background.js:54 fear of waht is unknown human - Google Search
+background.js:55 https://www.google.com/search?q=fear+of+waht+is+unknown+human&oq=fear+of+waht+is+unknown+human&aqs=chrome..69i57j33l2.13912j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575922571580.858
+background.js:58 26532680.142089844
+background.js:59 7 hour
+background.js:53 134
+background.js:54 Inbox (2,891) - linshujuuu@gmail.com - Gmail
+background.js:55 https://mail.google.com/mail/u/2/#inbox
+background.js:56 103
+background.js:57 1575922006529.276
+background.js:58 27097732.724121094
+background.js:59 8 hour
+background.js:53 135
+background.js:54 [itp-students] [Unconference 2020]: Information Session and Call for Organizers! - linshujuuu@gmail.com - Gmail
+background.js:55 https://mail.google.com/mail/u/2/#inbox/FMfcgxwGCGvsZPHWVHhpBLVQnqMRSLSC
+background.js:56 1
+background.js:57 1575921935333.459
+background.js:58 27168929.541015625
+background.js:59 8 hour
+background.js:53 136
+background.js:54 Inbox (1,407) - sjl779@nyu.edu - New York University Mail
+background.js:55 https://mail.google.com/mail/u/1/?tab=wm&ogbl#inbox
+background.js:56 31
+background.js:57 1575921923324.7969
+background.js:58 27180939.203125
+background.js:59 8 hour
+background.js:53 137
+background.js:54 ITP Project Information
+background.js:55 https://itp.nyu.edu/projects/projectinfo.php?project_id=8471
+background.js:56 26
+background.js:57 1575921895191.762
+background.js:58 27209072.23803711
+background.js:59 8 hour
+background.js:53 138
+background.js:54 ITP Projects Database
+background.js:55 https://itp.nyu.edu/projects/addprojectuser_new.php?project_id=8471&action=add_user&user_id=lsl369
+background.js:56 1
+background.js:57 1575921891143.478
+background.js:58 27213121.521972656
+background.js:59 8 hour
+background.js:53 139
+background.js:54 ITP Projects Database
+background.js:55 https://itp.nyu.edu/projects/addprojectuser_new.php?project_id=8471
+background.js:56 2
+background.js:57 1575921878023.469
+background.js:58 27226242.53100586
+background.js:59 8 hour
+background.js:53 140
+background.js:54 ITP Projects Database
+background.js:55 https://itp.nyu.edu/projects/editproject.php?project_id=8471
+background.js:56 6
+background.js:57 1575921870015.426
+background.js:58 27234251.57397461
+background.js:59 8 hour
+background.js:53 141
+background.js:54 Satellites
+background.js:55 http://jiwonshin.com/above-us/
+background.js:56 1
+background.js:57 1575921715406.637
+background.js:58 27388860.36303711
+background.js:59 8 hour
+background.js:53 142
+background.js:54 ITP Projects Database
+background.js:55 https://itp.nyu.edu/projects/addprojectuser_new.php?project_id=8471&action=remove_user&user_id=cy1278
+background.js:56 2
+background.js:57 1575921617210.5752
+background.js:58 27487057.424804688
+background.js:59 8 hour
+background.js:53 143
+background.js:54 ITP Projects Database
+background.js:55 https://itp.nyu.edu/projects/addprojectuser_new.php?project_id=8471&action=make_point&user_id=cy1278
+background.js:56 1
+background.js:57 1575921614732.798
+background.js:58 27489536.201904297
+background.js:59 8 hour
+background.js:53 144
+background.js:54 ITP Projects Database
+background.js:55 https://itp.nyu.edu/projects/addprojectuser_new.php?project_id=8471&action=add_user&user_id=cy1278
+background.js:56 2
+background.js:57 1575921612894.584
+background.js:58 27491375.416015625
+background.js:59 8 hour
+background.js:53 145
+background.js:54 ITP Projects Database
+background.js:55 https://itp.nyu.edu/projects/
+background.js:56 3
+background.js:57 1575921587581.5789
+background.js:58 27516688.421142578
+background.js:59 8 hour
+background.js:53 146
+background.js:54 [ITP Announce: 3187] [WS19 Production Announcement No 3] Missing information in Show Submissions - sjl779@nyu.edu - New York University Mail
+background.js:55 https://mail.google.com/mail/u/1/?tab=wm&ogbl#inbox/FMfcgxwGCGxBxpsjpqGCntwpKLpdwKdM
+background.js:56 1
+background.js:57 1575921582060.773
+background.js:58 27522210.22705078
+background.js:59 8 hour
+background.js:53 147
+background.js:54 Google
+background.js:55 https://www.google.com/webhp?authuser=1
+background.js:56 68
+background.js:57 1575921567927.325
+background.js:58 27536344.675048828
+background.js:59 8 hour
+background.js:53 148
+background.js:54 NYU Login
+background.js:55 https://shibboleth.nyu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s2
+background.js:56 65
+background.js:57 1575921566244.969
+background.js:58 27538027.03100586
+background.js:59 8 hour
+background.js:53 149
+background.js:54 NYU Login
+background.js:55 https://shibboleth.nyu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+background.js:56 67
+background.js:57 1575921555815.594
+background.js:58 27548458.40600586
+background.js:59 8 hour
+background.js:53 150
+background.js:54 GitHub · Where software is built
+background.js:55 https://github.com/
+background.js:56 28
+background.js:57 1575908167709.868
+background.js:58 40936564.13208008
+background.js:59 11 hour
+background.js:53 151
+background.js:54 [ITP Announce: 3184] Upcoming Events! - sjl779@nyu.edu - New York University Mail
+background.js:55 https://mail.google.com/mail/u/1/?tab=wm&ogbl#inbox/FMfcgxwGCGxBpVlwSGVVSPqnpKvjvVrV
+background.js:56 2
+background.js:57 1575901863807.7031
+background.js:58 47240467.296875
+background.js:59 13 hour
+background.js:53 152
+background.js:54 ITP Student Award/Prize - sjl779@nyu.edu - New York University Mail
+background.js:55 https://mail.google.com/mail/u/1/?tab=wm&ogbl#search/paul/FMfcgxwGBmpLmpkbPPkNJmxDDMVRMhXz
+background.js:56 1
+background.js:57 1575901788369.123
+background.js:58 47315906.876953125
+background.js:59 13 hour
+background.js:53 153
+background.js:54 Search results - sjl779@nyu.edu - New York University Mail
+background.js:55 https://mail.google.com/mail/u/1/?tab=wm&ogbl#search/paul
+background.js:56 1
+background.js:57 1575901786373.546
+background.js:58 47317902.45410156
+background.js:59 13 hour
+background.js:53 154
+background.js:54 Why People Believe Weird Things: Pseudoscience, Superstition, and Other Confusions of Our Time by Michael Shermer
+background.js:55 https://www.goodreads.com/book/show/89281.Why_People_Believe_Weird_Things?from_search=true&qid=SWfI9QtSDv&rank=6
+background.js:56 1
+background.js:57 1575875827326.8809
+background.js:58 73276950.11914062
+background.js:59 20 hour
+background.js:53 155
+background.js:54 Life is a Miracle: An Essay Against Modern Superstition by Wendell Berry
+background.js:55 https://www.goodreads.com/book/show/76732.Life_is_a_Miracle?from_search=true&qid=SWfI9QtSDv&rank=15
+background.js:56 1
+background.js:57 1575875826004.673
+background.js:58 73278273.3269043
+background.js:59 20 hour
+background.js:53 156
+background.js:54 BobCat - The Last Superstition: A Refutation of the New Atheism
+background.js:55 http://bobcat.library.nyu.edu/primo-explore/search?query=any,contains,The%20Last%20Superstition:%20A%20Refutation%20of%20the%20New%20Atheism&tab=all&search_scope=all&sortby=rank&vid=NYU&lang=en_US&mode=basic
+background.js:56 2
+background.js:57 1575875776438.539
+background.js:58 73327840.4609375
+background.js:59 20 hour
+background.js:53 157
+background.js:54 bobcat.library.nyu.edu/primo-explore/search?institution=NYU&vid=NYU&tab=all&search_scope=all&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&displayField=all&primoQueryTemp=The Last Superstition: A Refutation of the New Atheism&query=any,contains,The Last Superstition: A Refutation of the New Atheism&sortby=rank&lang=en_US
+background.js:55 http://bobcat.library.nyu.edu/primo-explore/search?institution=NYU&vid=NYU&tab=all&search_scope=all&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&displayField=all&primoQueryTemp=The%20Last%20Superstition:%20A%20Refutation%20of%20the%20New%20Atheism&query=any,contains,The%20Last%20Superstition:%20A%20Refutation%20of%20the%20New%20Atheism&sortby=rank&lang=en_US
+background.js:56 2
+background.js:57 1575875775909.9172
+background.js:58 73328370.08276367
+background.js:59 20 hour
+background.js:53 158
+background.js:54 
+background.js:55 http://bobcat.library.nyu.edu/primo-explore/search?institution=NYU&vid=NYU&tab=all&search_scope=all&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&displayField=all&primoQueryTemp=The%20Last%20Superstition%3A%20A%20Refutation%20of%20the%20New%20Atheism&query=any,contains,The%20Last%20Superstition%3A%20A%20Refutation%20of%20the%20New%20Atheism&sortby=rank&lang=en_US
+background.js:56 2
+background.js:57 1575875775421.008
+background.js:58 73328859.99194336
+background.js:59 20 hour
+background.js:53 159
+background.js:54 BobCat - Believing in Magic: The Psychology of Superstition
+background.js:55 http://bobcat.library.nyu.edu/primo-explore/search?query=any,contains,Believing%20in%20Magic:%20The%20Psychology%20of%20Superstition&tab=all&search_scope=all&sortby=date&vid=NYU&facet=frbrgroupidnclude,657318266&lang=en_US&mode=basic&offset=0
+background.js:56 4
+background.js:57 1575875648395.918
+background.js:58 73455886.08203125
+background.js:59 20 hour
+background.js:53 160
+background.js:54 BobCat - Believing in Magic: The Psychology of Superstition
+background.js:55 http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph001257053&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&isFrbr=true&tab=all&query=any,contains,Believing%20in%20Magic:%20The%20Psychology%20of%20Superstition&sortby=date&facet=frbrgroupidnclude,657318266&mode=basic&offset=0
+background.js:56 3
+background.js:57 1575875583587.985
+background.js:58 73520694.01489258
+background.js:59 20 hour
+background.js:53 161
+background.js:54 Holdings
+background.js:55 https://aleph.library.nyu.edu/F/HNPNEFF51GI2LNUHJCNGD2ISQECSSKRY549MHG4H2DIQIXT8CQ-00153?func=item-global&amp=&amp=&amp=&amp=&doc_library=NYU01&local_base=PRIMOCOMMON&doc_number=001257053&sub_library=BOBST&pds_handle=91220192351675217505487177958815
+background.js:56 1
+background.js:57 1575875510434.606
+background.js:58 73593848.39404297
+background.js:59 20 hour
+background.js:53 162
+background.js:54 GetIt | Believing in magic : the psychology of superstition
+background.js:55 https://getit.library.nyu.edu/resolve?&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&ctx_tim=2019-12-09T02%3A10%3A38IST&url_ver=Z39.88-2004&url_ctx_fmt=infofi/fmt:kev:mtx:ctx&rfr_id=info:sid/primo.exlibrisgroup.com:primo-nyu_aleph001257053&rft_val_fmt=info:ofi/fmt:kev:mtx:book&rft.genre=book&rft.jtitle=&rft.btitle=Believing%20in%20magic%20:%20the%20psychology%20of%20superstition&rft.aulast=Vyse&rft.aufirst=Stuart%20A.&rft.auinit=&rft.auinit1=&rft.auinitm=&rft.ausuffix=&rft.au=Vyse,%20Stuart%20A&rft.aucorp=&rft.volume=&rft.issue=&rft.part=&rft.quarter=&rft.ssn=&rft.spage=&rft.epage=&rft.pages=&rft.artnum=&rft.pub=Oxford%20University%20Press&rft.place=New%20York&rft.issn=&rft.eissn=&rft.isbn=0195078829&rft.sici=&rft.coden=&rft_id=info:doi/&rft.object_id=&rft.primo=nyu_aleph001257053&rft.eisbn=&rft_dat=%3Cnyu_aleph%3E001257053%3C/nyu_aleph%3E%3Cgrp_id%3E657318266%3C/grp_id%3E%3Coa%3E%3C/oa%3E%3Curl%3E%3C/url%3E&rft_id=info:oai/&req.language=eng
+background.js:56 1
+background.js:57 1575875500142.05
+background.js:58 73604141.94995117
+background.js:59 20 hour
+background.js:53 163
+background.js:54 BobCat - Believing in Magic: The Psychology of Superstition
+background.js:55 http://bobcat.library.nyu.edu/primo-explore/search?query=any,contains,Believing%20in%20Magic:%20The%20Psychology%20of%20Superstition&tab=all&search_scope=all&sortby=rank&vid=NYU&lang=en_US&mode=basic
+background.js:56 2
+background.js:57 1575875452576.8398
+background.js:58 73651708.16015625
+background.js:59 20 hour
+background.js:53 164
+background.js:54 BobCat - Believing in Magic: The Psychology of Superstition
+background.js:55 http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003911704&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&tab=all&query=any,contains,Believing%20in%20Magic:%20The%20Psychology%20of%20Superstition&sortby=rank&mode=basic
+background.js:56 1
+background.js:57 1575875443830.1301
+background.js:58 73660455.86987305
+background.js:59 20 hour
+background.js:53 165
+background.js:54 bobcat.library.nyu.edu/primo-explore/search?institution=NYU&vid=NYU&tab=all&search_scope=all&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&displayField=all&primoQueryTemp=Believing in Magic: The Psychology of Superstition&query=any,contains,Believing in Magic: The Psychology of Superstition&sortby=rank&lang=en_US
+background.js:55 http://bobcat.library.nyu.edu/primo-explore/search?institution=NYU&vid=NYU&tab=all&search_scope=all&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&displayField=all&primoQueryTemp=Believing%20in%20Magic:%20The%20Psychology%20of%20Superstition&query=any,contains,Believing%20in%20Magic:%20The%20Psychology%20of%20Superstition&sortby=rank&lang=en_US
+background.js:56 1
+background.js:57 1575875421035.6482
+background.js:58 73683250.35180664
+background.js:59 20 hour
+background.js:53 166
+background.js:54 
+background.js:55 http://bobcat.library.nyu.edu/primo-explore/search?institution=NYU&vid=NYU&tab=all&search_scope=all&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&displayField=all&primoQueryTemp=Believing%20in%20Magic%3A%20The%20Psychology%20of%20Superstition&query=any,contains,Believing%20in%20Magic%3A%20The%20Psychology%20of%20Superstition&sortby=rank&lang=en_US
+background.js:56 1
+background.js:57 1575875420460.5178
+background.js:58 73683826.48217773
+background.js:59 20 hour
+background.js:53 167
+background.js:54 Believing in Magic: The Psychology of Superstition by Stuart A. Vyse
+background.js:55 https://www.goodreads.com/book/show/1166336.Believing_in_Magic?from_search=true&qid=SWfI9QtSDv&rank=50
+background.js:56 2
+background.js:57 1575875409931.631
+background.js:58 73694356.36889648
+background.js:59 20 hour
+background.js:53 168
+background.js:54 Stuart A. Vyse (Author of Believing in Magic)
+background.js:55 https://www.goodreads.com/author/show/569946.Stuart_A_Vyse
+background.js:56 1
+background.js:57 1575875401105.572
+background.js:58 73703183.42797852
+background.js:59 20 hour
+background.js:53 169
+background.js:54 BobCat - The Encyclopedia of Superstitions
+background.js:55 http://bobcat.library.nyu.edu/primo-explore/search?query=any,contains,The%20Encyclopedia%20of%20Superstitions&tab=all&search_scope=all&vid=NYU&lang=en_US&offset=0
+background.js:56 3
+background.js:57 1575875352866.786
+background.js:58 73751422.21411133
+background.js:59 20 hour
+background.js:53 170
+background.js:54 Encyclopaedia of Superstitions, Folklore, and the Occult Sciences of the Wo... - Google Books
+background.js:55 https://www.google.com/books/edition/Encyclopaedia_of_Superstitions_Folklore/ns0gK0efOvYC?hl=en&gbpv=1
+background.js:56 1
+background.js:57 1575875333319.9001
+background.js:58 73770970.09985352
+background.js:59 20 hour
+background.js:53 171
+background.js:54 Encyclopaedia of Superstitions, Folklore, and the Occult Sciences of the Wo... - Google Books
+background.js:55 https://www.google.com/books/edition/Encyclopaedia_of_Superstitions_Folklore/ns0gK0efOvYC?hl=en&gbpv=0
+background.js:56 1
+background.js:57 1575875328216.066
+background.js:58 73776074.93408203
+background.js:59 20 hour
+background.js:53 172
+background.js:54 Encyclopaedia of Superstitions, Folklore, and the Occult Sciences of the Wo... - Google Books
+background.js:55 https://www.google.com/books/edition/Encyclopaedia_of_Superstitions_Folklore/ns0gK0efOvYC?hl=en&gbpv=1&printsec=frontcover
+background.js:56 2
+background.js:57 1575875321295.4978
+background.js:58 73782996.50219727
+background.js:59 20 hour
+background.js:53 173
+background.js:54 Encyclopedia of superstitions, folklore, and the occult sciences of the world; a comprehensive library of human belief and practice in the mysteries of life - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNSfIhqWgcgLAzUZ3l_O6OMTFJHgFg:1575875293581&q=Encyclopedia+of+superstitions,+folklore,+and+the+occult+sciences+of+the+world;+a+comprehensive+library+of+human+belief+and+practice+in+the+mysteries+of+life&spell=1&sa=X&ved=2ahUKEwiM49X4gKjmAhXttlkKHS91B-gQBSgAegQIFBAn&biw=1068&bih=766&dpr=2
+background.js:56 2
+background.js:57 1575875314005.857
+background.js:58 73790287.1430664
+background.js:59 20 hour
+background.js:53 174
+background.js:54 Encyclopaedia of superstitions, folklore, and the occult sciences of the world; a comprehensive library of human belief and practice in the mysteries of life - Google Search
+background.js:55 https://www.google.com/search?q=Encyclopaedia+of+superstitions%2C+folklore%2C+and+the+occult+sciences+of+the+world%3B+a+comprehensive+library+of+human+belief+and+practice+in+the+mysteries+of+life&oq=Encyclopaedia+of+superstitions%2C+folklore%2C+and+the+occult+sciences+of+the+world%3B+a+comprehensive+library+of+human+belief+and+practice+in+the+mysteries+of+life&aqs=chrome..69i57.820j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575875310705.386
+background.js:58 73793588.61401367
+background.js:59 20 hour
+background.js:53 175
+background.js:54 BobCat - The Encyclopedia of Superstitions
+background.js:55 http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph002389014&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&tab=all&query=any,contains,The%20Encyclopedia%20of%20Superstitions&offset=0
+background.js:56 1
+background.js:57 1575875292130.41
+background.js:58 73812163.59008789
+background.js:59 21 hour
+background.js:53 176
+background.js:54 BobCat - The Encyclopedia of Superstitions
+background.js:55 http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003345523&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&tab=all&query=any,contains,The%20Encyclopedia%20of%20Superstitions&sortby=rank&offset=0
+background.js:56 1
+background.js:57 1575875245344.1118
+background.js:58 73858950.8881836
+background.js:59 21 hour
+background.js:53 177
+background.js:54 BobCat
+background.js:55 https://getit.library.nyu.edu/holding_requests/251793613?entire=yes&pickup_location=NDIBN
+background.js:56 1
+background.js:57 1575875151607.7412
+background.js:58 73952688.25878906
+background.js:59 21 hour
+background.js:53 178
+background.js:54 Bern Dibner Library of Science and Technology - Google Maps
+background.js:55 https://www.google.com/maps/place/Bern+Dibner+Library+of+Science+and+Technology/@40.693638,-73.9870924,17.36z/data=!4m5!3m4!1s0x89c25a4af782c9ad:0x4ab20dc1f8dfaf9a!8m2!3d40.6946976!4d-73.9856659
+background.js:56 1
+background.js:57 1575875130409.429
+background.js:58 73973886.57104492
+background.js:59 21 hour
+background.js:53 179
+background.js:54 Bern Dibner Library of Science and Technology - Google Maps
+background.js:55 https://www.google.com/maps/place/Bern+Dibner+Library+of+Science+and+Technology/@40.6924359,-73.9858089,17.36z/data=!4m5!3m4!1s0x89c25a4af782c9ad:0x4ab20dc1f8dfaf9a!8m2!3d40.6946976!4d-73.9856659
+background.js:56 1
+background.js:57 1575875129449.045
+background.js:58 73974847.95507812
+background.js:59 21 hour
+background.js:53 180
+background.js:54 Bern Dibner Library of Science and Technology - Google Maps
+background.js:55 https://www.google.com/maps/place/Bern+Dibner+Library+of+Science+and+Technology/@40.6924012,-73.9933567,14.67z/data=!4m5!3m4!1s0x89c25a4af782c9ad:0x4ab20dc1f8dfaf9a!8m2!3d40.6946976!4d-73.9856659
+background.js:56 1
+background.js:57 1575875126544.887
+background.js:58 73977753.11303711
+background.js:59 21 hour
+background.js:53 181
+background.js:54 Bern Dibner Library of Science and Technology - Google Maps
+background.js:55 https://www.google.com/maps/place/Bern+Dibner+Library+of+Science+and+Technology/@40.6924147,-73.9904206,15.24z/data=!4m5!3m4!1s0x89c25a4af782c9ad:0x4ab20dc1f8dfaf9a!8m2!3d40.6946976!4d-73.9856659
+background.js:56 1
+background.js:57 1575875125221.689
+background.js:58 73979077.31103516
+background.js:59 21 hour
+background.js:53 182
+background.js:54 Bern Dibner Library of Science and Technology - Google Maps
+background.js:55 https://www.google.com/maps/place/Bern+Dibner+Library+of+Science+and+Technology/@40.6924168,-73.9899613,15.36z/data=!4m5!3m4!1s0x89c25a4af782c9ad:0x4ab20dc1f8dfaf9a!8m2!3d40.6946976!4d-73.9856659
+background.js:56 1
+background.js:57 1575875123727.0999
+background.js:58 73980571.90014648
+background.js:59 21 hour
+background.js:53 183
+background.js:54 Bern Dibner Library of Science and Technology - Google Maps
+background.js:55 https://www.google.com/maps/place/Bern+Dibner+Library+of+Science+and+Technology/@40.6968435,-73.9936522,15.36z/data=!4m5!3m4!1s0x89c25a4af782c9ad:0x4ab20dc1f8dfaf9a!8m2!3d40.6946976!4d-73.9856659
+background.js:56 1
+background.js:57 1575875122060.312
+background.js:58 73982239.68798828
+background.js:59 21 hour
+background.js:53 184
+background.js:54 Bern Dibner Library of Science and Technology - Google Maps
+background.js:55 https://www.google.com/maps/place/Bern+Dibner+Library+of+Science+and+Technology/@40.6954945,-73.9900076,16.16z/data=!4m5!3m4!1s0x89c25a4af782c9ad:0x4ab20dc1f8dfaf9a!8m2!3d40.6946976!4d-73.9856659
+background.js:56 1
+background.js:57 1575875119847.72
+background.js:58 73984453.2800293
+background.js:59 21 hour
+background.js:53 185
+background.js:54 Bern Dibner Library of Science and Technology - Google Maps
+background.js:55 https://www.google.com/maps/place/Bern+Dibner+Library+of+Science+and+Technology/@40.6946976,-73.9878546,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25a4af782c9ad:0x4ab20dc1f8dfaf9a!8m2!3d40.6946976!4d-73.9856659
+background.js:56 1
+background.js:57 1575875116159.2131
+background.js:58 73988141.78686523
+background.js:59 21 hour
+background.js:53 186
+background.js:54 Bern Dibner Library of Science and Technology - Google Maps
+background.js:55 https://www.google.com/maps/search/nyu+dibner/@40.651312,-74.0170418,15z
+background.js:56 1
+background.js:57 1575875115110.074
+background.js:58 73989191.92602539
+background.js:59 21 hour
+background.js:53 187
+background.js:54 nyu dibner - Google Maps
+background.js:55 https://www.google.com/maps
+background.js:56 56
+background.js:57 1575875111848.899
+background.js:58 73992454.10107422
+background.js:59 21 hour
+background.js:53 188
+background.js:54 BobCat
+background.js:55 https://getit.library.nyu.edu/holding_requests/new/251793613?umlaut.institution=NYU
+background.js:56 1
+background.js:57 1575875081592.115
+background.js:58 74022711.88500977
+background.js:59 21 hour
+background.js:53 189
+background.js:54 GetIt | Life is a miracle : an essay against modern superstition
+background.js:55 https://getit.library.nyu.edu/resolve?&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&ctx_tim=2019-12-09T02%3A03%3A52IST&url_ver=Z39.88-2004&url_ctx_fmt=infofi/fmt:kev:mtx:ctx&rfr_id=info:sid/primo.exlibrisgroup.com:primo-nyu_aleph001629459&rft_val_fmt=info:ofi/fmt:kev:mtx:book&rft.genre=book&rft.jtitle=&rft.btitle=Life%20is%20a%20miracle%20:%20an%20essay%20against%20modern%20superstition&rft.aulast=Berry&rft.aufirst=Wendell,&rft.auinit=&rft.auinit1=&rft.auinitm=&rft.ausuffix=&rft.au=Berry,%20Wendell,%201934-&rft.aucorp=&rft.volume=&rft.issue=&rft.part=&rft.quarter=&rft.ssn=&rft.spage=&rft.epage=&rft.pages=&rft.artnum=&rft.pub=Counterpoint&rft.place=Washington,%20D.C.&rft.issn=&rft.eissn=&rft.isbn=1582430586&rft.sici=&rft.coden=&rft_id=info:doi/&rft.object_id=&rft.primo=nyu_aleph001629459&rft.eisbn=&rft_dat=%3Cnyu_aleph%3E001629459%3C/nyu_aleph%3E%3Cgrp_id%3E653261522%3C/grp_id%3E%3Coa%3E%3C/oa%3E%3Curl%3E%3C/url%3E&rft_id=info:oai/&req.language=eng
+background.js:56 2
+background.js:57 1575875065843.2769
+background.js:58 74038460.72314453
+background.js:59 21 hour
+background.js:53 190
+background.js:54 BobCat - The Encyclopedia of Superstitions
+background.js:55 http://bobcat.library.nyu.edu/primo-explore/search?query=any,contains,superstition&tab=all&search_scope=all&sortby=rank&vid=NYU&lang=en_US&mode=basic
+background.js:56 1
+background.js:57 1575875049256.775
+background.js:58 74055048.22509766
+background.js:59 21 hour
+background.js:53 191
+background.js:54 Superstition : belief in the age of science - New York University
+background.js:55 http://bobcat.library.nyu.edu/primo-explore/fulldisplay?vid=NYU&search_scope=all&tab=all&docid=nyu_aleph004152370&lang=en_US&context=L&adaptor=Local%20Search%20Engine&isFrbr=true&query=any,contains,superstition&sortby=rank&mode=basic
+background.js:56 1
+background.js:57 1575875049051.421
+background.js:58 74055254.57910156
+background.js:59 21 hour
+background.js:53 192
+background.js:54 Life is a miracle : an essay against modern superstition - New York University
+background.js:55 http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph001629459&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&tab=all&query=any,contains,Life%20is%20a%20Miracle:%20An%20Essay%20Against%20Modern%20Superstition&sortby=rank&mode=basic
+background.js:56 2
+background.js:57 1575875048068.846
+background.js:58 74056238.15405273
+background.js:59 21 hour
+background.js:53 193
+background.js:54 bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph001629459&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local Search Engine&tab=all&query=any,contains,Life is a Miracle: An Essay Against Modern Superstition&sortby=rank&mode=basic&from-new-ui=1&authenticationProfile=BASE_PROFILE&loginId=_1dbc96dab1cfc74fddab346019da4016
+background.js:55 http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph001629459&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&tab=all&query=any,contains,Life%20is%20a%20Miracle:%20An%20Essay%20Against%20Modern%20Superstition&sortby=rank&mode=basic&from-new-ui=1&authenticationProfile=BASE_PROFILE&loginId=_1dbc96dab1cfc74fddab346019da4016
+background.js:56 1
+background.js:57 1575875047956.328
+background.js:58 74056351.67211914
+background.js:59 21 hour
+background.js:53 194
+background.js:54 
+background.js:55 http://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph001629459&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&tab=all&query=any%2Ccontains%2CLife%20is%20a%20Miracle%3A%20An%20Essay%20Against%20Modern%20Superstition&sortby=rank&mode=basic&from-new-ui=1&authenticationProfile=BASE_PROFILE&loginId=_1dbc96dab1cfc74fddab346019da4016
+background.js:56 1
+background.js:57 1575875047327.405
+background.js:58 74056980.5949707
+background.js:59 21 hour
+background.js:53 195
+background.js:54 BobCat
+background.js:55 https://login.library.nyu.edu/
+background.js:56 1
+background.js:57 1575875019663.36
+background.js:58 74084645.63989258
+background.js:59 21 hour
+background.js:53 196
+background.js:54 BobCat - Life is a Miracle: An Essay Against Modern Superstition
+background.js:55 http://bobcat.library.nyu.edu/primo-explore/search?query=any,contains,Life%20is%20a%20Miracle:%20An%20Essay%20Against%20Modern%20Superstition&tab=all&search_scope=all&sortby=rank&vid=NYU&lang=en_US&mode=basic
+background.js:56 1
+background.js:57 1575874946623.072
+background.js:58 74157686.92797852
+background.js:59 21 hour
+background.js:53 197
+background.js:54 bobcat.library.nyu.edu/primo-explore/search?institution=NYU&vid=NYU&tab=all&search_scope=all&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&displayField=all&primoQueryTemp=Life is a Miracle: An Essay Against Modern Superstition&query=any,contains,Life is a Miracle: An Essay Against Modern Superstition&sortby=rank&lang=en_US
+background.js:55 http://bobcat.library.nyu.edu/primo-explore/search?institution=NYU&vid=NYU&tab=all&search_scope=all&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&displayField=all&primoQueryTemp=Life%20is%20a%20Miracle:%20An%20Essay%20Against%20Modern%20Superstition&query=any,contains,Life%20is%20a%20Miracle:%20An%20Essay%20Against%20Modern%20Superstition&sortby=rank&lang=en_US
+background.js:56 1
+background.js:57 1575874946019.215
+background.js:58 74158290.78491211
+background.js:59 21 hour
+background.js:53 198
+background.js:54 
+background.js:55 http://bobcat.library.nyu.edu/primo-explore/search?institution=NYU&vid=NYU&tab=all&search_scope=all&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&displayField=all&primoQueryTemp=Life%20is%20a%20Miracle%3A%20An%20Essay%20Against%20Modern%20Superstition&query=any,contains,Life%20is%20a%20Miracle%3A%20An%20Essay%20Against%20Modern%20Superstition&sortby=rank&lang=en_US
+background.js:56 1
+background.js:57 1575874945169.231
+background.js:58 74159142.76904297
+background.js:59 21 hour
+background.js:53 199
+background.js:54 An Antidote to Dissatisfaction - YouTube
+background.js:55 https://www.youtube.com/watch?v=WPPPFqsECz0
+background.js:56 1
+background.js:57 1575874291485.62
+background.js:58 74812827.37988281
+background.js:59 21 hour
+background.js:53 200
+background.js:54 HOW TO Give a Great Presentation - 7 Presentation Skills and Tips to Leave an Impression - YouTube
+background.js:55 https://www.youtube.com/watch?v=MnIPpUiTcRc
+background.js:56 1
+background.js:57 1575873605581.8
+background.js:58 75498732.19995117
+background.js:59 21 hour
+background.js:53 201
+background.js:54 make presentation better - YouTube
+background.js:55 https://www.youtube.com/results?search_query=make+presentation+better
+background.js:56 1
+background.js:57 1575873595591.1008
+background.js:58 75508722.89916992
+background.js:59 21 hour
+background.js:53 202
+background.js:54 Loneliness - YouTube
+background.js:55 https://www.youtube.com/watch?v=n3Xv_g3g-mA
+background.js:56 1
+background.js:57 1575873594705.727
+background.js:58 75509609.27294922
+background.js:59 21 hour
+background.js:53 203
+background.js:54 Zach King: The storyteller in all of us | TEDxPortland - YouTube
+background.js:55 https://www.youtube.com/watch?v=VMIpxqeoI1c
+background.js:56 1
+background.js:57 1575873095782.196
+background.js:58 76008533.80395508
+background.js:59 21 hour
+background.js:53 204
+background.js:54 Without You - YouTube
+background.js:55 https://www.youtube.com/watch?v=rrJtqh80rTQ
+background.js:56 1
+background.js:57 1575872430488.132
+background.js:58 76673828.86791992
+background.js:59 21 hour
+background.js:53 205
+background.js:54 Oh Wonder - I Wish I Never Met You - YouTube
+background.js:55 https://www.youtube.com/watch?v=DwRYh8lBjCI
+background.js:56 3
+background.js:57 1575872430486.424
+background.js:58 76673830.57592773
+background.js:59 21 hour
+background.js:53 206
+background.js:54 I Wish I Never Met You - YouTube
+background.js:55 https://www.youtube.com/watch?v=urAjea_4a3s
+background.js:56 1
+background.js:57 1575872373674.144
+background.js:58 76730643.85595703
+background.js:59 21 hour
+background.js:53 207
+background.js:54 Superorganism - live (Full Show HiRes) @ Eurockéennes de Belfort – ARTE Concert - YouTube
+background.js:55 https://www.youtube.com/watch?v=6HchLK9Ndq0
+background.js:56 1
+background.js:57 1575872348577.456
+background.js:58 76755741.54394531
+background.js:59 21 hour
+background.js:53 208
+background.js:54 19個簡單又實用的心理學小技巧 - YouTube
+background.js:55 https://www.youtube.com/watch?v=560KrHxyge8
+background.js:56 1
+background.js:57 1575872293578.383
+background.js:58 76810740.61694336
+background.js:59 21 hour
+background.js:53 209
+background.js:54 powerpoint best - YouTube
+background.js:55 https://www.youtube.com/results?search_query=powerpoint+best
+background.js:56 1
+background.js:57 1575872243355.0562
+background.js:58 76860964.94384766
+background.js:59 21 hour
+background.js:53 210
+background.js:54 Google Slides
+background.js:55 https://docs.google.com/presentation/u/1/?tgif=d
+background.js:56 1
+background.js:57 1575872228705.807
+background.js:58 76875615.19311523
+background.js:59 21 hour
+background.js:53 211
+background.js:54 Google Slides
+background.js:55 https://docs.google.com/presentation/u/1/
+background.js:56 1
+background.js:57 1575872228539.358
+background.js:58 76875781.64208984
+background.js:59 21 hour
+background.js:53 212
+background.js:54 Google Slides
+background.js:55 https://docs.google.com/presentation/u/1/?usp=slides_ald
+background.js:56 1
+background.js:57 1575872228150.0872
+background.js:58 76876171.9128418
+background.js:59 21 hour
+background.js:53 213
+background.js:54 Google
+background.js:55 https://www.google.com/webhp?authuser=2
+background.js:56 60
+background.js:57 1575872221800.7468
+background.js:58 76882522.25317383
+background.js:59 21 hour
+background.js:53 214
+background.js:54 gris-gris - Google Search
+background.js:55 https://www.google.com/search?q=gris-gris&sxsrf=ACYBGNTZCll7IkOq4yC-jqeo0NK63HGT7w:1575870814785&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjp9YGh8KfmAhVwx1kKHTHiA5AQ_AUoAXoECBEQAw&biw=802&bih=766
+background.js:56 2
+background.js:57 1575870833369.176
+background.js:58 78270954.82397461
+background.js:59 22 hour
+background.js:53 215
+background.js:54 gris-gris - Google Search
+background.js:55 https://www.google.com/search?q=gris-gris&oq=gris-gris&aqs=chrome..69i57j0l7.372j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575870831355.312
+background.js:58 78272968.68798828
+background.js:59 22 hour
+background.js:53 216
+background.js:54 Articles On How To Boost Your Online Presence | Websites.ca Blog
+background.js:55 https://business.websites.ca/ideas-and-news/?r=497
+background.js:56 1
+background.js:57 1575870733363.3572
+background.js:58 78370961.64282227
+background.js:59 22 hour
+background.js:53 217
+background.js:54 bone conduction headphones - Google Search
+background.js:55 https://www.google.com/search?q=bone+conduction+headphones&oq=bone+conduc&aqs=chrome.1.0l2j69i57j0l5.3641j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575870592132.043
+background.js:58 78512193.95703125
+background.js:59 22 hour
+background.js:53 218
+background.js:54 Collaborators
+background.js:55 https://github.com/sessions/sudo
+background.js:56 3
+background.js:57 1575869410717.843
+background.js:58 79693609.15698242
+background.js:59 22 hour
+background.js:53 219
+background.js:54 Confirm password
+background.js:55 https://github.com/shujuuu/Data-Art-Finals/settings
+background.js:56 4
+background.js:57 1575869398597.6802
+background.js:58 79705730.31982422
+background.js:59 22 hour
+background.js:53 220
+background.js:54 Inviting collaborators to a personal repository - GitHub Help
+background.js:55 https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository
+background.js:56 2
+background.js:57 1575869376703.574
+background.js:58 79727625.42602539
+background.js:59 22 hour
+background.js:53 221
+background.js:54 add collaborator github - Google Search
+background.js:55 https://www.google.com/search?q=add+collaborator+github&oq=add+collaborator+github&aqs=chrome..69i57j0l7.3384j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575869375848.845
+background.js:58 79728481.1550293
+background.js:59 22 hour
+background.js:53 222
+background.js:54 Options
+background.js:55 https://github.com/shujuuu/Data-Art-Finals
+background.js:56 7
+background.js:57 1575869348236.4832
+background.js:58 79756093.5168457
+background.js:59 22 hour
+background.js:53 223
+background.js:54 Contributors to shujuuu/Data-Art-Finals
+background.js:55 https://github.com/shujuuu/Data-Art-Finals/graphs/contributors
+background.js:56 1
+background.js:57 1575869324171.984
+background.js:58 79780159.01611328
+background.js:59 22 hour
+background.js:53 224
+background.js:54 ITP Thesis Week 2019: Jenna Xu - Self-Portrait as Allegory of on Vimeo
+background.js:55 https://vimeo.com/336817760
+background.js:56 2
+background.js:57 1575869283377.128
+background.js:58 79820954.87207031
+background.js:59 22 hour
+background.js:53 225
+background.js:54 Self-Portrait as Allegory of jenna xu in videos on Vimeo
+background.js:55 https://vimeo.com/search?q=Self-Portrait+as+Allegory+of+jenna+xu
+background.js:56 2
+background.js:57 1575869258030.866
+background.js:58 79846301.1340332
+background.js:59 22 hour
+background.js:53 226
+background.js:54 Search on Vimeo
+background.js:55 https://vimeo.com/search
+background.js:56 7
+background.js:57 1575869251894.403
+background.js:58 79852438.59692383
+background.js:59 22 hour
+background.js:53 227
+background.js:54 A Vociferous Silence itp in videos on Vimeo
+background.js:55 https://vimeo.com/search?q=A+Vociferous+Silence+itp
+background.js:56 3
+background.js:57 1575869218911.209
+background.js:58 79885422.79101562
+background.js:59 22 hour
+background.js:53 228
+background.js:54 ITP Thesis Week 2019: Jiyao Zhang - A Vociferous Silence on Vimeo
+background.js:55 https://vimeo.com/337314015
+background.js:56 2
+background.js:57 1575868640502.337
+background.js:58 80463832.66308594
+background.js:59 22 hour
+background.js:53 229
+background.js:54 ITP Thesis Week 2019: Yeonhee Lee - Design System Starter Tool with AI on Vimeo
+background.js:55 https://vimeo.com/336836844
+background.js:56 2
+background.js:57 1575868417212.836
+background.js:58 80687123.1640625
+background.js:59 22 hour
+background.js:53 230
+background.js:54 Design System Starter Tool with AI itp in videos on Vimeo
+background.js:55 https://vimeo.com/search?q=Design+System+Starter+Tool+with+AI+itp
+background.js:56 2
+background.js:57 1575868414799.0662
+background.js:58 80689537.93383789
+background.js:59 22 hour
+background.js:53 231
+background.js:54 ITP Thesis Week 2019: Luna Olavarria Gallegos - HOUSE PARTY FEDERATION on Vimeo
+background.js:55 https://vimeo.com/336826667
+background.js:56 2
+background.js:57 1575868307844.36
+background.js:58 80796492.63989258
+background.js:59 22 hour
+background.js:53 232
+background.js:54 HOUSE PARTY FEDERATION itp in videos on Vimeo
+background.js:55 https://vimeo.com/search?q=HOUSE+PARTY+FEDERATION+itp
+background.js:56 2
+background.js:57 1575868305303.4648
+background.js:58 80799034.53515625
+background.js:59 22 hour
+background.js:53 233
+background.js:54 HOUSE PARTY FEDERATION in videos on Vimeo
+background.js:55 https://vimeo.com/search?q=HOUSE+PARTY+FEDERATION
+background.js:56 2
+background.js:57 1575868299720.784
+background.js:58 80804619.21606445
+background.js:59 22 hour
+background.js:53 234
+background.js:54 ITP Thesis Week 2019: Yang Yang - Magical Pencil on Vimeo
+background.js:55 https://vimeo.com/337309331
+background.js:56 2
+background.js:57 1575867555733.957
+background.js:58 81548606.04296875
+background.js:59 23 hour
+background.js:53 235
+background.js:54 Magical Pencil yang yang in videos on Vimeo
+background.js:55 https://vimeo.com/search?q=Magical+Pencil+yang+yang
+background.js:56 2
+background.js:57 1575867552435.3599
+background.js:58 81551905.64013672
+background.js:59 23 hour
+background.js:53 236
+background.js:54 ITP Thesis Week 2019: Jesse Simpson - LIME - Light Interface for Musical Expression on Vimeo
+background.js:55 https://vimeo.com/336826498
+background.js:56 2
+background.js:57 1575867159995.165
+background.js:58 81944346.83496094
+background.js:59 23 hour
+background.js:53 237
+background.js:54 LIME: Light Interface for Musical Expression itp in videos on Vimeo
+background.js:55 https://vimeo.com/search?q=LIME%3A+Light+Interface+for+Musical+Expression+itp
+background.js:56 2
+background.js:57 1575867158067.779
+background.js:58 81946274.22094727
+background.js:59 23 hour
+background.js:53 238
+background.js:54 ITP Thesis Week - Simon Jensen - Safety Last on Vimeo
+background.js:55 https://vimeo.com/337314328
+background.js:56 2
+background.js:57 1575866543801.73
+background.js:58 82560541.27001953
+background.js:59 23 hour
+background.js:53 239
+background.js:54 Safety Last simon jensen itp - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNRjbMi4eLlJ7qf8Yd6zW7Ce-e2k2A%3A1575866484371&ei=dNDtXfShFpLU5gKO5p6QCw&q=Safety+Last+simon+jensen+itp&oq=Safety+Last+simon+jensen+itp&gs_l=psy-ab.3...29185.32523..32708...4.0..0.139.1667.15j4......0....2j1..gws-wiz.......35i39j0j0i22i30j0i22i10i30j33i160j33i299j33i22i29i30.PPaHzxzkHX8&ved=0ahUKEwj0q46Q4KfmAhUSqlkKHQ6zB7IQ4dUDCAs&uact=5
+background.js:56 2
+background.js:57 1575866539144.1418
+background.js:58 82565199.8581543
+background.js:59 23 hour
+background.js:53 240
+background.js:54 MOHAMMAD hafiyyandi itp - Google Search
+background.js:55 https://www.google.com/search?q=MOHAMMAD+hafiyyandi+itp&oq=MOHAMMAD+hafiyyandi+itp&aqs=chrome..69i57.14726j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 3
+background.js:57 1575866505064.142
+background.js:58 82599280.85791016
+background.js:59 23 hour
+background.js:53 241
+background.js:54 MOHAMMAD | ITP Thesis Week 2019
+background.js:55 https://itp.nyu.edu/shows/thesis2019/mohammad/
+background.js:56 1
+background.js:57 1575866502700.218
+background.js:58 82601644.78198242
+background.js:59 23 hour
+background.js:53 242
+background.js:54 ITP Thesis Week 2019: Barak Chamo - An Instrument of Value on Vimeo
+background.js:55 https://vimeo.com/337308528
+background.js:56 2
+background.js:57 1575865749674.469
+background.js:58 83354671.53100586
+background.js:59 23 hour
+background.js:53 243
+background.js:54 barak chamo itp in videos on Vimeo | Vimeo
+background.js:55 https://vimeo.com/search?q=barak+chamo+itp
+background.js:56 1
+background.js:57 1575865746411.0762
+background.js:58 83357936.92382812
+background.js:59 23 hour
+background.js:53 244
+background.js:54 barak chamo in videos on Vimeo
+background.js:55 https://vimeo.com/search?q=barak+chamo
+background.js:56 2
+background.js:57 1575865742532.68
+background.js:58 83361815.32006836
+background.js:59 23 hour
+background.js:53 245
+background.js:54 A Range of Fine Examples of Thesis Projects 2019, Faculty Picks - Google Docs
+background.js:55 https://docs.google.com/document/d/1youPmqkQEIFBde24cF2SDmyZqiWgeVYlVutA9m-EPUc/edit
+background.js:56 6
+background.js:57 1575865720253.698
+background.js:58 83384095.30200195
+background.js:59 23 hour
+background.js:53 246
+background.js:54 A Range of Fine Examples of Thesis Projects 2019, Faculty Picks - Google Docs
+background.js:55 https://docs.google.com/document/u/1/d/1youPmqkQEIFBde24cF2SDmyZqiWgeVYlVutA9m-EPUc/edit
+background.js:56 5
+background.js:57 1575865720227.416
+background.js:58 83384122.58398438
+background.js:59 23 hour
+background.js:53 247
+background.js:54 dan oved itp - Google Search
+background.js:55 https://www.google.com/search?q=dan+oved+itp&oq=dan+oved+itp&aqs=chrome..69i57.3295j0j9&sourceid=chrome&ie=UTF-8
+background.js:56 2
+background.js:57 1575864936817.0928
+background.js:58 84167533.90722656
+background.js:59 23 hour
+background.js:53 248
+background.js:54 anthony bui itp - Google Search
+background.js:55 https://www.google.com/search?q=anthony+bui+itp&oq=anthony+bui&aqs=chrome.2.69i57j0l7.5143j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 5
+background.js:57 1575864930115.446
+background.js:58 84174236.55395508
+background.js:59 23 hour
+background.js:53 249
+background.js:54 yuan hao itp - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNR0_CjXWgz_QvRFAyZEjUEcz-uRpQ%3A1575864067092&ei=A8ftXdSdBavm_QaFyo6oDw&q=yuan+hao+itp&oq=yuan+hao+itp&gs_l=psy-ab.3...5717.6923..7211...0.0..0.227.1233.10j0j2......0....1..gws-wiz.......35i39j0i7i30j35i304i39j0i13j0i8i7i10i30j0i8i10i30.EYUZP4Oh8Ck&ved=0ahUKEwiUq7uP16fmAhUrc98KHQWlA_UQ4dUDCAs&uact=5
+background.js:56 4
+background.js:57 1575864924551.381
+background.js:58 84179801.61889648
+background.js:59 23 hour
+background.js:53 250
+background.js:54 hao yuan itp - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNQN9FqkYl7kRsM_eVd2OSPkmoX42Q%3A1575864874610&ei=KsrtXcjtJIGE5wKdxpawCw&q=hao+yuan+itp&oq=hao+yuan+itp&gs_l=psy-ab.3...2064.3220..3461...0.0..0.124.771.8j1......0....1..gws-wiz.......35i39j0i7i30.fZeve5_wfFo&ved=0ahUKEwjIqsKQ2qfmAhUBwlkKHR2jBbYQ4dUDCAs&uact=5
+background.js:56 2
+background.js:57 1575864916345.5059
+background.js:58 84188007.49414062
+background.js:59 23 hour
+background.js:53 251
+background.js:54 ITP Thesis Week 2019
+background.js:55 https://itp.nyu.edu/shows/thesis2019/
+background.js:56 2
+background.js:57 1575864910902.499
+background.js:58 84193451.50097656
+background.js:59 23 hour
+background.js:53 252
+background.js:54 Ultimate “Mobile-First” Design | ITP Thesis Week 2019
+background.js:55 https://itp.nyu.edu/shows/thesis2019/ultimate-aeoemobile-firstae%c2%9d-design/
+background.js:56 1
+background.js:57 1575864907243.218
+background.js:58 84197111.78198242
+background.js:59 23 hour
+background.js:53 253
+background.js:54 ITP Thesis Week 2019: Anthony Bui - Overcoming Play Inertia on Vimeo
+background.js:55 https://vimeo.com/337313562
+background.js:56 2
+background.js:57 1575864086209.852
+background.js:58 85018145.14794922
+background.js:59 24 hour
+background.js:53 254
+background.js:54 Google Translate
+background.js:55 https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text=Refutation
+background.js:56 1
+background.js:57 1575863835977.823
+background.js:58 85268378.17700195
+background.js:59 24 hour
+background.js:53 255
+background.js:54 Superstition (Pendergast, #1) by Douglas Preston
+background.js:55 https://www.goodreads.com/book/show/219618.Superstition?from_search=true&qid=SWfI9QtSDv&rank=61
+background.js:56 1
+background.js:57 1575863577690.792
+background.js:58 85526666.20800781
+background.js:59 24 hour
+background.js:53 256
+background.js:54 Search results for "superstition" (showing 61-80 of 1982 books)
+background.js:55 https://www.goodreads.com/search?page=4&q=superstition&qid=SWfI9QtSDv&tab=books
+background.js:56 1
+background.js:57 1575863567316.979
+background.js:58 85537041.0209961
+background.js:59 24 hour
+background.js:53 257
+background.js:54 The Luck Archive: Exploring Belief, Superstition, and Tradition by Mark Menjivar
+background.js:55 https://www.goodreads.com/book/show/21413985-the-luck-archive?from_search=true&qid=SWfI9QtSDv&rank=58
+background.js:56 1
+background.js:57 1575863559503.795
+background.js:58 85544855.20507812
+background.js:59 24 hour
+background.js:53 258
+background.js:54 Murdered by Superstition: Liz Lucas Cozy Mystery Series by Dianne Harman
+background.js:55 https://www.goodreads.com/book/show/40817837-murdered-by-superstition?from_search=true&qid=SWfI9QtSDv&rank=48
+background.js:56 1
+background.js:57 1575863531538.27
+background.js:58 85572821.72998047
+background.js:59 24 hour
+background.js:53 259
+background.js:54 Black Cats and Evil Eyes: A Book of Old-Fashioned Superstitions by Chloe Rhodes
+background.js:55 https://www.goodreads.com/book/show/15956007-black-cats-and-evil-eyes?from_search=true&qid=SWfI9QtSDv&rank=43
+background.js:56 1
+background.js:57 1575863514282.909
+background.js:58 85590077.09106445
+background.js:59 24 hour
+background.js:53 260
+background.js:54 Search results for "superstition" (showing 41-60 of 1982 books)
+background.js:55 https://www.goodreads.com/search?page=3&q=superstition&qid=SWfI9QtSDv&tab=books
+background.js:56 1
+background.js:57 1575863489658.822
+background.js:58 85614702.17797852
+background.js:59 24 hour
+background.js:53 261
+background.js:54 The Last Superstition: A Refutation of the New Atheism by Edward Feser
+background.js:55 https://www.goodreads.com/book/show/3382380-the-last-superstition?from_search=true&qid=SWfI9QtSDv&rank=21
+background.js:56 1
+background.js:57 1575863467211.536
+background.js:58 85637150.46411133
+background.js:59 24 hour
+background.js:53 262
+background.js:54 Search results for "superstition" (showing 21-40 of 1982 books)
+background.js:55 https://www.goodreads.com/search?page=2&q=superstition&qid=SWfI9QtSDv&tab=books
+background.js:56 1
+background.js:57 1575863450511.7869
+background.js:58 85653851.21313477
+background.js:59 24 hour
+background.js:53 263
+background.js:54 Search results for "superstition" (showing 1-20 of 1982 books)
+background.js:55 https://www.goodreads.com/search?q=superstition&qid=SWfI9QtSDv
+background.js:56 1
+background.js:57 1575863409242.5771
+background.js:58 85695121.42285156
+background.js:59 24 hour
+background.js:53 264
+background.js:54 8,414 Strange and Fascinating Superstitions by Claudia DeLys
+background.js:55 https://www.goodreads.com/en/book/show/714209.8_414_Strange_and_Fascinating_Superstitions
+background.js:56 2
+background.js:57 1575863396793.9292
+background.js:58 85707571.07080078
+background.js:59 24 hour
+background.js:53 265
+background.js:54 Folklore of American Holidays: A Compilation of More Than 600 Beliefs, Legends, Superstitions, Proverbs, Riddles, Poems, Songs, Dances, Games, Plays, Pageants, Fairs, Foods and Processions by Hennig Cohen
+background.js:55 https://www.goodreads.com/book/show/1412167.Folklore_of_American_Holidays?ac=1&from_search=true&qid=NGCIOEH1sX&rank=2
+background.js:56 1
+background.js:57 1575863392653.018
+background.js:58 85711712.9819336
+background.js:59 24 hour
+background.js:53 266
+background.js:54 Billie Eilish - everything i wanted (Audio) - YouTube
+background.js:55 https://www.youtube.com/watch?v=qCTMq7xvdXU
+background.js:56 1
+background.js:57 1575863139793.9849
+background.js:58 85964573.01513672
+background.js:59 24 hour
+background.js:53 267
+background.js:54 張震嶽 ayal komod【念念不忘 Never Forgotten About Her】Official Music Video - YouTube
+background.js:55 https://www.youtube.com/watch?v=kzlBkiG4yGI
+background.js:56 3
+background.js:57 1575863139792.388
+background.js:58 85964575.61206055
+background.js:59 24 hour
+background.js:53 268
+background.js:54 White: Kenya Hara: 8601405697691: Amazon.com: Books
+background.js:55 https://www.amazon.com/White-Kenya-Hara/dp/3037781831
+background.js:56 1
+background.js:57 1575863139174.428
+background.js:58 85965194.57202148
+background.js:59 24 hour
+background.js:53 269
+background.js:54 The White which: A Novel Kenya Hara - Google Search
+background.js:55 https://www.google.com/search?sa=X&biw=928&bih=766&sxsrf=ACYBGNTHU25k-_VUZDw4gaF26pq0sHbSJg:1575863107850&q=The+White+which:+A+Novel+Kenya+Hara&stick=H4sIAAAAAAAAAONgFuLSz9U3MDHPM6soV-LVT9c3NMwwzsk2q8go05LKTrbST8rPz9ZPLC3JyC-yArGLFfLzcioXsSqHZKQqhGdklqQqlGdkJmdYKTgq-OWXpeYoeKfmVSYqeCQWJe5gZQQA1SojGmIAAAA&npsic=0&ved=2ahUKEwif6ofG06fmAhURh-AKHZedDMkQ-BYwHXoECA8QOQ&tbs=kac:1ac_so:1
+background.js:56 2
+background.js:57 1575863130679.597
+background.js:58 85973689.40307617
+background.js:59 24 hour
+background.js:53 270
+background.js:54 kenya hara books - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNR-BkuTw6cRngu7R7YwM8Nd4EXeiQ:1575863099098&q=kenya+hara+books&stick=H4sIAAAAAAAAAONgFuLSz9U3MDHPM6soV0Jia0llJ1vpJ-XnZ-snlpZk5BdZgdjFCvl5OZWLWAWyU_MqExUyEosSFcDiO1gZATpWR3NMAAAA&sa=X&ved=2ahUKEwirx_HB06fmAhVikeAKHTvZBgYQzTooATAaegQIExAC&sxsrf=ACYBGNR-BkuTw6cRngu7R7YwM8Nd4EXeiQ:1575863099098&biw=928&bih=766
+background.js:56 2
+background.js:57 1575863123993.675
+background.js:58 85980376.32495117
+background.js:59 24 hour
+background.js:53 271
+background.js:54 原研哉 - Google Search
+background.js:55 https://www.google.com/search?sxsrf=ACYBGNSNHV_dwiZpCsslKIdvrtwHliTqqA%3A1575863036677&ei=_MLtXbfGKNCk_Qa__YbQDw&q=%E5%8E%9F%E7%A0%94%E5%93%89&oq=%E5%8E%9F%E7%A0%94%E5%93%89&gs_l=psy-ab.3..0i67l2j0l8.16011.18528..18753...0.0..0.77.403.6......0....1..gws-wiz.......35i39.i5i3wryGwtA&ved=0ahUKEwi3tI-k06fmAhVQUt8KHb--AfoQ4dUDCAs&uact=5
+background.js:56 2
+background.js:57 1575863115479.779
+background.js:58 85988891.22094727
+background.js:59 24 hour
+background.js:53 272
+background.js:54 白 原研哉pdf - Google Search
+background.js:55 https://www.google.com/search?q=%E7%99%BD+%E5%8E%9F%E7%A0%94%E5%93%89pdf&oq=%E7%99%BD+&aqs=chrome.0.69i59l2j69i57j0l2j69i60j69i61l2.7619j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 6
+background.js:57 1575863095021.865
+background.js:58 86009350.13500977
+background.js:59 24 hour
+background.js:53 273
+background.js:54 《白》（原研哉）pdf下载_爱问共享资料
+background.js:55 http://m.ishare.iask.sina.com.cn/f/66721806.html
+background.js:56 3
+background.js:57 1575863088544.6729
+background.js:58 86015828.32714844
+background.js:59 24 hour
+background.js:53 274
+background.js:54 白～原研哉.pdf百度云网盘下载 - pdf资源分享
+background.js:55 http://www.yunpangou.com/114842303591669604
+background.js:56 2
+background.js:57 1575863076588.64
+background.js:58 86027785.36010742
+background.js:59 24 hour
+background.js:53 275
+background.js:54 白～原研哉.pdf百度云网盘下载 - pdf资源分享
+background.js:55 http://www.yunpangou.com/113943658311513918
+background.js:56 1
+background.js:57 1575863068981.124
+background.js:58 86035392.87597656
+background.js:59 24 hour
+background.js:53 276
+background.js:54 民俗与迷信 (豆瓣)
+background.js:55 https://book.douban.com/subject/1060126/
+background.js:56 2
+background.js:57 1575863037681.501
+background.js:58 86066693.49902344
+background.js:59 24 hour
+background.js:53 277
+background.js:54 s1065410.jpg (252×425)
+background.js:55 https://img3.doubanio.com/view/subject/l/public/s1065410.jpg
+background.js:56 1
+background.js:57 1575863032527.119
+background.js:58 86071848.88110352
+background.js:59 24 hour
+background.js:53 278
+background.js:54 博客來-對禁忌與迷信的101個問題
+background.js:55 https://www.books.com.tw/products/0010316307
+background.js:56 1
+background.js:57 1575862983548.754
+background.js:58 86120828.24609375
+background.js:59 24 hour
+background.js:53 279
+background.js:54 迷信 書 - Google Search
+background.js:55 https://www.google.com/search?q=%E8%BF%B7%E4%BF%A1+%E6%9B%B8&oq=%E8%BF%B7%E4%BF%A1+%E6%9B%B8&aqs=chrome..69i57j33.5672j0j7&sourceid=chrome&ie=UTF-8
+background.js:56 4
+background.js:57 1575862965267.711
+background.js:58 86139109.2890625
+background.js:59 24 hour
+background.js:53 280
+background.js:54 博客來-目前您搜尋的關鍵字為: 迷信
+background.js:55 https://search.books.com.tw/search/query/cat/all/key/%E8%BF%B7%E4%BF%A1/sort/1/page/3/v/0/
+background.js:56 1
+background.js:57 1575862897111.089
+background.js:58 86207266.91088867
+background.js:59 24 hour
+background.js:53 281
+background.js:54 博客來-[W2Design] 好好生活2020農民曆A5週記事手帳-好運藍
+background.js:55 https://www.books.com.tw/products/N001100313
+background.js:56 1
+background.js:57 1575862866834.7012
+background.js:58 86237544.29882812
+background.js:59 24 hour
+background.js:53 282
+background.js:54 博客來-目前您搜尋的關鍵字為: 迷信
+background.js:55 https://search.books.com.tw/search/query/cat/all/key/%E8%BF%B7%E4%BF%A1/sort/1/page/2/v/0/
+background.js:56 1
+background.js:57 1575862843661.229
+background.js:58 86260718.7709961
+background.js:59 24 hour
+
+]))))")")")")))]]])]])
